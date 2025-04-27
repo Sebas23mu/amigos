@@ -208,3 +208,34 @@
 [19:34:18] [Server thread/INFO]: jp7806073 joined the game
 [19:34:18] [Server thread/INFO]: jp7806073[/127.134.27.178:49671] logged in with entity id 17770 at ([world]-9.862529483527831, 64.09835927353836, 30.960345238660366)
 [19:34:27] [Server thread/INFO]: jp7806073 issued server command: /home A1
+[19:36:21] [Server thread/INFO]: jp7806073 issued server command: /home C1
+[19:38:07] [Server thread/INFO]: Sebas23m issued server command: /gamemode spectator
+[19:38:07] [Server thread/INFO]: [Sebas23m: Set own game mode to Spectator Mode]
+[19:39:06] [Server thread/INFO]: Sebas23m issued server command: /gamemode survival
+[19:39:06] [Server thread/INFO]: [Sebas23m: Set own game mode to Survival Mode]
+[19:39:35] [User Authenticator #11/INFO]: UUID of player Sebas23m is 05baa57d-e0e2-3245-950d-ef017ffd725d
+[19:39:35] [Server thread/INFO]: Sebas23m lost connection: You logged in from another location
+[19:39:35] [Server thread/INFO]: Sebas23m left the game
+[19:39:36] [Server thread/INFO]: Sebas23m joined the game
+[19:39:36] [Server thread/INFO]: Sebas23m[/127.50.210.97:48049] logged in with entity id 20043 at ([world_nether]-234.51951790193428, 87.0, -74.4732076095399)
+[19:40:11] [Server thread/INFO]: Sebas23m lost connection: Disconnected
+[19:40:11] [Server thread/INFO]: Sebas23m left the game
+[19:40:18] [User Authenticator #11/INFO]: UUID of player Sebas23m is 05baa57d-e0e2-3245-950d-ef017ffd725d
+[19:40:19] [Server thread/INFO]: Sebas23m joined the game
+[19:40:19] [Server thread/INFO]: Sebas23m[/127.50.210.97:46737] logged in with entity id 20165 at ([world_nether]-236.12017843778764, 81.09395507422808, -95.25321928981641)
+[19:41:06] [Server thread/INFO]: jp7806073 was slain by Lvl 20 | Zombie
+[19:41:12] [Server thread/INFO]: Sebas23m was slain by Lvl 49 | Piglin
+[19:41:17] [Server thread/INFO]: jp7806073 issued server command: /home A1
+[19:41:43] [Server thread/INFO]: jp7806073 was slain by Sebas23m
+[19:41:53] [Server thread/INFO]: jp7806073 issued server command: /home A1
+[19:42:22] [Server thread/INFO]: Sebas23m issued server command: /gamemode spectator
+[19:42:22] [Server thread/INFO]: [Sebas23m: Set own game mode to Spectator Mode]
+[19:42:47] [Server thread/INFO]: jp7806073 issued server command: /home c11
+[19:42:49] [Server thread/INFO]: Sebas23m issued server command: /gamemode survival
+[19:42:49] [Server thread/INFO]: [Sebas23m: Set own game mode to Survival Mode]
+[19:43:16] [Server thread/INFO]: Sebas23m was slain by Lvl 41 | Enderman
+[19:43:39] [Server thread/INFO]: Sebas23m issued server command: /gamemode spectator
+[19:43:39] [Server thread/INFO]: [Sebas23m: Set own game mode to Spectator Mode]
+[19:44:00] [Server thread/INFO]: Sebas23m issued server command: /gamemode survival
+[19:44:00] [Server thread/INFO]: [Sebas23m: Set own game mode to Survival Mode]
+[19:45:16] [Server thread/INFO]: Sebas23m issued server command: /home 1
