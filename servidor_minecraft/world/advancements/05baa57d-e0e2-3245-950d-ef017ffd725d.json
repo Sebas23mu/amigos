@@ -458,6 +458,7 @@
       "minecraft:blaze": "2025-04-27 18:54:55 +0000",
       "minecraft:skeleton": "2025-04-27 04:18:07 +0000",
       "minecraft:piglin": "2025-04-27 18:37:26 +0000",
+      "minecraft:enderman": "2025-04-27 19:07:05 +0000",
       "minecraft:zombie": "2025-04-27 02:48:41 +0000",
       "minecraft:creeper": "2025-04-27 03:54:48 +0000"
     },
@@ -1548,6 +1549,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-04-27 18:28:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-04-27 19:07:44 +0000"
     },
     "done": true
   },
