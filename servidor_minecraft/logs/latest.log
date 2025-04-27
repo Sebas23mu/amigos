@@ -258,3 +258,23 @@
 [20:05:16] [User Authenticator #12/INFO]: UUID of player theeminence is 189e531e-636f-3356-8010-08d482d90f21
 [20:05:18] [Server thread/INFO]: theeminence joined the game
 [20:05:18] [Server thread/INFO]: theeminence[/127.149.42.123:42047] logged in with entity id 33066 at ([world]-329.51579211824674, 83.0, 170.7462654815423)
+[20:05:59] [Server thread/INFO]: theeminence lost connection: Timed out
+[20:05:59] [Server thread/INFO]: theeminence left the game
+[20:07:43] [User Authenticator #13/INFO]: UUID of player theeminence is 189e531e-636f-3356-8010-08d482d90f21
+[20:07:50] [Server thread/INFO]: theeminence joined the game
+[20:07:50] [Server thread/INFO]: theeminence[/127.149.42.123:59829] logged in with entity id 33703 at ([world]-326.5, 83.5625, 176.6201235903098)
+[20:08:18] [Server thread/INFO]: theeminence lost connection: Disconnected
+[20:08:18] [Server thread/INFO]: theeminence left the game
+[20:08:26] [User Authenticator #13/INFO]: UUID of player theeminence is 189e531e-636f-3356-8010-08d482d90f21
+[20:08:39] [Server thread/INFO]: theeminence joined the game
+[20:08:39] [Server thread/INFO]: theeminence[/127.149.42.123:58757] logged in with entity id 34070 at ([world]-326.5, 83.5625, 176.7213081172114)
+[20:09:08] [Server thread/INFO]: theeminence lost connection: Disconnected
+[20:09:08] [Server thread/INFO]: theeminence left the game
+[20:10:22] [Server thread/INFO]: Sebas23m issued server command: /home 3
+[20:11:41] [Server thread/INFO]: Sebas23m issued server command: /gamemode spectator
+[20:11:41] [Server thread/INFO]: [Sebas23m: Set own game mode to Spectator Mode]
+[20:12:21] [Server thread/INFO]: Sebas23m issued server command: /home 3
+[20:12:29] [Server thread/INFO]: Sebas23m issued server command: /gamemode survival
+[20:12:29] [Server thread/INFO]: [Sebas23m: Set own game mode to Survival Mode]
+[20:12:42] [Server thread/INFO]: Sebas23m issued server command: /tp jp7806073 Sebas23m
+[20:12:42] [Server thread/INFO]: [Sebas23m: Teleported jp7806073 to Sebas23m]
