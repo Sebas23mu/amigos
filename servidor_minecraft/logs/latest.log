@@ -168,3 +168,19 @@
 [19:08:25] [Server thread/INFO]: Sebas23m issued server command: /home 1
 [19:08:31] [Server thread/INFO]: Sebas23m issued server command: /home p
 [19:11:05] [Server thread/INFO]: Sebas23m issued server command: /home 1
+[19:18:08] [Server thread/INFO]: Sebas23m was slain by Lvl 36 | Wither Skeleton
+[19:19:07] [User Authenticator #8/INFO]: UUID of player jp7806073 is 68efd73e-a0cd-33f7-a574-2c7e5d7949df
+[19:19:11] [Server thread/INFO]: jp7806073 joined the game
+[19:19:11] [Server thread/INFO]: jp7806073[/127.134.27.178:39679] logged in with entity id 12869 at ([world]10.651623882907629, 71.0, 35.34837611709237)
+[19:19:31] [Server thread/INFO]: jp7806073 issued server command: /home A1
+[19:20:15] [Server thread/INFO]: jp7806073 has made the advancement [We Need to Go Deeper]
+[19:21:25] [Server thread/INFO]: Sebas23m was slain by Lvl 49 | Wither Skeleton
+[19:21:54] [Server thread/INFO]: Sebas23m issued server command: /tp jp7806073
+[19:21:54] [Server thread/INFO]: [Sebas23m: Teleported Sebas23m to jp7806073]
+[19:22:26] [Server thread/INFO]: jp7806073 was shot by Lvl 8 | Skeleton
+[19:23:11] [Server thread/INFO]: jp7806073 issued server command: /home A1
+[19:23:27] [Server thread/INFO]: Sebas23m was burned to a crisp while fighting Magma Cube
+[19:23:59] [Server thread/INFO]: jp7806073 has made the advancement [Ice Bucket Challenge]
+[19:24:33] [User Authenticator #9/INFO]: UUID of player theeminence is 189e531e-636f-3356-8010-08d482d90f21
+[19:24:51] [Server thread/INFO]: com.mojang.authlib.GameProfile@3b018e7b[id=189e531e-636f-3356-8010-08d482d90f21,name=theeminence,properties={textures=[Property[name=textures, value=eyJ0aW1lc3RhbXAiOjE1ODU1MzYzMDYwMTMsInByb2ZpbGVJZCI6ImUzYjQ0NWM4NDdmNTQ4ZmI4YzhmYTNmMWY3ZWZiYThlIiwicHJvZmlsZU5hbWUiOiJNaW5pRGlnZ2VyVGVzdCIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNGFhZWU2OGQzYjQ5OGViNzUzZjc1MzQ1ODEyNDk1OGYxN2E4OTc3MDNhMjNkODdlYmEzZDM0NzFhNTg1NDU0NCJ9fX0=, signature=qvcKSkct7ZX/4VNcG9qyyi9tu6/5pK0Kh2uHib+LzdlmpGGfZ1vx1K8llUwa94vCgJmYc13hApyZEbmJj6Vg3VevroHNQtBXybGBMs2V8XSwf+leTwPU6HPEaQfMerG1/5KKtJkBhWCfL3/rqOxJwKY0KscRkxPCPZJc4nVo/Hj1SlIcXSXyeqgY7n98mY0pUO3EeRSEUvJQgmlc00KaJ6RX6iPwuivbL1lGPfy2bBqpdwOnTX3tnO0BJX5TWYatlroCPtufzqYIkFp9KbGJMdrAZPn8Evp+6UrjCX+sKxH8wsmvls2AiBUkrA/30XyVT2Vs4hynwwoCIVIVcJiQeAwVJnpVoPyGP3Lj25aztwvZQGX6dekNB02rW500A7acLoBJ9te3qJUdsZMFi6V4KYgtzHhknixB7FgrbZyFlpgcg/ckjaVmhrDKLNd2u7BRgz6//jRh5XFicadAAsitpmJP1gzQ54LcSWHtrISvD+L0CHyh/9juDjpApu2F/E/FSaYBDdTmx2dEWMN/IE/xuTDPgdBUG1G/nR52llxxFqB8EukK/ypQAWfNfMqnOlggVW8H4kpSDdBMFC36hXaAFsuhfmbQw1Bx+G+DYT9tW9xeESQCIBS1/FevBLYMSqd0WLEd8t+ZNmJ8ULzdNYZQYD6KfnTn8sdMbC/AlhYG5zI=]]}] lost connection: Timed out
+[19:25:06] [User Authenticator #9/INFO]: UUID of player theeminence is 189e531e-636f-3356-8010-08d482d90f21
