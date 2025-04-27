@@ -141,3 +141,10 @@
 [18:21:53] [Server thread/INFO]: theeminence left the game
 [18:22:31] [Server thread/INFO]: Sebas23m has made the advancement [We Need to Go Deeper]
 [18:24:18] [User Authenticator #6/INFO]: UUID of player theeminence is 189e531e-636f-3356-8010-08d482d90f21
+[18:24:30] [Server thread/INFO]: theeminence joined the game
+[18:24:30] [Server thread/INFO]: theeminence[/127.149.42.123:34953] logged in with entity id 4136 at ([world]-329.51579211824674, 83.0, 170.7462654815423)
+[18:25:12] [Server thread/INFO]: theeminence lost connection: Disconnected
+[18:25:12] [Server thread/INFO]: theeminence left the game
+[18:34:07] [User Authenticator #7/INFO]: UUID of player theeminence is 189e531e-636f-3356-8010-08d482d90f21
+[18:34:16] [Server thread/INFO]: theeminence joined the game
+[18:34:16] [Server thread/INFO]: theeminence[/127.149.42.123:56109] logged in with entity id 5542 at ([world]-329.51579211824674, 83.0, 170.7462654815423)
