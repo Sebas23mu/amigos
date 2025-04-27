@@ -309,3 +309,28 @@
 [20:42:57] [Server thread/INFO]: com.mojang.authlib.GameProfile@c5f406e[id=189e531e-636f-3356-8010-08d482d90f21,name=theeminence,properties={textures=[Property[name=textures, value=eyJ0aW1lc3RhbXAiOjE1ODU1MzYzMDYwMTMsInByb2ZpbGVJZCI6ImUzYjQ0NWM4NDdmNTQ4ZmI4YzhmYTNmMWY3ZWZiYThlIiwicHJvZmlsZU5hbWUiOiJNaW5pRGlnZ2VyVGVzdCIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNGFhZWU2OGQzYjQ5OGViNzUzZjc1MzQ1ODEyNDk1OGYxN2E4OTc3MDNhMjNkODdlYmEzZDM0NzFhNTg1NDU0NCJ9fX0=, signature=qvcKSkct7ZX/4VNcG9qyyi9tu6/5pK0Kh2uHib+LzdlmpGGfZ1vx1K8llUwa94vCgJmYc13hApyZEbmJj6Vg3VevroHNQtBXybGBMs2V8XSwf+leTwPU6HPEaQfMerG1/5KKtJkBhWCfL3/rqOxJwKY0KscRkxPCPZJc4nVo/Hj1SlIcXSXyeqgY7n98mY0pUO3EeRSEUvJQgmlc00KaJ6RX6iPwuivbL1lGPfy2bBqpdwOnTX3tnO0BJX5TWYatlroCPtufzqYIkFp9KbGJMdrAZPn8Evp+6UrjCX+sKxH8wsmvls2AiBUkrA/30XyVT2Vs4hynwwoCIVIVcJiQeAwVJnpVoPyGP3Lj25aztwvZQGX6dekNB02rW500A7acLoBJ9te3qJUdsZMFi6V4KYgtzHhknixB7FgrbZyFlpgcg/ckjaVmhrDKLNd2u7BRgz6//jRh5XFicadAAsitpmJP1gzQ54LcSWHtrISvD+L0CHyh/9juDjpApu2F/E/FSaYBDdTmx2dEWMN/IE/xuTDPgdBUG1G/nR52llxxFqB8EukK/ypQAWfNfMqnOlggVW8H4kpSDdBMFC36hXaAFsuhfmbQw1Bx+G+DYT9tW9xeESQCIBS1/FevBLYMSqd0WLEd8t+ZNmJ8ULzdNYZQYD6KfnTn8sdMbC/AlhYG5zI=]]}] lost connection: Timed out
 [20:43:36] [Async Chat Thread - #5/INFO]: [Not Secure] <jp7806073> ya vengo
 [20:45:31] [Server thread/INFO]: Sebas23m has made the advancement [Best Friends Forever]
+[20:47:02] [Server thread/INFO]: jp7806073 lost connection: Disconnected
+[20:47:02] [Server thread/INFO]: jp7806073 left the game
+[20:48:04] [Server thread/WARN]: Horse (vehicle of Sebas23m) moved wrongly! 0.34499284165082145
+[20:48:04] [Server thread/WARN]: Horse (vehicle of Sebas23m) moved wrongly! 0.5
+[20:48:04] [Server thread/WARN]: Horse (vehicle of Sebas23m) moved wrongly! 0.5
+[20:48:04] [Server thread/WARN]: Horse (vehicle of Sebas23m) moved wrongly! 0.5
+[20:48:04] [Server thread/WARN]: Horse (vehicle of Sebas23m) moved wrongly! 0.5
+[20:49:44] [User Authenticator #17/INFO]: UUID of player theeminence is 189e531e-636f-3356-8010-08d482d90f21
+[20:49:48] [Server thread/INFO]: theeminence joined the game
+[20:49:48] [Server thread/INFO]: theeminence[/127.149.42.123:41411] logged in with entity id 41998 at ([world]-330.26037531401715, 87.0, 169.70350502483112)
+[20:50:39] [Server thread/INFO]: theeminence lost connection: Disconnected
+[20:50:39] [Server thread/INFO]: theeminence left the game
+[20:51:38] [User Authenticator #18/INFO]: UUID of player theeminence is 189e531e-636f-3356-8010-08d482d90f21
+[20:51:44] [Server thread/INFO]: theeminence joined the game
+[20:51:44] [Server thread/INFO]: theeminence[/127.149.42.123:51281] logged in with entity id 42336 at ([world]-334.581000783438, 87.0, 170.04279099340104)
+[20:52:56] [Server thread/INFO]: theeminence lost connection: Disconnected
+[20:52:56] [Server thread/INFO]: theeminence left the game
+[20:53:13] [User Authenticator #19/INFO]: UUID of player theeminence is 189e531e-636f-3356-8010-08d482d90f21
+[20:53:29] [Server thread/INFO]: theeminence joined the game
+[20:53:29] [Server thread/INFO]: theeminence[/127.149.42.123:37359] logged in with entity id 42509 at ([world]-334.581000783438, 87.0, 170.04279099340104)
+[20:54:05] [Server thread/INFO]: theeminence lost connection: Disconnected
+[20:54:05] [Server thread/INFO]: theeminence left the game
+[20:55:13] [User Authenticator #20/INFO]: UUID of player theeminence is 189e531e-636f-3356-8010-08d482d90f21
+[20:55:18] [Server thread/INFO]: theeminence joined the game
+[20:55:18] [Server thread/INFO]: theeminence[/127.149.42.123:37775] logged in with entity id 42722 at ([world]-334.581000783438, 87.0, 170.04279099340104)
