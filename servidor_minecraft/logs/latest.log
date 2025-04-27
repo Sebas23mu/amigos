@@ -1,405 +1,110 @@
-[18:04:16] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.6+7-Ubuntu-120.04.1; Ubuntu null) on Linux 6.8.0-1026-azure (amd64)
-[18:04:16] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.1-57-master@b483da4 (2024-09-01T18:09:05Z) for Minecraft 1.21.1
-[18:04:16] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[18:04:17] [ServerMain/INFO]: [PluginInitializerManager] Initialized 7 plugins
-[18:04:17] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (7):
+[22:54:30] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.6+7-Ubuntu-120.04.1; Ubuntu null) on Linux 6.8.0-1026-azure (amd64)
+[22:54:30] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.1-57-master@b483da4 (2024-09-01T18:09:05Z) for Minecraft 1.21.1
+[22:54:30] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[22:54:32] [ServerMain/INFO]: [PluginInitializerManager] Initialized 7 plugins
+[22:54:32] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (7):
  - GSit (2.3.0), LevelledMobs (4.3.1 b112), LockShulker (1.0), LuckPerms (5.4.158), SkinsRestorer (15.6.2), SmoothTimber (1.27.4), UltraSetHome (1.7.9)
-[18:04:21] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[18:04:23] [ServerMain/INFO]: Loaded 1290 recipes
-[18:04:23] [ServerMain/INFO]: Loaded 1399 advancements
-[18:04:23] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[18:04:23] [Server thread/INFO]: Loading properties
-[18:04:23] [Server thread/INFO]: This server is running Paper version 1.21.1-57-master@b483da4 (2024-09-01T18:09:05Z) (Implementing API version 1.21.1-R0.1-SNAPSHOT)
-[18:04:24] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[18:04:24] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[18:04:24] [Server thread/INFO]: Using 4 threads for Netty based IO
-[18:04:25] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
-[18:04:25] [Server thread/INFO]: Default game type: SURVIVAL
-[18:04:25] [Server thread/INFO]: Generating keypair
-[18:04:25] [Server thread/INFO]: Starting Minecraft server on *:25565
-[18:04:25] [Server thread/INFO]: Using epoll channel type
-[18:04:25] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[18:04:25] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[18:04:28] [Server thread/INFO]: [SmoothTimber] Loading server plugin SmoothTimber v1.27.4
-[18:04:28] [Server thread/INFO]: [GSit] Loading server plugin GSit v2.3.0
-[18:04:28] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.4.158
-[18:04:28] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.6.2
-[18:04:28] [Server thread/INFO]: [UltraSetHome] Loading server plugin UltraSetHome v1.7.9
-[18:04:28] [Server thread/INFO]: [LockShulker] Loading server plugin LockShulker v1.0
-[18:04:28] [Server thread/INFO]: [LevelledMobs] Loading server plugin LevelledMobs v4.3.1 b112
-[18:04:28] [Server thread/INFO]: [LevelledMobs] Loading commands
-[18:04:29] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[18:04:29] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.158
-[18:04:29] [Server thread/INFO]:         __    
-[18:04:29] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.158
-[18:04:29] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
-[18:04:29] [Server thread/INFO]: 
-[18:04:29] [Server thread/INFO]: [LuckPerms] Loading configuration...
-[18:04:30] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
-[18:04:30] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
-[18:04:30] [Server thread/INFO]: [LuckPerms] Performing initial data load...
-[18:04:30] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 911ms)
-[18:04:30] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.6.2
-[18:04:31] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
-[18:04:32] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.1.
-[18:04:33] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
-[18:04:33] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[18:04:33] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[18:04:33] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[18:04:33] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[18:04:33] [Server thread/INFO]: Preparing level "world"
-[18:04:33] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[18:04:33] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[18:04:33] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
-[18:04:33] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
-[18:04:33] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
-[18:04:33] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[18:04:33] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[18:04:33] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.6.2
-[18:04:33] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: 7bda5de
-[18:04:33] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
-[18:04:33] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[18:04:33] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
-[18:04:33] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
-[18:04:33] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[18:04:34] [Server thread/INFO]: Time elapsed: 1085 ms
-[18:04:34] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[18:04:35] [Server thread/INFO]: Time elapsed: 243 ms
-[18:04:35] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[18:04:35] [Server thread/INFO]: Time elapsed: 184 ms
-[18:04:35] [Server thread/INFO]: [SmoothTimber] Enabling SmoothTimber v1.27.4
-[18:04:35] [Server thread/INFO]: SmoothTimber || You're currently using the supported Minecraft Version 1.21.1 (Core v1_20x)
-[18:04:35] [Server thread/INFO]: [GSit] Enabling GSit v2.3.0
-[18:04:35] [Server thread/INFO]: [GSit] The plugin was successfully enabled.
-[18:04:35] [Server thread/INFO]: [UltraSetHome] Enabling UltraSetHome v1.7.9
-[18:04:36] [Server thread/INFO]: [LockShulker] Enabling LockShulker v1.0
-[18:04:36] [Server thread/INFO]: [LockShulker] LockShulker включен!
-[18:04:36] [Server thread/INFO]: [LevelledMobs] Enabling LevelledMobs v4.3.1 b112
-[18:04:36] [Server thread/INFO]: [LevelledMobs] Enabling commands
-[18:04:36] [Server thread/INFO]: [LevelledMobs] Building reflection cache, use simple names: true
-[18:04:36] [Server thread/INFO]: [LevelledMobs] Using NMS version 1.21.1 for nametag support
-[18:04:36] [Server thread/INFO]: [LevelledMobs] File Loader: Loading files...
-[18:04:36] [Server thread/INFO]: [LevelledMobs] File Loader: Loading file 'settings.yml'...
-[18:04:36] [Server thread/INFO]: [LevelledMobs] File Loader: Loading file 'messages.yml'...
-[18:04:36] [Server thread/INFO]: [LevelledMobs] File Loader: Loading file 'externalplugins.yml'...
-[18:04:36] [Server thread/INFO]: [LevelledMobs] File Loader: Loading file 'rules.yml'...
-[18:04:37] [Server thread/INFO]: [LevelledMobs] Current rules hash: 9b0f48e3273bb9cc29d2891ad33fb3410fec8cf1e77c2092ff670fd38f6d4ff5
-[18:04:37] [Server thread/INFO]: [LevelledMobs] File Loader: Loading file 'customdrops.yml'...
-[18:04:37] [Server thread/INFO]: [LevelledMobs] Listeners: Registering event listeners...
-[18:04:37] [Server thread/INFO]: [LevelledMobs] Running misc procedures
-[18:04:37] [Server thread/INFO]: [LevelledMobs] Tasks: Starting async nametag auto update task...
-[18:04:37] [Server thread/INFO]: [LevelledMobs] Start-up complete (took 713ms)
-[18:04:37] [Server thread/INFO]: [spark] Starting background profiler...
-[18:04:37] [Server thread/INFO]: Done preparing level "world" (4.399s)
-[18:04:37] [Server thread/INFO]: Running delayed init tasks
-[18:04:37] [Server thread/INFO]: Done (22.276s)! For help, type "help"
-[18:04:37] [Server thread/INFO]: Timings Reset
-[18:04:37] [Server thread/INFO]: [UltraSetHome] You are using the latest version of UltraSetHome.
-[18:05:36] [User Authenticator #0/INFO]: UUID of player theeminence is 189e531e-636f-3356-8010-08d482d90f21
-[18:05:43] [Server thread/INFO]: theeminence joined the game
-[18:05:43] [Server thread/INFO]: theeminence[/127.149.42.123:37539] logged in with entity id 32 at ([world]-329.69999998807907, 83.0, 170.30000001192093)
-[18:06:36] [Server thread/INFO]: theeminence lost connection: Disconnected
-[18:06:36] [Server thread/INFO]: theeminence left the game
-[18:07:43] [User Authenticator #1/INFO]: UUID of player Sebas23m is 05baa57d-e0e2-3245-950d-ef017ffd725d
-[18:07:46] [Server thread/INFO]: Sebas23m joined the game
-[18:07:46] [Server thread/INFO]: Sebas23m[/127.50.210.97:35887] logged in with entity id 404 at ([world]-331.96298457399365, 83.0, 172.8734609567927)
-[18:08:09] [User Authenticator #1/INFO]: UUID of player theeminence is 189e531e-636f-3356-8010-08d482d90f21
-[18:08:16] [Server thread/INFO]: theeminence joined the game
-[18:08:16] [Server thread/INFO]: theeminence[/127.149.42.123:52031] logged in with entity id 673 at ([world]-329.69999998807907, 83.0, 170.30000001192093)
-[18:08:30] [User Authenticator #1/INFO]: UUID of player theeminence is 189e531e-636f-3356-8010-08d482d90f21
-[18:08:30] [Server thread/INFO]: theeminence lost connection: You logged in from another location
-[18:08:30] [Server thread/INFO]: theeminence left the game
-[18:08:35] [Server thread/INFO]: theeminence joined the game
-[18:08:35] [Server thread/INFO]: theeminence[/127.149.42.123:48425] logged in with entity id 700 at ([world]-329.69999998807907, 83.0, 170.30000001192093)
-[18:09:04] [Async Chat Thread - #0/INFO]: [Not Secure] <theeminence> no me carga aaaah
-[18:09:34] [Server thread/INFO]: theeminence lost connection: Disconnected
-[18:09:34] [Server thread/INFO]: theeminence left the game
-[18:14:09] [User Authenticator #2/INFO]: UUID of player theeminence is 189e531e-636f-3356-8010-08d482d90f21
-[18:14:12] [Server thread/INFO]: theeminence joined the game
-[18:14:12] [Server thread/INFO]: theeminence[/127.149.42.123:33453] logged in with entity id 1439 at ([world]-329.69999998807907, 83.0, 170.30000001192093)
-[18:14:57] [Async Chat Thread - #1/INFO]: [Not Secure] <Sebas23m> hoy matanos al dragon
-[18:15:12] [Async Chat Thread - #1/INFO]: [Not Secure] <theeminence> bueno
-[18:15:37] [Async Chat Thread - #1/INFO]: [Not Secure] <theeminence> tienes esmeraldas bro?
-[18:15:47] [Async Chat Thread - #1/INFO]: [Not Secure] <theeminence> tienes esmeraldas bro ?
-[18:15:53] [Async Chat Thread - #1/INFO]: [Not Secure] <theeminence> tienes
-[18:15:58] [Async Chat Thread - #1/INFO]: [Not Secure] <theeminence> tienes
-[18:16:06] [Server thread/INFO]: theeminence lost connection: Disconnected
-[18:16:06] [Server thread/INFO]: theeminence left the game
-[18:16:13] [User Authenticator #3/INFO]: UUID of player theeminence is 189e531e-636f-3356-8010-08d482d90f21
-[18:16:30] [Server thread/INFO]: com.mojang.authlib.GameProfile@24cd9364[id=189e531e-636f-3356-8010-08d482d90f21,name=theeminence,properties={textures=[Property[name=textures, value=eyJ0aW1lc3RhbXAiOjE1ODU1MzYzMDYwMTMsInByb2ZpbGVJZCI6ImUzYjQ0NWM4NDdmNTQ4ZmI4YzhmYTNmMWY3ZWZiYThlIiwicHJvZmlsZU5hbWUiOiJNaW5pRGlnZ2VyVGVzdCIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNGFhZWU2OGQzYjQ5OGViNzUzZjc1MzQ1ODEyNDk1OGYxN2E4OTc3MDNhMjNkODdlYmEzZDM0NzFhNTg1NDU0NCJ9fX0=, signature=qvcKSkct7ZX/4VNcG9qyyi9tu6/5pK0Kh2uHib+LzdlmpGGfZ1vx1K8llUwa94vCgJmYc13hApyZEbmJj6Vg3VevroHNQtBXybGBMs2V8XSwf+leTwPU6HPEaQfMerG1/5KKtJkBhWCfL3/rqOxJwKY0KscRkxPCPZJc4nVo/Hj1SlIcXSXyeqgY7n98mY0pUO3EeRSEUvJQgmlc00KaJ6RX6iPwuivbL1lGPfy2bBqpdwOnTX3tnO0BJX5TWYatlroCPtufzqYIkFp9KbGJMdrAZPn8Evp+6UrjCX+sKxH8wsmvls2AiBUkrA/30XyVT2Vs4hynwwoCIVIVcJiQeAwVJnpVoPyGP3Lj25aztwvZQGX6dekNB02rW500A7acLoBJ9te3qJUdsZMFi6V4KYgtzHhknixB7FgrbZyFlpgcg/ckjaVmhrDKLNd2u7BRgz6//jRh5XFicadAAsitpmJP1gzQ54LcSWHtrISvD+L0CHyh/9juDjpApu2F/E/FSaYBDdTmx2dEWMN/IE/xuTDPgdBUG1G/nR52llxxFqB8EukK/ypQAWfNfMqnOlggVW8H4kpSDdBMFC36hXaAFsuhfmbQw1Bx+G+DYT9tW9xeESQCIBS1/FevBLYMSqd0WLEd8t+ZNmJ8ULzdNYZQYD6KfnTn8sdMbC/AlhYG5zI=]]}] lost connection: Timed out
-[18:19:04] [Server thread/INFO]: Sebas23m has made the advancement [Ice Bucket Challenge]
-[18:19:40] [User Authenticator #4/INFO]: UUID of player theeminence is 189e531e-636f-3356-8010-08d482d90f21
-[18:19:44] [Server thread/INFO]: theeminence joined the game
-[18:19:44] [Server thread/INFO]: theeminence[/127.149.42.123:58763] logged in with entity id 2843 at ([world]-329.51579211824674, 83.0, 170.7462654815423)
-[18:20:37] [Server thread/INFO]: theeminence lost connection: Disconnected
-[18:20:37] [Server thread/INFO]: theeminence left the game
-[18:20:46] [User Authenticator #5/INFO]: UUID of player theeminence is 189e531e-636f-3356-8010-08d482d90f21
-[18:20:58] [Server thread/INFO]: theeminence joined the game
-[18:20:58] [Server thread/INFO]: theeminence[/127.149.42.123:59767] logged in with entity id 3261 at ([world]-329.51579211824674, 83.0, 170.7462654815423)
-[18:21:27] [Server thread/INFO]: Sebas23m issued server command: /sethome p
-[18:21:53] [Server thread/INFO]: theeminence lost connection: Disconnected
-[18:21:53] [Server thread/INFO]: theeminence left the game
-[18:22:31] [Server thread/INFO]: Sebas23m has made the advancement [We Need to Go Deeper]
-[18:24:18] [User Authenticator #6/INFO]: UUID of player theeminence is 189e531e-636f-3356-8010-08d482d90f21
-[18:24:30] [Server thread/INFO]: theeminence joined the game
-[18:24:30] [Server thread/INFO]: theeminence[/127.149.42.123:34953] logged in with entity id 4136 at ([world]-329.51579211824674, 83.0, 170.7462654815423)
-[18:25:12] [Server thread/INFO]: theeminence lost connection: Disconnected
-[18:25:12] [Server thread/INFO]: theeminence left the game
-[18:34:07] [User Authenticator #7/INFO]: UUID of player theeminence is 189e531e-636f-3356-8010-08d482d90f21
-[18:34:16] [Server thread/INFO]: theeminence joined the game
-[18:34:16] [Server thread/INFO]: theeminence[/127.149.42.123:56109] logged in with entity id 5542 at ([world]-329.51579211824674, 83.0, 170.7462654815423)
-[18:35:51] [Server thread/INFO]: theeminence lost connection: Disconnected
-[18:35:51] [Server thread/INFO]: theeminence left the game
-[18:40:06] [Server thread/INFO]: Sebas23m was doomed to fall by Ghast
-[18:40:31] [Server thread/INFO]: Sebas23m issued server command: /home p
-[18:40:45] [Server thread/INFO]: Sebas23m issued server command: /gamemode creative
-[18:40:45] [Server thread/INFO]: [Sebas23m: Set own game mode to Creative Mode]
-[18:42:39] [Server thread/INFO]: Sebas23m has made the advancement [A Terrible Fortress]
-[18:42:48] [Server thread/INFO]: Sebas23m issued server command: /sethome 2
-[18:42:51] [Server thread/INFO]: Sebas23m issued server command: /home 1
-[18:43:37] [Server thread/INFO]: Sebas23m issued server command: /home 2
-[18:43:53] [Server thread/INFO]: Sebas23m issued server command: /gamemode survival
-[18:43:53] [Server thread/INFO]: [Sebas23m: Set own game mode to Survival Mode]
-[18:54:57] [Server thread/INFO]: Sebas23m has made the advancement [Into Fire]
-[18:57:55] [Server thread/INFO]: Sebas23m issued server command: /gamerule keepInventory true
-[18:57:55] [Server thread/INFO]: [Sebas23m: Gamerule keepInventory is now set to: true]
-[18:58:25] [Server thread/INFO]: Sebas23m has made the advancement [Not Today, Thank You]
-[19:02:55] [Server thread/INFO]: Sebas23m was slain by Lvl 41 | Magma Cube
-[19:08:25] [Server thread/INFO]: Sebas23m issued server command: /home 1
-[19:08:31] [Server thread/INFO]: Sebas23m issued server command: /home p
-[19:11:05] [Server thread/INFO]: Sebas23m issued server command: /home 1
-[19:18:08] [Server thread/INFO]: Sebas23m was slain by Lvl 36 | Wither Skeleton
-[19:19:07] [User Authenticator #8/INFO]: UUID of player jp7806073 is 68efd73e-a0cd-33f7-a574-2c7e5d7949df
-[19:19:11] [Server thread/INFO]: jp7806073 joined the game
-[19:19:11] [Server thread/INFO]: jp7806073[/127.134.27.178:39679] logged in with entity id 12869 at ([world]10.651623882907629, 71.0, 35.34837611709237)
-[19:19:31] [Server thread/INFO]: jp7806073 issued server command: /home A1
-[19:20:15] [Server thread/INFO]: jp7806073 has made the advancement [We Need to Go Deeper]
-[19:21:25] [Server thread/INFO]: Sebas23m was slain by Lvl 49 | Wither Skeleton
-[19:21:54] [Server thread/INFO]: Sebas23m issued server command: /tp jp7806073
-[19:21:54] [Server thread/INFO]: [Sebas23m: Teleported Sebas23m to jp7806073]
-[19:22:26] [Server thread/INFO]: jp7806073 was shot by Lvl 8 | Skeleton
-[19:23:11] [Server thread/INFO]: jp7806073 issued server command: /home A1
-[19:23:27] [Server thread/INFO]: Sebas23m was burned to a crisp while fighting Magma Cube
-[19:23:59] [Server thread/INFO]: jp7806073 has made the advancement [Ice Bucket Challenge]
-[19:24:33] [User Authenticator #9/INFO]: UUID of player theeminence is 189e531e-636f-3356-8010-08d482d90f21
-[19:24:51] [Server thread/INFO]: com.mojang.authlib.GameProfile@3b018e7b[id=189e531e-636f-3356-8010-08d482d90f21,name=theeminence,properties={textures=[Property[name=textures, value=eyJ0aW1lc3RhbXAiOjE1ODU1MzYzMDYwMTMsInByb2ZpbGVJZCI6ImUzYjQ0NWM4NDdmNTQ4ZmI4YzhmYTNmMWY3ZWZiYThlIiwicHJvZmlsZU5hbWUiOiJNaW5pRGlnZ2VyVGVzdCIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNGFhZWU2OGQzYjQ5OGViNzUzZjc1MzQ1ODEyNDk1OGYxN2E4OTc3MDNhMjNkODdlYmEzZDM0NzFhNTg1NDU0NCJ9fX0=, signature=qvcKSkct7ZX/4VNcG9qyyi9tu6/5pK0Kh2uHib+LzdlmpGGfZ1vx1K8llUwa94vCgJmYc13hApyZEbmJj6Vg3VevroHNQtBXybGBMs2V8XSwf+leTwPU6HPEaQfMerG1/5KKtJkBhWCfL3/rqOxJwKY0KscRkxPCPZJc4nVo/Hj1SlIcXSXyeqgY7n98mY0pUO3EeRSEUvJQgmlc00KaJ6RX6iPwuivbL1lGPfy2bBqpdwOnTX3tnO0BJX5TWYatlroCPtufzqYIkFp9KbGJMdrAZPn8Evp+6UrjCX+sKxH8wsmvls2AiBUkrA/30XyVT2Vs4hynwwoCIVIVcJiQeAwVJnpVoPyGP3Lj25aztwvZQGX6dekNB02rW500A7acLoBJ9te3qJUdsZMFi6V4KYgtzHhknixB7FgrbZyFlpgcg/ckjaVmhrDKLNd2u7BRgz6//jRh5XFicadAAsitpmJP1gzQ54LcSWHtrISvD+L0CHyh/9juDjpApu2F/E/FSaYBDdTmx2dEWMN/IE/xuTDPgdBUG1G/nR52llxxFqB8EukK/ypQAWfNfMqnOlggVW8H4kpSDdBMFC36hXaAFsuhfmbQw1Bx+G+DYT9tW9xeESQCIBS1/FevBLYMSqd0WLEd8t+ZNmJ8ULzdNYZQYD6KfnTn8sdMbC/AlhYG5zI=]]}] lost connection: Timed out
-[19:25:06] [User Authenticator #9/INFO]: UUID of player theeminence is 189e531e-636f-3356-8010-08d482d90f21
-[19:25:21] [Server thread/INFO]: Sebas23m lost connection: Disconnected
-[19:25:21] [Server thread/INFO]: Sebas23m left the game
-[19:25:23] [Server thread/INFO]: com.mojang.authlib.GameProfile@cccd179[id=189e531e-636f-3356-8010-08d482d90f21,name=theeminence,properties={textures=[Property[name=textures, value=eyJ0aW1lc3RhbXAiOjE1ODU1MzYzMDYwMTMsInByb2ZpbGVJZCI6ImUzYjQ0NWM4NDdmNTQ4ZmI4YzhmYTNmMWY3ZWZiYThlIiwicHJvZmlsZU5hbWUiOiJNaW5pRGlnZ2VyVGVzdCIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNGFhZWU2OGQzYjQ5OGViNzUzZjc1MzQ1ODEyNDk1OGYxN2E4OTc3MDNhMjNkODdlYmEzZDM0NzFhNTg1NDU0NCJ9fX0=, signature=qvcKSkct7ZX/4VNcG9qyyi9tu6/5pK0Kh2uHib+LzdlmpGGfZ1vx1K8llUwa94vCgJmYc13hApyZEbmJj6Vg3VevroHNQtBXybGBMs2V8XSwf+leTwPU6HPEaQfMerG1/5KKtJkBhWCfL3/rqOxJwKY0KscRkxPCPZJc4nVo/Hj1SlIcXSXyeqgY7n98mY0pUO3EeRSEUvJQgmlc00KaJ6RX6iPwuivbL1lGPfy2bBqpdwOnTX3tnO0BJX5TWYatlroCPtufzqYIkFp9KbGJMdrAZPn8Evp+6UrjCX+sKxH8wsmvls2AiBUkrA/30XyVT2Vs4hynwwoCIVIVcJiQeAwVJnpVoPyGP3Lj25aztwvZQGX6dekNB02rW500A7acLoBJ9te3qJUdsZMFi6V4KYgtzHhknixB7FgrbZyFlpgcg/ckjaVmhrDKLNd2u7BRgz6//jRh5XFicadAAsitpmJP1gzQ54LcSWHtrISvD+L0CHyh/9juDjpApu2F/E/FSaYBDdTmx2dEWMN/IE/xuTDPgdBUG1G/nR52llxxFqB8EukK/ypQAWfNfMqnOlggVW8H4kpSDdBMFC36hXaAFsuhfmbQw1Bx+G+DYT9tW9xeESQCIBS1/FevBLYMSqd0WLEd8t+ZNmJ8ULzdNYZQYD6KfnTn8sdMbC/AlhYG5zI=]]}] lost connection: Timed out
-[19:25:30] [Server thread/INFO]: jp7806073 lost connection: Timed out
-[19:25:30] [Server thread/INFO]: jp7806073 left the game
-[19:25:32] [User Authenticator #9/INFO]: UUID of player Sebas23m is 05baa57d-e0e2-3245-950d-ef017ffd725d
-[19:25:32] [User Authenticator #9/INFO]: UUID of player jp7806073 is 68efd73e-a0cd-33f7-a574-2c7e5d7949df
-[19:25:35] [Server thread/INFO]: Sebas23m joined the game
-[19:25:35] [Server thread/INFO]: Sebas23m[/127.50.210.97:60379] logged in with entity id 15347 at ([world_nether]-56.5998606821069, 103.0, 63.69999998807907)
-[19:25:35] [Server thread/INFO]: jp7806073 joined the game
-[19:25:35] [Server thread/INFO]: jp7806073[/127.134.27.178:59049] logged in with entity id 15348 at ([world]-409.31404640753436, 67.0, 302.4066899068108)
-[19:26:03] [Server thread/INFO]: Sebas23m issued server command: /tp jp7806073
-[19:26:03] [Server thread/INFO]: [Sebas23m: Teleported Sebas23m to jp7806073]
-[19:26:44] [Server thread/INFO]: jp7806073 issued server command: /home A1
-[19:28:11] [Server thread/INFO]: Sebas23m issued server command: /home 1
-[19:33:08] [Server thread/INFO]: jp7806073 was slain by Lvl 7 | Zombie
-[19:33:29] [Server thread/INFO]: jp7806073 issued server command: /t
-[19:33:40] [Server thread/INFO]: jp7806073 issued server command: /tp sebas23
-[19:34:11] [Server thread/INFO]: jp7806073 lost connection: Timed out
-[19:34:11] [Server thread/INFO]: jp7806073 left the game
-[19:34:14] [User Authenticator #10/INFO]: UUID of player jp7806073 is 68efd73e-a0cd-33f7-a574-2c7e5d7949df
-[19:34:18] [Server thread/INFO]: jp7806073 joined the game
-[19:34:18] [Server thread/INFO]: jp7806073[/127.134.27.178:49671] logged in with entity id 17770 at ([world]-9.862529483527831, 64.09835927353836, 30.960345238660366)
-[19:34:27] [Server thread/INFO]: jp7806073 issued server command: /home A1
-[19:36:21] [Server thread/INFO]: jp7806073 issued server command: /home C1
-[19:38:07] [Server thread/INFO]: Sebas23m issued server command: /gamemode spectator
-[19:38:07] [Server thread/INFO]: [Sebas23m: Set own game mode to Spectator Mode]
-[19:39:06] [Server thread/INFO]: Sebas23m issued server command: /gamemode survival
-[19:39:06] [Server thread/INFO]: [Sebas23m: Set own game mode to Survival Mode]
-[19:39:35] [User Authenticator #11/INFO]: UUID of player Sebas23m is 05baa57d-e0e2-3245-950d-ef017ffd725d
-[19:39:35] [Server thread/INFO]: Sebas23m lost connection: You logged in from another location
-[19:39:35] [Server thread/INFO]: Sebas23m left the game
-[19:39:36] [Server thread/INFO]: Sebas23m joined the game
-[19:39:36] [Server thread/INFO]: Sebas23m[/127.50.210.97:48049] logged in with entity id 20043 at ([world_nether]-234.51951790193428, 87.0, -74.4732076095399)
-[19:40:11] [Server thread/INFO]: Sebas23m lost connection: Disconnected
-[19:40:11] [Server thread/INFO]: Sebas23m left the game
-[19:40:18] [User Authenticator #11/INFO]: UUID of player Sebas23m is 05baa57d-e0e2-3245-950d-ef017ffd725d
-[19:40:19] [Server thread/INFO]: Sebas23m joined the game
-[19:40:19] [Server thread/INFO]: Sebas23m[/127.50.210.97:46737] logged in with entity id 20165 at ([world_nether]-236.12017843778764, 81.09395507422808, -95.25321928981641)
-[19:41:06] [Server thread/INFO]: jp7806073 was slain by Lvl 20 | Zombie
-[19:41:12] [Server thread/INFO]: Sebas23m was slain by Lvl 49 | Piglin
-[19:41:17] [Server thread/INFO]: jp7806073 issued server command: /home A1
-[19:41:43] [Server thread/INFO]: jp7806073 was slain by Sebas23m
-[19:41:53] [Server thread/INFO]: jp7806073 issued server command: /home A1
-[19:42:22] [Server thread/INFO]: Sebas23m issued server command: /gamemode spectator
-[19:42:22] [Server thread/INFO]: [Sebas23m: Set own game mode to Spectator Mode]
-[19:42:47] [Server thread/INFO]: jp7806073 issued server command: /home c11
-[19:42:49] [Server thread/INFO]: Sebas23m issued server command: /gamemode survival
-[19:42:49] [Server thread/INFO]: [Sebas23m: Set own game mode to Survival Mode]
-[19:43:16] [Server thread/INFO]: Sebas23m was slain by Lvl 41 | Enderman
-[19:43:39] [Server thread/INFO]: Sebas23m issued server command: /gamemode spectator
-[19:43:39] [Server thread/INFO]: [Sebas23m: Set own game mode to Spectator Mode]
-[19:44:00] [Server thread/INFO]: Sebas23m issued server command: /gamemode survival
-[19:44:00] [Server thread/INFO]: [Sebas23m: Set own game mode to Survival Mode]
-[19:45:16] [Server thread/INFO]: Sebas23m issued server command: /home 1
-[19:54:12] [Server thread/INFO]: jp7806073 was shot by Lvl 8 | Skeleton
-[19:54:44] [Server thread/INFO]: jp7806073 issued server command: /home A1
-[19:56:20] [Server thread/INFO]: jp7806073 has made the advancement [Into Fire]
-[19:57:59] [Server thread/INFO]: Sebas23m issued server command: /tp jp7806073 Sebas23m
-[19:57:59] [Server thread/INFO]: [Sebas23m: Teleported jp7806073 to Sebas23m]
-[19:58:34] [Server thread/INFO]: jp7806073 issued server command: /home A1
-[19:59:01] [Server thread/INFO]: Sebas23m issued server command: /tp jp7806073 Sebas23m
-[19:59:01] [Server thread/INFO]: [Sebas23m: Teleported jp7806073 to Sebas23m]
-[20:01:11] [Server thread/INFO]: jp7806073 issued server command: /sethome Pw
-[20:01:14] [Server thread/INFO]: Sebas23m issued server command: /tp jp7806073 Sebas23m
-[20:01:14] [Server thread/INFO]: [Sebas23m: Teleported jp7806073 to Sebas23m]
-[20:01:58] [Server thread/INFO]: jp7806073 has made the advancement [Eye Spy]
-[20:01:59] [Server thread/INFO]: Sebas23m has made the advancement [Eye Spy]
-[20:03:13] [Server thread/INFO]: Sebas23m issued server command: /tp jp7806073 Sebas23m
-[20:03:13] [Server thread/INFO]: [Sebas23m: Teleported jp7806073 to Sebas23m]
-[20:04:35] [Server thread/INFO]: Sebas23m issued server command: /sethome 3
-[20:05:16] [User Authenticator #12/INFO]: UUID of player theeminence is 189e531e-636f-3356-8010-08d482d90f21
-[20:05:18] [Server thread/INFO]: theeminence joined the game
-[20:05:18] [Server thread/INFO]: theeminence[/127.149.42.123:42047] logged in with entity id 33066 at ([world]-329.51579211824674, 83.0, 170.7462654815423)
-[20:05:59] [Server thread/INFO]: theeminence lost connection: Timed out
-[20:05:59] [Server thread/INFO]: theeminence left the game
-[20:07:43] [User Authenticator #13/INFO]: UUID of player theeminence is 189e531e-636f-3356-8010-08d482d90f21
-[20:07:50] [Server thread/INFO]: theeminence joined the game
-[20:07:50] [Server thread/INFO]: theeminence[/127.149.42.123:59829] logged in with entity id 33703 at ([world]-326.5, 83.5625, 176.6201235903098)
-[20:08:18] [Server thread/INFO]: theeminence lost connection: Disconnected
-[20:08:18] [Server thread/INFO]: theeminence left the game
-[20:08:26] [User Authenticator #13/INFO]: UUID of player theeminence is 189e531e-636f-3356-8010-08d482d90f21
-[20:08:39] [Server thread/INFO]: theeminence joined the game
-[20:08:39] [Server thread/INFO]: theeminence[/127.149.42.123:58757] logged in with entity id 34070 at ([world]-326.5, 83.5625, 176.7213081172114)
-[20:09:08] [Server thread/INFO]: theeminence lost connection: Disconnected
-[20:09:08] [Server thread/INFO]: theeminence left the game
-[20:10:22] [Server thread/INFO]: Sebas23m issued server command: /home 3
-[20:11:41] [Server thread/INFO]: Sebas23m issued server command: /gamemode spectator
-[20:11:41] [Server thread/INFO]: [Sebas23m: Set own game mode to Spectator Mode]
-[20:12:21] [Server thread/INFO]: Sebas23m issued server command: /home 3
-[20:12:29] [Server thread/INFO]: Sebas23m issued server command: /gamemode survival
-[20:12:29] [Server thread/INFO]: [Sebas23m: Set own game mode to Survival Mode]
-[20:12:42] [Server thread/INFO]: Sebas23m issued server command: /tp jp7806073 Sebas23m
-[20:12:42] [Server thread/INFO]: [Sebas23m: Teleported jp7806073 to Sebas23m]
-[20:17:23] [Server thread/INFO]: Sebas23m issued server command: /home 1
-[20:22:28] [Server thread/INFO]: jp7806073 issued server command: /home A1
-[20:24:13] [Server thread/INFO]: jp7806073 issued server command: /home Pw
-[20:24:35] [Server thread/INFO]: Sebas23m issued server command: /tp jp7806073 Sebas23m
-[20:24:35] [Server thread/INFO]: [Sebas23m: Teleported jp7806073 to Sebas23m]
-[20:24:38] [Server thread/INFO]: jp7806073 fell from a high place
-[20:25:05] [Server thread/INFO]: jp7806073 issued server command: /home A1
-[20:27:57] [Server thread/INFO]: Sebas23m issued server command: /tp jp7806073 Sebas23m
-[20:27:57] [Server thread/INFO]: [Sebas23m: Teleported jp7806073 to Sebas23m]
-[20:29:03] [Server thread/INFO]: Sebas23m was burned to a crisp while fighting jp7806073
-[20:29:04] [Server thread/INFO]: jp7806073 was burned to a crisp while fighting Sebas23m
-[20:29:16] [Server thread/INFO]: jp7806073 issued server command: /home A1
-[20:30:28] [User Authenticator #14/INFO]: UUID of player theeminence is 189e531e-636f-3356-8010-08d482d90f21
-[20:30:31] [Server thread/INFO]: jp7806073 drowned
-[20:30:31] [Server thread/INFO]: theeminence joined the game
-[20:30:31] [Server thread/INFO]: theeminence[/127.149.42.123:40739] logged in with entity id 39012 at ([world]-326.44168296814115, 83.5625, 176.6652541841073)
-[20:30:40] [Server thread/INFO]: Sebas23m issued server command: /home 1
-[20:30:50] [Server thread/INFO]: jp7806073 issued server command: /home A1
-[20:31:06] [Async Chat Thread - #3/INFO]: [Not Secure] <theeminence> sigo cayendo 😢
-[20:31:16] [Server thread/INFO]: Sebas23m issued server command: /tp theeminence Sebas23m
-[20:31:16] [Server thread/INFO]: [Sebas23m: Teleported theeminence to Sebas23m]
-[20:31:18] [Server thread/INFO]: theeminence lost connection: Disconnected
-[20:31:18] [Server thread/INFO]: theeminence left the game
-[20:38:33] [Server thread/INFO]: Sebas23m issued server command: /home p
-[20:40:08] [Server thread/INFO]: Sebas23m issued server command: /home 1
-[20:40:39] [User Authenticator #15/INFO]: UUID of player theeminence is 189e531e-636f-3356-8010-08d482d90f21
-[20:40:57] [Server thread/INFO]: com.mojang.authlib.GameProfile@29b3dd6a[id=189e531e-636f-3356-8010-08d482d90f21,name=theeminence,properties={textures=[Property[name=textures, value=eyJ0aW1lc3RhbXAiOjE1ODU1MzYzMDYwMTMsInByb2ZpbGVJZCI6ImUzYjQ0NWM4NDdmNTQ4ZmI4YzhmYTNmMWY3ZWZiYThlIiwicHJvZmlsZU5hbWUiOiJNaW5pRGlnZ2VyVGVzdCIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNGFhZWU2OGQzYjQ5OGViNzUzZjc1MzQ1ODEyNDk1OGYxN2E4OTc3MDNhMjNkODdlYmEzZDM0NzFhNTg1NDU0NCJ9fX0=, signature=qvcKSkct7ZX/4VNcG9qyyi9tu6/5pK0Kh2uHib+LzdlmpGGfZ1vx1K8llUwa94vCgJmYc13hApyZEbmJj6Vg3VevroHNQtBXybGBMs2V8XSwf+leTwPU6HPEaQfMerG1/5KKtJkBhWCfL3/rqOxJwKY0KscRkxPCPZJc4nVo/Hj1SlIcXSXyeqgY7n98mY0pUO3EeRSEUvJQgmlc00KaJ6RX6iPwuivbL1lGPfy2bBqpdwOnTX3tnO0BJX5TWYatlroCPtufzqYIkFp9KbGJMdrAZPn8Evp+6UrjCX+sKxH8wsmvls2AiBUkrA/30XyVT2Vs4hynwwoCIVIVcJiQeAwVJnpVoPyGP3Lj25aztwvZQGX6dekNB02rW500A7acLoBJ9te3qJUdsZMFi6V4KYgtzHhknixB7FgrbZyFlpgcg/ckjaVmhrDKLNd2u7BRgz6//jRh5XFicadAAsitpmJP1gzQ54LcSWHtrISvD+L0CHyh/9juDjpApu2F/E/FSaYBDdTmx2dEWMN/IE/xuTDPgdBUG1G/nR52llxxFqB8EukK/ypQAWfNfMqnOlggVW8H4kpSDdBMFC36hXaAFsuhfmbQw1Bx+G+DYT9tW9xeESQCIBS1/FevBLYMSqd0WLEd8t+ZNmJ8ULzdNYZQYD6KfnTn8sdMbC/AlhYG5zI=]]}] lost connection: Timed out
-[20:42:38] [User Authenticator #16/INFO]: UUID of player theeminence is 189e531e-636f-3356-8010-08d482d90f21
-[20:42:57] [Server thread/INFO]: com.mojang.authlib.GameProfile@c5f406e[id=189e531e-636f-3356-8010-08d482d90f21,name=theeminence,properties={textures=[Property[name=textures, value=eyJ0aW1lc3RhbXAiOjE1ODU1MzYzMDYwMTMsInByb2ZpbGVJZCI6ImUzYjQ0NWM4NDdmNTQ4ZmI4YzhmYTNmMWY3ZWZiYThlIiwicHJvZmlsZU5hbWUiOiJNaW5pRGlnZ2VyVGVzdCIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNGFhZWU2OGQzYjQ5OGViNzUzZjc1MzQ1ODEyNDk1OGYxN2E4OTc3MDNhMjNkODdlYmEzZDM0NzFhNTg1NDU0NCJ9fX0=, signature=qvcKSkct7ZX/4VNcG9qyyi9tu6/5pK0Kh2uHib+LzdlmpGGfZ1vx1K8llUwa94vCgJmYc13hApyZEbmJj6Vg3VevroHNQtBXybGBMs2V8XSwf+leTwPU6HPEaQfMerG1/5KKtJkBhWCfL3/rqOxJwKY0KscRkxPCPZJc4nVo/Hj1SlIcXSXyeqgY7n98mY0pUO3EeRSEUvJQgmlc00KaJ6RX6iPwuivbL1lGPfy2bBqpdwOnTX3tnO0BJX5TWYatlroCPtufzqYIkFp9KbGJMdrAZPn8Evp+6UrjCX+sKxH8wsmvls2AiBUkrA/30XyVT2Vs4hynwwoCIVIVcJiQeAwVJnpVoPyGP3Lj25aztwvZQGX6dekNB02rW500A7acLoBJ9te3qJUdsZMFi6V4KYgtzHhknixB7FgrbZyFlpgcg/ckjaVmhrDKLNd2u7BRgz6//jRh5XFicadAAsitpmJP1gzQ54LcSWHtrISvD+L0CHyh/9juDjpApu2F/E/FSaYBDdTmx2dEWMN/IE/xuTDPgdBUG1G/nR52llxxFqB8EukK/ypQAWfNfMqnOlggVW8H4kpSDdBMFC36hXaAFsuhfmbQw1Bx+G+DYT9tW9xeESQCIBS1/FevBLYMSqd0WLEd8t+ZNmJ8ULzdNYZQYD6KfnTn8sdMbC/AlhYG5zI=]]}] lost connection: Timed out
-[20:43:36] [Async Chat Thread - #5/INFO]: [Not Secure] <jp7806073> ya vengo
-[20:45:31] [Server thread/INFO]: Sebas23m has made the advancement [Best Friends Forever]
-[20:47:02] [Server thread/INFO]: jp7806073 lost connection: Disconnected
-[20:47:02] [Server thread/INFO]: jp7806073 left the game
-[20:48:04] [Server thread/WARN]: Horse (vehicle of Sebas23m) moved wrongly! 0.34499284165082145
-[20:48:04] [Server thread/WARN]: Horse (vehicle of Sebas23m) moved wrongly! 0.5
-[20:48:04] [Server thread/WARN]: Horse (vehicle of Sebas23m) moved wrongly! 0.5
-[20:48:04] [Server thread/WARN]: Horse (vehicle of Sebas23m) moved wrongly! 0.5
-[20:48:04] [Server thread/WARN]: Horse (vehicle of Sebas23m) moved wrongly! 0.5
-[20:49:44] [User Authenticator #17/INFO]: UUID of player theeminence is 189e531e-636f-3356-8010-08d482d90f21
-[20:49:48] [Server thread/INFO]: theeminence joined the game
-[20:49:48] [Server thread/INFO]: theeminence[/127.149.42.123:41411] logged in with entity id 41998 at ([world]-330.26037531401715, 87.0, 169.70350502483112)
-[20:50:39] [Server thread/INFO]: theeminence lost connection: Disconnected
-[20:50:39] [Server thread/INFO]: theeminence left the game
-[20:51:38] [User Authenticator #18/INFO]: UUID of player theeminence is 189e531e-636f-3356-8010-08d482d90f21
-[20:51:44] [Server thread/INFO]: theeminence joined the game
-[20:51:44] [Server thread/INFO]: theeminence[/127.149.42.123:51281] logged in with entity id 42336 at ([world]-334.581000783438, 87.0, 170.04279099340104)
-[20:52:56] [Server thread/INFO]: theeminence lost connection: Disconnected
-[20:52:56] [Server thread/INFO]: theeminence left the game
-[20:53:13] [User Authenticator #19/INFO]: UUID of player theeminence is 189e531e-636f-3356-8010-08d482d90f21
-[20:53:29] [Server thread/INFO]: theeminence joined the game
-[20:53:29] [Server thread/INFO]: theeminence[/127.149.42.123:37359] logged in with entity id 42509 at ([world]-334.581000783438, 87.0, 170.04279099340104)
-[20:54:05] [Server thread/INFO]: theeminence lost connection: Disconnected
-[20:54:05] [Server thread/INFO]: theeminence left the game
-[20:55:13] [User Authenticator #20/INFO]: UUID of player theeminence is 189e531e-636f-3356-8010-08d482d90f21
-[20:55:18] [Server thread/INFO]: theeminence joined the game
-[20:55:18] [Server thread/INFO]: theeminence[/127.149.42.123:37775] logged in with entity id 42722 at ([world]-334.581000783438, 87.0, 170.04279099340104)
-[20:58:06] [User Authenticator #21/INFO]: UUID of player theeminence is 189e531e-636f-3356-8010-08d482d90f21
-[20:58:06] [Server thread/INFO]: theeminence lost connection: You logged in from another location
-[20:58:06] [Server thread/INFO]: theeminence left the game
-[20:58:09] [Server thread/INFO]: theeminence joined the game
-[20:58:09] [Server thread/INFO]: theeminence[/127.149.42.123:56161] logged in with entity id 43044 at ([world]-334.581000783438, 87.0, 170.04279099340104)
-[20:58:22] [Server thread/INFO]: theeminence lost connection: Disconnected
-[20:58:22] [Server thread/INFO]: theeminence left the game
-[20:58:30] [User Authenticator #21/INFO]: UUID of player theeminence is 189e531e-636f-3356-8010-08d482d90f21
-[20:58:39] [Server thread/INFO]: theeminence joined the game
-[20:58:39] [Server thread/INFO]: theeminence[/127.149.42.123:50953] logged in with entity id 43103 at ([world]-334.581000783438, 87.0, 170.04279099340104)
-[21:00:06] [Server thread/INFO]: theeminence lost connection: Disconnected
-[21:00:06] [Server thread/INFO]: theeminence left the game
-[21:00:18] [User Authenticator #22/INFO]: UUID of player theeminence is 189e531e-636f-3356-8010-08d482d90f21
-[21:00:46] [Server thread/INFO]: theeminence joined the game
-[21:00:46] [Server thread/INFO]: theeminence[/127.149.42.123:52607] logged in with entity id 43288 at ([world]-334.581000783438, 87.0, 170.04279099340104)
-[21:01:27] [Server thread/INFO]: theeminence lost connection: Disconnected
-[21:01:27] [Server thread/INFO]: theeminence left the game
-[21:05:17] [User Authenticator #23/INFO]: UUID of player jp7806073 is 68efd73e-a0cd-33f7-a574-2c7e5d7949df
-[21:05:21] [Server thread/INFO]: jp7806073 joined the game
-[21:05:21] [Server thread/INFO]: jp7806073[/127.134.27.178:44925] logged in with entity id 43804 at ([world]-318.2784404664797, 89.0, 125.34807813419184)
-[21:08:43] [User Authenticator #24/INFO]: UUID of player theeminence is 189e531e-636f-3356-8010-08d482d90f21
-[21:09:08] [Server thread/INFO]: theeminence joined the game
-[21:09:08] [Server thread/INFO]: theeminence[/127.149.42.123:59875] logged in with entity id 44222 at ([world]-334.581000783438, 87.0, 170.04279099340104)
-[21:09:52] [Server thread/INFO]: theeminence lost connection: Disconnected
-[21:09:52] [Server thread/INFO]: theeminence left the game
-[21:11:41] [Server thread/INFO]: Sebas23m lost connection: Disconnected
-[21:11:41] [Server thread/INFO]: Sebas23m left the game
-[21:12:18] [Server thread/INFO]: jp7806073 lost connection: Disconnected
-[21:12:18] [Server thread/INFO]: jp7806073 left the game
-[21:12:23] [Server thread/INFO]: Stopping the server
-[21:12:23] [Server thread/INFO]: Stopping server
-[21:12:23] [Server thread/INFO]: [LevelledMobs] Disabling LevelledMobs v4.3.1 b112
-[21:12:23] [Server thread/INFO]: [LevelledMobs] Unregistering commands
-[21:12:23] [Server thread/INFO]: [LevelledMobs] Tasks: Shutting down other async tasks...
-[21:12:23] [Craft Scheduler Thread - 1 - LevelledMobs/INFO]: [LevelledMobs] Mob processing queue Manager has exited
-[21:12:23] [Server thread/INFO]: [LevelledMobs] Shut-down complete (took 2ms)
-[21:12:23] [Craft Scheduler Thread - 4 - LevelledMobs/INFO]: [LevelledMobs] Nametag update queue Manager has exited
-[21:12:23] [Server thread/INFO]: [LockShulker] Disabling LockShulker v1.0
-[21:12:23] [Server thread/INFO]: [LockShulker] LockShulker выключен!
-[21:12:23] [Server thread/INFO]: [UltraSetHome] Disabling UltraSetHome v1.7.9
-[21:12:23] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.6.2
-[21:12:23] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.158
-[21:12:23] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
-[21:12:23] [Server thread/INFO]: [LuckPerms] Closing storage...
-[21:12:23] [Server thread/INFO]: [LuckPerms] Goodbye!
-[21:12:23] [Server thread/INFO]: [GSit] Disabling GSit v2.3.0
-[21:12:23] [Server thread/INFO]: [GSit] The plugin was successfully disabled.
-[21:12:23] [Server thread/INFO]: [SmoothTimber] Disabling SmoothTimber v1.27.4
-[21:12:23] [Server thread/INFO]: Saving players
-[21:12:23] [Server thread/INFO]: Saving worlds
-[21:12:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[21:12:23] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
-[21:12:23] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
-[21:12:23] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
-[21:12:23] [Server thread/INFO]: [ChunkHolderManager] Saved 117 block chunks, 366 entity chunks, 2 poi chunks in world 'world' in 0.21s
-[21:12:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[21:12:23] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
-[21:12:23] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
-[21:12:23] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
-[21:12:23] [Server thread/INFO]: [ChunkHolderManager] Saved 8 block chunks, 79 entity chunks, 0 poi chunks in world 'world_nether' in 0.03s
-[21:12:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[21:12:23] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
-[21:12:23] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
-[21:12:23] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
-[21:12:23] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
-[21:12:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[21:12:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[21:12:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[21:12:23] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[22:54:37] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[22:54:39] [ServerMain/INFO]: Loaded 1290 recipes
+[22:54:39] [ServerMain/INFO]: Loaded 1399 advancements
+[22:54:40] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[22:54:40] [Server thread/INFO]: Loading properties
+[22:54:40] [Server thread/INFO]: This server is running Paper version 1.21.1-57-master@b483da4 (2024-09-01T18:09:05Z) (Implementing API version 1.21.1-R0.1-SNAPSHOT)
+[22:54:41] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[22:54:41] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[22:54:41] [Server thread/INFO]: Using 4 threads for Netty based IO
+[22:54:42] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
+[22:54:42] [Server thread/INFO]: Default game type: SURVIVAL
+[22:54:42] [Server thread/INFO]: Generating keypair
+[22:54:42] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:54:42] [Server thread/INFO]: Using epoll channel type
+[22:54:42] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[22:54:42] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[22:54:45] [Server thread/INFO]: [SmoothTimber] Loading server plugin SmoothTimber v1.27.4
+[22:54:45] [Server thread/INFO]: [GSit] Loading server plugin GSit v2.3.0
+[22:54:45] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.4.158
+[22:54:46] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.6.2
+[22:54:46] [Server thread/INFO]: [UltraSetHome] Loading server plugin UltraSetHome v1.7.9
+[22:54:46] [Server thread/INFO]: [LockShulker] Loading server plugin LockShulker v1.0
+[22:54:46] [Server thread/INFO]: [LevelledMobs] Loading server plugin LevelledMobs v4.3.1 b112
+[22:54:46] [Server thread/INFO]: [LevelledMobs] Loading commands
+[22:54:47] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[22:54:47] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.158
+[22:54:47] [Server thread/INFO]:         __    
+[22:54:47] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.158
+[22:54:47] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[22:54:47] [Server thread/INFO]: 
+[22:54:47] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[22:54:48] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[22:54:48] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[22:54:48] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[22:54:48] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 1494ms)
+[22:54:48] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.6.2
+[22:54:50] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
+[22:54:51] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.1.
+[22:54:52] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[22:54:52] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[22:54:52] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[22:54:52] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[22:54:52] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[22:54:52] [Server thread/INFO]: Preparing level "world"
+[22:54:52] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[22:54:52] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[22:54:52] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[22:54:52] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[22:54:52] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[22:54:52] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[22:54:52] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[22:54:52] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.6.2
+[22:54:52] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: 7bda5de
+[22:54:52] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[22:54:52] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[22:54:52] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[22:54:52] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[22:54:53] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[22:54:55] [Server thread/INFO]: Time elapsed: 1903 ms
+[22:54:55] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[22:54:55] [Server thread/INFO]: Time elapsed: 716 ms
+[22:54:55] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[22:54:56] [Server thread/INFO]: Time elapsed: 338 ms
+[22:54:56] [Server thread/INFO]: [SmoothTimber] Enabling SmoothTimber v1.27.4
+[22:54:56] [Server thread/INFO]: SmoothTimber || You're currently using the supported Minecraft Version 1.21.1 (Core v1_20x)
+[22:54:56] [Server thread/INFO]: [GSit] Enabling GSit v2.3.0
+[22:54:56] [Server thread/INFO]: [GSit] The plugin was successfully enabled.
+[22:54:56] [Server thread/INFO]: [UltraSetHome] Enabling UltraSetHome v1.7.9
+[22:54:57] [Server thread/INFO]: [LockShulker] Enabling LockShulker v1.0
+[22:54:57] [Server thread/INFO]: [LockShulker] LockShulker включен!
+[22:54:57] [Server thread/INFO]: [LevelledMobs] Enabling LevelledMobs v4.3.1 b112
+[22:54:57] [Server thread/INFO]: [LevelledMobs] Enabling commands
+[22:54:57] [Server thread/INFO]: [LevelledMobs] Building reflection cache, use simple names: true
+[22:54:57] [Server thread/INFO]: [LevelledMobs] Using NMS version 1.21.1 for nametag support
+[22:54:57] [Server thread/INFO]: [LevelledMobs] File Loader: Loading files...
+[22:54:57] [Server thread/INFO]: [LevelledMobs] File Loader: Loading file 'settings.yml'...
+[22:54:58] [Server thread/INFO]: [LevelledMobs] File Loader: Loading file 'messages.yml'...
+[22:54:58] [Server thread/INFO]: [LevelledMobs] File Loader: Loading file 'externalplugins.yml'...
+[22:54:58] [Server thread/INFO]: [LevelledMobs] File Loader: Loading file 'rules.yml'...
+[22:54:58] [Server thread/INFO]: [LevelledMobs] Current rules hash: 9b0f48e3273bb9cc29d2891ad33fb3410fec8cf1e77c2092ff670fd38f6d4ff5
+[22:54:58] [Server thread/INFO]: [LevelledMobs] File Loader: Loading file 'customdrops.yml'...
+[22:54:58] [Server thread/INFO]: [LevelledMobs] Listeners: Registering event listeners...
+[22:54:58] [Server thread/INFO]: [LevelledMobs] Running misc procedures
+[22:54:58] [Server thread/INFO]: [LevelledMobs] Tasks: Starting async nametag auto update task...
+[22:54:58] [Server thread/INFO]: [LevelledMobs] Start-up complete (took 906ms)
+[22:54:58] [Server thread/INFO]: [spark] Starting background profiler...
+[22:54:59] [Server thread/INFO]: Done preparing level "world" (6.823s)
+[22:54:59] [Server thread/INFO]: Running delayed init tasks
+[22:54:59] [Server thread/INFO]: Done (31.466s)! For help, type "help"
+[22:54:59] [Server thread/INFO]: Timings Reset
+[22:54:59] [Server thread/INFO]: [UltraSetHome] You are using the latest version of UltraSetHome.
+[22:55:19] [User Authenticator #0/INFO]: UUID of player theeminence is 189e531e-636f-3356-8010-08d482d90f21
+[22:55:21] [Server thread/INFO]: theeminence joined the game
+[22:55:21] [Server thread/INFO]: theeminence[/127.149.42.123:56075] logged in with entity id 35 at ([world]-334.581000783438, 87.0, 170.04279099340104)
+[22:58:11] [Server thread/INFO]: theeminence issued server command: /home b
+[22:59:43] [User Authenticator #1/INFO]: UUID of player jp7806073 is 68efd73e-a0cd-33f7-a574-2c7e5d7949df
+[22:59:47] [Server thread/INFO]: jp7806073 joined the game
+[22:59:47] [Server thread/INFO]: jp7806073[/127.134.27.178:48869] logged in with entity id 1272 at ([world]-349.073976844055, 79.9375, 143.25482556593496)
+[23:00:05] [Server thread/INFO]: theeminence issued server command: /home a
+[23:00:15] [Server thread/INFO]: jp7806073 has made the advancement [What a Deal!]
+[23:02:13] [User Authenticator #2/INFO]: UUID of player Sebas23m is 05baa57d-e0e2-3245-950d-ef017ffd725d
+[23:02:18] [Server thread/INFO]: Sebas23m joined the game
+[23:02:18] [Server thread/INFO]: Sebas23m[/127.50.210.97:47465] logged in with entity id 1889 at ([world]-328.705789876709, 83.0, 172.0708183538212)
+[23:04:15] [Server thread/INFO]: jp7806073 has made the advancement [Enchanter]
