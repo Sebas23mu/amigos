@@ -334,3 +334,23 @@
 [20:55:13] [User Authenticator #20/INFO]: UUID of player theeminence is 189e531e-636f-3356-8010-08d482d90f21
 [20:55:18] [Server thread/INFO]: theeminence joined the game
 [20:55:18] [Server thread/INFO]: theeminence[/127.149.42.123:37775] logged in with entity id 42722 at ([world]-334.581000783438, 87.0, 170.04279099340104)
+[20:58:06] [User Authenticator #21/INFO]: UUID of player theeminence is 189e531e-636f-3356-8010-08d482d90f21
+[20:58:06] [Server thread/INFO]: theeminence lost connection: You logged in from another location
+[20:58:06] [Server thread/INFO]: theeminence left the game
+[20:58:09] [Server thread/INFO]: theeminence joined the game
+[20:58:09] [Server thread/INFO]: theeminence[/127.149.42.123:56161] logged in with entity id 43044 at ([world]-334.581000783438, 87.0, 170.04279099340104)
+[20:58:22] [Server thread/INFO]: theeminence lost connection: Disconnected
+[20:58:22] [Server thread/INFO]: theeminence left the game
+[20:58:30] [User Authenticator #21/INFO]: UUID of player theeminence is 189e531e-636f-3356-8010-08d482d90f21
+[20:58:39] [Server thread/INFO]: theeminence joined the game
+[20:58:39] [Server thread/INFO]: theeminence[/127.149.42.123:50953] logged in with entity id 43103 at ([world]-334.581000783438, 87.0, 170.04279099340104)
+[21:00:06] [Server thread/INFO]: theeminence lost connection: Disconnected
+[21:00:06] [Server thread/INFO]: theeminence left the game
+[21:00:18] [User Authenticator #22/INFO]: UUID of player theeminence is 189e531e-636f-3356-8010-08d482d90f21
+[21:00:46] [Server thread/INFO]: theeminence joined the game
+[21:00:46] [Server thread/INFO]: theeminence[/127.149.42.123:52607] logged in with entity id 43288 at ([world]-334.581000783438, 87.0, 170.04279099340104)
+[21:01:27] [Server thread/INFO]: theeminence lost connection: Disconnected
+[21:01:27] [Server thread/INFO]: theeminence left the game
+[21:05:17] [User Authenticator #23/INFO]: UUID of player jp7806073 is 68efd73e-a0cd-33f7-a574-2c7e5d7949df
+[21:05:21] [Server thread/INFO]: jp7806073 joined the game
+[21:05:21] [Server thread/INFO]: jp7806073[/127.134.27.178:44925] logged in with entity id 43804 at ([world]-318.2784404664797, 89.0, 125.34807813419184)
