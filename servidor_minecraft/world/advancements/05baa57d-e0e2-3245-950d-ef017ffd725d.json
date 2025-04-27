@@ -8,8 +8,11 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2025-04-27 02:42:24 +0000",
+      "minecraft:old_growth_birch_forest": "2025-04-27 19:59:13 +0000",
       "minecraft:beach": "2025-04-26 23:20:02 +0000",
+      "minecraft:dark_forest": "2025-04-27 19:57:07 +0000",
       "minecraft:forest": "2025-04-27 02:39:22 +0000",
+      "minecraft:ocean": "2025-04-27 19:55:43 +0000",
       "minecraft:river": "2025-04-27 02:38:37 +0000",
       "minecraft:meadow": "2025-04-27 02:59:24 +0000",
       "minecraft:plains": "2025-04-26 23:14:34 +0000"
@@ -460,6 +463,7 @@
       "minecraft:skeleton": "2025-04-27 04:18:07 +0000",
       "minecraft:piglin": "2025-04-27 18:37:26 +0000",
       "minecraft:enderman": "2025-04-27 19:07:05 +0000",
+      "minecraft:silverfish": "2025-04-27 20:02:52 +0000",
       "minecraft:magma_cube": "2025-04-27 19:23:46 +0000",
       "minecraft:spider": "2025-04-27 19:22:51 +0000",
       "minecraft:wither_skeleton": "2025-04-27 19:16:50 +0000",
@@ -1779,15 +1783,57 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-04-27 20:01:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2025-04-27 20:01:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/end_crystal": {
     "criteria": {
       "has_ender_eye": "2025-04-27 19:46:25 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2025-04-27 20:01:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2025-04-27 20:01:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-04-27 20:01:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/ender_eye": {
     "criteria": {
       "has_blaze_powder": "2025-04-27 19:46:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2025-04-27 20:01:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-04-27 20:01:58 +0000"
     },
     "done": true
   },
@@ -1803,9 +1849,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-04-27 20:01:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ender_chest": {
     "criteria": {
       "has_ender_eye": "2025-04-27 19:46:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-04-27 20:01:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-04-27 20:01:58 +0000"
     },
     "done": true
   },

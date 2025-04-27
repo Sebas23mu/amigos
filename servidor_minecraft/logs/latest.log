@@ -241,3 +241,20 @@
 [19:45:16] [Server thread/INFO]: Sebas23m issued server command: /home 1
 [19:54:12] [Server thread/INFO]: jp7806073 was shot by Lvl 8 | Skeleton
 [19:54:44] [Server thread/INFO]: jp7806073 issued server command: /home A1
+[19:56:20] [Server thread/INFO]: jp7806073 has made the advancement [Into Fire]
+[19:57:59] [Server thread/INFO]: Sebas23m issued server command: /tp jp7806073 Sebas23m
+[19:57:59] [Server thread/INFO]: [Sebas23m: Teleported jp7806073 to Sebas23m]
+[19:58:34] [Server thread/INFO]: jp7806073 issued server command: /home A1
+[19:59:01] [Server thread/INFO]: Sebas23m issued server command: /tp jp7806073 Sebas23m
+[19:59:01] [Server thread/INFO]: [Sebas23m: Teleported jp7806073 to Sebas23m]
+[20:01:11] [Server thread/INFO]: jp7806073 issued server command: /sethome Pw
+[20:01:14] [Server thread/INFO]: Sebas23m issued server command: /tp jp7806073 Sebas23m
+[20:01:14] [Server thread/INFO]: [Sebas23m: Teleported jp7806073 to Sebas23m]
+[20:01:58] [Server thread/INFO]: jp7806073 has made the advancement [Eye Spy]
+[20:01:59] [Server thread/INFO]: Sebas23m has made the advancement [Eye Spy]
+[20:03:13] [Server thread/INFO]: Sebas23m issued server command: /tp jp7806073 Sebas23m
+[20:03:13] [Server thread/INFO]: [Sebas23m: Teleported jp7806073 to Sebas23m]
+[20:04:35] [Server thread/INFO]: Sebas23m issued server command: /sethome 3
+[20:05:16] [User Authenticator #12/INFO]: UUID of player theeminence is 189e531e-636f-3356-8010-08d482d90f21
+[20:05:18] [Server thread/INFO]: theeminence joined the game
+[20:05:18] [Server thread/INFO]: theeminence[/127.149.42.123:42047] logged in with entity id 33066 at ([world]-329.51579211824674, 83.0, 170.7462654815423)
