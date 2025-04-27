@@ -1,416 +1,100 @@
-[02:33:28] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.6+7-Ubuntu-120.04.1; Ubuntu null) on Linux 6.8.0-1026-azure (amd64)
-[02:33:28] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.1-57-master@b483da4 (2024-09-01T18:09:05Z) for Minecraft 1.21.1
-[02:33:28] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[02:33:30] [Paper Plugin Remapper Thread - 0/INFO]: [PluginRemapper] Remapping plugin 'plugins/SkinsRestorer.jar'...
-[02:33:33] [Paper Plugin Remapper Thread - 0/INFO]: [PluginRemapper] Done remapping plugin 'plugins/SkinsRestorer.jar' in 3364ms.
-[02:33:33] [ServerMain/INFO]: [PluginInitializerManager] Initialized 7 plugins
-[02:33:33] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (7):
+[17:36:03] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.6+7-Ubuntu-120.04.1; Ubuntu null) on Linux 6.8.0-1026-azure (amd64)
+[17:36:03] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.1-57-master@b483da4 (2024-09-01T18:09:05Z) for Minecraft 1.21.1
+[17:36:03] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[17:36:04] [ServerMain/INFO]: [PluginInitializerManager] Initialized 7 plugins
+[17:36:04] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (7):
  - GSit (2.3.0), LevelledMobs (4.3.1 b112), LockShulker (1.0), LuckPerms (5.4.158), SkinsRestorer (15.6.2), SmoothTimber (1.27.4), UltraSetHome (1.7.9)
-[02:33:39] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[02:33:41] [ServerMain/INFO]: Loaded 1290 recipes
-[02:33:42] [ServerMain/INFO]: Loaded 1399 advancements
-[02:33:42] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[02:33:42] [Server thread/INFO]: Loading properties
-[02:33:42] [Server thread/INFO]: This server is running Paper version 1.21.1-57-master@b483da4 (2024-09-01T18:09:05Z) (Implementing API version 1.21.1-R0.1-SNAPSHOT)
-[02:33:43] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[02:33:43] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[02:33:43] [Server thread/INFO]: Using 4 threads for Netty based IO
-[02:33:44] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
-[02:33:45] [Server thread/INFO]: Default game type: SURVIVAL
-[02:33:45] [Server thread/INFO]: Generating keypair
-[02:33:45] [Server thread/INFO]: Starting Minecraft server on *:25565
-[02:33:45] [Server thread/INFO]: Using epoll channel type
-[02:33:45] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[02:33:45] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[02:33:48] [Server thread/INFO]: [SmoothTimber] Loading server plugin SmoothTimber v1.27.4
-[02:33:48] [Server thread/INFO]: [GSit] Loading server plugin GSit v2.3.0
-[02:33:49] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.4.158
-[02:33:49] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.6.2
-[02:33:49] [Server thread/INFO]: [UltraSetHome] Loading server plugin UltraSetHome v1.7.9
-[02:33:49] [Server thread/INFO]: [LockShulker] Loading server plugin LockShulker v1.0
-[02:33:49] [Server thread/INFO]: [LevelledMobs] Loading server plugin LevelledMobs v4.3.1 b112
-[02:33:49] [Server thread/INFO]: [LevelledMobs] Loading commands
-[02:33:50] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[02:33:50] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.158
-[02:33:51] [Server thread/INFO]:         __    
-[02:33:51] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.158
-[02:33:51] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
-[02:33:51] [Server thread/INFO]: 
-[02:33:51] [Server thread/INFO]: [LuckPerms] Loading configuration...
-[02:33:51] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
-[02:33:52] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
-[02:33:52] [Server thread/INFO]: [LuckPerms] Performing initial data load...
-[02:33:52] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 1440ms)
-[02:33:52] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.6.2
-[02:33:53] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
-[02:33:54] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.1.
-[02:33:55] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
-[02:33:55] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[02:33:55] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[02:33:55] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[02:33:55] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[02:33:55] [Server thread/INFO]: Preparing level "world"
-[02:33:56] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[02:33:56] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[02:33:56] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
-[02:33:56] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
-[02:33:56] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
-[02:33:56] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[02:33:56] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[02:33:56] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.6.2
-[02:33:56] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: 7bda5de
-[02:33:56] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
-[02:33:56] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[02:33:56] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
-[02:33:56] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
-[02:33:56] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[02:33:57] [Server thread/INFO]: Time elapsed: 1537 ms
-[02:33:57] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[02:33:58] [Server thread/INFO]: Time elapsed: 323 ms
-[02:33:58] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[02:33:58] [Server thread/INFO]: Time elapsed: 326 ms
-[02:33:58] [Server thread/INFO]: [SmoothTimber] Enabling SmoothTimber v1.27.4
-[02:33:58] [Server thread/INFO]: SmoothTimber || You're currently using the supported Minecraft Version 1.21.1 (Core v1_20x)
-[02:33:58] [Server thread/INFO]: [GSit] Enabling GSit v2.3.0
-[02:33:59] [Server thread/INFO]: [GSit] The plugin was successfully enabled.
-[02:33:59] [Server thread/INFO]: [UltraSetHome] Enabling UltraSetHome v1.7.9
-[02:34:00] [Server thread/INFO]: [LockShulker] Enabling LockShulker v1.0
-[02:34:00] [Server thread/INFO]: [LockShulker] LockShulker включен!
-[02:34:00] [Server thread/INFO]: [LevelledMobs] Enabling LevelledMobs v4.3.1 b112
-[02:34:00] [Server thread/INFO]: [LevelledMobs] Enabling commands
-[02:34:00] [Server thread/INFO]: [LevelledMobs] Building reflection cache, use simple names: true
-[02:34:00] [Server thread/INFO]: [LevelledMobs] Using NMS version 1.21.1 for nametag support
-[02:34:00] [Server thread/INFO]: [LevelledMobs] File Loader: Loading files...
-[02:34:00] [Server thread/INFO]: [LevelledMobs] File Loader: Loading file 'settings.yml'...
-[02:34:00] [Server thread/INFO]: [LevelledMobs] File Loader: Loading file 'messages.yml'...
-[02:34:00] [Server thread/INFO]: [LevelledMobs] File Loader: Loading file 'externalplugins.yml'...
-[02:34:00] [Server thread/INFO]: [LevelledMobs] File Loader: Loading file 'rules.yml'...
-[02:34:01] [Server thread/INFO]: [LevelledMobs] Current rules hash: 9b0f48e3273bb9cc29d2891ad33fb3410fec8cf1e77c2092ff670fd38f6d4ff5
-[02:34:01] [Server thread/INFO]: [LevelledMobs] File Loader: Loading file 'customdrops.yml'...
-[02:34:01] [Server thread/INFO]: [LevelledMobs] Listeners: Registering event listeners...
-[02:34:01] [Server thread/INFO]: [LevelledMobs] Running misc procedures
-[02:34:01] [Server thread/INFO]: [LevelledMobs] Tasks: Starting async nametag auto update task...
-[02:34:01] [Server thread/INFO]: [LevelledMobs] Start-up complete (took 895ms)
-[02:34:01] [Server thread/INFO]: [spark] Starting background profiler...
-[02:34:02] [Server thread/INFO]: Done preparing level "world" (6.381s)
-[02:34:02] [Server thread/INFO]: Running delayed init tasks
-[02:34:02] [Server thread/INFO]: Done (36.149s)! For help, type "help"
-[02:34:02] [Server thread/INFO]: Timings Reset
-[02:34:02] [Server thread/INFO]: [UltraSetHome] You are using the latest version of UltraSetHome.
-[02:34:49] [User Authenticator #0/INFO]: UUID of player theeminence is 189e531e-636f-3356-8010-08d482d90f21
-[02:34:52] [Server thread/INFO]: theeminence joined the game
-[02:34:52] [Server thread/INFO]: theeminence[/127.211.162.104:59947] logged in with entity id 94 at ([world]6.5, 69.0, 33.5)
-[02:36:26] [User Authenticator #1/INFO]: UUID of player Sebas23m is 05baa57d-e0e2-3245-950d-ef017ffd725d
-[02:36:30] [Server thread/INFO]: Sebas23m joined the game
-[02:36:30] [Server thread/INFO]: Sebas23m[/127.50.210.97:39125] logged in with entity id 530 at ([world]27.966017963035476, 74.0, 57.831703978451706)
-[02:37:11] [Async Chat Thread - #0/INFO]: [Not Secure] <Sebas23m> esta lo de las skin
-[02:37:19] [Server thread/INFO]: theeminence issued server command: /skin me menu
-[02:37:36] [Server thread/INFO]: Sebas23m issued server command: /skin menu
-[02:37:43] [Server thread/INFO]: theeminence issued server command: /skins
-[02:37:45] [Server thread/INFO]: Sebas23m issued server command: /skin menu
-[02:37:45] [Folia Async Scheduler Thread #3/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[02:37:53] [Server thread/INFO]: Sebas23m issued server command: /skin menu
-[02:39:10] [Async Chat Thread - #1/INFO]: [Not Secure] <Sebas23m> toca buscar la aldea
-[02:39:35] [Async Chat Thread - #1/INFO]: [Not Secure] <theeminence> bueno
-[02:40:32] [Server thread/INFO]: theeminence has made the advancement [Stone Age]
-[02:41:04] [User Authenticator #2/INFO]: UUID of player jp7806073 is 68efd73e-a0cd-33f7-a574-2c7e5d7949df
-[02:41:10] [Server thread/INFO]: jp7806073 joined the game
-[02:41:10] [Server thread/INFO]: jp7806073[/127.134.27.178:49829] logged in with entity id 1445 at ([world]2.5, 67.0, 34.5)
-[02:41:11] [Server thread/INFO]: theeminence has made the advancement [Getting an Upgrade]
-[02:41:23] [Async Chat Thread - #3/INFO]: [Not Secure] <Sebas23m> por que te saliste de la llamada
-[02:41:26] [Server thread/INFO]: jp7806073 lost connection: Disconnected
-[02:41:26] [Server thread/INFO]: jp7806073 left the game
-[02:41:48] [Async Chat Thread - #3/INFO]: [Not Secure] <theeminence> me da lag el juego
-[02:42:14] [Async Chat Thread - #3/INFO]: [Not Secure] <Sebas23m> maicol me avisas si encuetras una aldea
-[02:42:26] [Async Chat Thread - #4/INFO]: [Not Secure] <theeminence> dale
-[02:44:18] [User Authenticator #3/INFO]: UUID of player jp7806073 is 68efd73e-a0cd-33f7-a574-2c7e5d7949df
-[02:44:23] [Server thread/INFO]: jp7806073 joined the game
-[02:44:23] [Server thread/INFO]: jp7806073[/127.134.27.178:44609] logged in with entity id 3297 at ([world]2.5, 67.0, 34.5)
-[02:44:32] [Server thread/INFO]: jp7806073 lost connection: Disconnected
-[02:44:32] [Server thread/INFO]: jp7806073 left the game
-[02:45:59] [Async Chat Thread - #5/INFO]: [Not Secure] <theeminence> Jesus derecha o no izquierda
-[02:46:10] [Async Chat Thread - #5/INFO]: [Not Secure] <Sebas23m> izquierda
-[02:46:25] [Server thread/INFO]: theeminence has made the advancement [Sweet Dreams]
-[02:46:42] [User Authenticator #4/INFO]: UUID of player jp7806073 is 68efd73e-a0cd-33f7-a574-2c7e5d7949df
-[02:46:46] [Server thread/INFO]: jp7806073 joined the game
-[02:46:46] [Server thread/INFO]: jp7806073[/127.134.27.178:40279] logged in with entity id 4727 at ([world]2.5, 67.0, 34.5)
-[02:47:42] [Async Chat Thread - #7/INFO]: [Not Secure] <jp7806073> theeminence
-[02:47:45] [Async Chat Thread - #7/INFO]: [Not Secure] <jp7806073> pasó?
-[02:48:23] [Async Chat Thread - #7/INFO]: [Not Secure] <theeminence> ah?
-[02:48:24] [Server thread/INFO]: Sebas23m issued server command: /tp jp7806073
-[02:48:24] [Server thread/INFO]: [Sebas23m: Teleported Sebas23m to jp7806073]
-[02:48:37] [Server thread/INFO]: jp7806073 was slain by Lvl 7 | Zombie
-[02:48:41] [Server thread/INFO]: Sebas23m has made the advancement [Monster Hunter]
-[02:49:47] [Server thread/INFO]: Sebas23m has made the advancement [Sweet Dreams]
-[02:49:50] [Server thread/INFO]: jp7806073 has made the advancement [Stone Age]
-[02:50:17] [Server thread/INFO]: jp7806073 has made the advancement [Getting an Upgrade]
-[02:50:27] [Server thread/INFO]: jp7806073 has made the advancement [Monster Hunter]
-[02:50:28] [Server thread/INFO]: Sebas23m issued server command: /difficulty hard
-[02:50:28] [Server thread/INFO]: [Sebas23m: The difficulty has been set to Hard]
-[02:50:34] [Async Chat Thread - #9/INFO]: [Not Secure] <theeminence> Jesus me encontré un manglar
-[02:50:46] [Async Chat Thread - #9/INFO]: [Not Secure] <Sebas23m> bueno
-[02:51:31] [Server thread/INFO]: Sebas23m was shot by Lvl 5 | Skeleton
-[02:52:12] [Server thread/INFO]: jp7806073 was shot by Lvl 1 | Skeleton
-[02:55:14] [Server thread/INFO]: theeminence was shot by Lvl 4 | Skeleton
-[02:55:24] [Async Chat Thread - #12/INFO]: [Not Secure] <theeminence> noooooooo
-[02:55:37] [Async Chat Thread - #12/INFO]: [Not Secure] <Sebas23m> que paso
-[02:56:00] [Async Chat Thread - #12/INFO]: [Not Secure] <theeminence> avance re arto y me mato un esqueleto y un zombie chiquito
-[02:56:43] [Async Chat Thread - #12/INFO]: [Not Secure] <theeminence> jesus
-[02:56:47] [Async Chat Thread - #12/INFO]: [Not Secure] <theeminence> ...
-[02:56:52] [Server thread/INFO]: jp7806073 has made the advancement [Acquire Hardware]
-[02:56:59] [Async Chat Thread - #12/INFO]: [Not Secure] <theeminence> había una aldea cerca del spawn
-[02:57:08] [Async Chat Thread - #12/INFO]: [Not Secure] <theeminence> estaba atrás
-[02:57:09] [Async Chat Thread - #11/INFO]: [Not Secure] <Sebas23m> en que parte
-[02:57:16] [Async Chat Thread - #11/INFO]: [Not Secure] <theeminence> Haste tp
-[02:57:26] [Async Chat Thread - #11/INFO]: [Not Secure] <Sebas23m> voy
-[02:57:31] [Server thread/INFO]: Sebas23m issued server command: /tp theeminence
-[02:57:31] [Server thread/INFO]: [Sebas23m: Teleported Sebas23m to theeminence]
-[02:57:42] [Async Chat Thread - #11/INFO]: [Not Secure] <Sebas23m> lo amo
-[02:58:33] [Async Chat Thread - #11/INFO]: [Not Secure] <theeminence> jajaja el único problema es que toca ir a la siguiente montaña cruzando el rio pa construir
-[02:59:10] [Server thread/INFO]: Sebas23m issued server command: /tp jp7806073 Sebas23m
-[02:59:10] [Server thread/INFO]: [Sebas23m: Teleported jp7806073 to Sebas23m]
-[02:59:20] [Server thread/INFO]: Sebas23m issued server command: /sethome 1
-[02:59:24] [Async Chat Thread - #11/INFO]: [Not Secure] <theeminence> hola
-[02:59:24] [Server thread/INFO]: jp7806073 issued server command: /sethome A1
-[03:01:08] [Server thread/INFO]: Sebas23m has made the advancement [Acquire Hardware]
-[03:01:50] [Async Chat Thread - #13/INFO]: [Not Secure] <theeminence> jesus
-[03:01:55] [Server thread/INFO]: jp7806073 was blown up by Lvl 12 | Creeper
-[03:02:04] [Server thread/INFO]: jp7806073 issued server command: /home A1
-[03:02:08] [Async Chat Thread - #13/INFO]: [Not Secure] <theeminence> por allá podemos hacer la base
-[03:02:09] [Server thread/INFO]: Sebas23m issued server command: /tp jp7806073 Sebas23m
-[03:02:09] [Server thread/INFO]: [Sebas23m: Teleported jp7806073 to Sebas23m]
-[03:02:15] [Server thread/INFO]: jp7806073 has made the advancement [Sweet Dreams]
-[03:02:51] [Server thread/INFO]: jp7806073 issued server command: /skin menu
-[03:03:01] [Async Chat Thread - #13/INFO]: [Not Secure] <theeminence> perdón
-[03:03:47] [Async Chat Thread - #13/INFO]: [Not Secure] <theeminence> Jesus por haya podemos hacer la casa
-[03:04:01] [Async Chat Thread - #13/INFO]: [Not Secure] <Sebas23m> no la voy hacer en las cordenadas 0 0
-[03:04:16] [Async Chat Thread - #13/INFO]: [Not Secure] <theeminence> bueno
-[03:04:18] [Async Chat Thread - #13/INFO]: [Not Secure] <Sebas23m> esto es mientras consigo la armadura
-[03:06:39] [Async Chat Thread - #15/INFO]: [Not Secure] <Sebas23m> maicol voy hacer algo rapido
-[03:06:48] [Async Chat Thread - #15/INFO]: [Not Secure] <theeminence> bueno
-[03:06:51] [Async Chat Thread - #15/INFO]: [Not Secure] <Sebas23m> me ayudas hay que entren todos los aldenaos
-[03:06:56] [Async Chat Thread - #15/INFO]: [Not Secure] <theeminence> dale
-[03:07:49] [Server thread/INFO]: jp7806073 issued server command: /sethome C1
-[03:07:56] [Server thread/INFO]: jp7806073 issued server command: /
-[03:08:14] [Server thread/INFO]: Villager Villager['Nitwit'/10142, uuid='a350aac3-8862-46df-945b-70e3aec89b87', l='ServerLevel[world]', x=-299.42, y=85.00, z=124.54, cpos=[-19, 7], tl=14044, v=true] died, message: 'Nitwit was slain by theeminence'
-[03:11:04] [Async Chat Thread - #17/INFO]: [Not Secure] <jp7806073> maicol me encontré un barco tengo plantillas y mapa del tesoro
-[03:11:13] [Async Chat Thread - #17/INFO]: [Not Secure] <theeminence> ala
-[03:11:25] [Async Chat Thread - #17/INFO]: [Not Secure] <jp7806073> el problema está en la monda el tesoro
-[03:11:36] [Async Chat Thread - #17/INFO]: [Not Secure] <theeminence> no chao
-[03:11:38] [Server thread/INFO]: jp7806073 has made the advancement [Suit Up]
-[03:11:43] [Async Chat Thread - #17/INFO]: [Not Secure] <theeminence> no vale la pena
-[03:11:53] [Server thread/INFO]: jp7806073 has made the advancement [Isn't It Iron Pick]
-[03:12:04] [Async Chat Thread - #17/INFO]: [Not Secure] <jp7806073> no
-[03:14:18] [Server thread/INFO]: jp7806073 has made the advancement [Diamonds!]
-[03:15:45] [Server thread/INFO]: Sebas23m was slain by Lvl 5 | Zombie
-[03:15:58] [Server thread/INFO]: Sebas23m issued server command: /home 1
-[03:17:03] [Server thread/INFO]: Sebas23m lost connection: Disconnected
-[03:17:03] [Server thread/INFO]: Sebas23m left the game
-[03:17:03] [Server thread/INFO]: jp7806073 was shot by Lvl 3 | Skeleton
-[03:17:15] [Server thread/INFO]: jp7806073 issued server command: /home C1
-[03:18:33] [Server thread/INFO]: theeminence fell from a high place
-[03:20:21] [Server thread/INFO]: theeminence has made the advancement [Monster Hunter]
-[03:21:33] [Server thread/INFO]: theeminence lost connection: Disconnected
-[03:21:33] [Server thread/INFO]: theeminence left the game
-[03:22:53] [Server thread/INFO]: jp7806073 was blown up by Lvl 5 | Creeper
-[03:23:01] [User Authenticator #5/INFO]: UUID of player Sebas23m is 05baa57d-e0e2-3245-950d-ef017ffd725d
-[03:23:03] [Server thread/INFO]: jp7806073 issued server command: /home C1
-[03:23:06] [Server thread/INFO]: Sebas23m joined the game
-[03:23:06] [Server thread/INFO]: Sebas23m[/127.50.210.97:37863] logged in with entity id 22284 at ([world]-333.5852147718541, 86.0, 163.67964760028798)
-[03:30:55] [User Authenticator #6/INFO]: UUID of player theeminence is 189e531e-636f-3356-8010-08d482d90f21
-[03:30:57] [Server thread/INFO]: theeminence joined the game
-[03:30:57] [Server thread/INFO]: theeminence[/127.211.162.104:45111] logged in with entity id 25391 at ([world]-320.621565024707, 88.0, 169.65570510795007)
-[03:31:14] [Async Chat Thread - #19/INFO]: [Not Secure] <theeminence> holaaa
-[03:31:19] [Async Chat Thread - #19/INFO]: [Not Secure] <Sebas23m> hola
-[03:31:22] [Async Chat Thread - #19/INFO]: [Not Secure] <theeminence> llegué
-[03:31:37] [Async Chat Thread - #19/INFO]: [Not Secure] <jp7806073> q bien ya estamos full diamante
-[03:31:39] [Async Chat Thread - #19/INFO]: [Not Secure] <theeminence> que toca hacer
-[03:31:46] [Async Chat Thread - #20/INFO]: [Not Secure] <Sebas23m> maicol un fa me ayudas a buscar unos arboles de abeto o de jungla
-[03:31:47] [Async Chat Thread - #20/INFO]: [Not Secure] <theeminence> a
-[03:32:00] [Async Chat Thread - #20/INFO]: [Not Secure] <theeminence> a bro sigu m
-[03:32:38] [Async Chat Thread - #20/INFO]: [Not Secure] <theeminence> ya están full diamante?
-[03:32:53] [Server thread/INFO]: jp7806073 issued server command: /home C1
-[03:33:01] [Server thread/INFO]: Sebas23m has made the advancement [What a Deal!]
-[03:34:57] [Server thread/INFO]: theeminence was slain by Lvl 6 | Zombie
-[03:36:49] [Async Chat Thread - #21/INFO]: [Not Secure] <theeminence> mano
-[03:36:58] [Async Chat Thread - #21/INFO]: [Not Secure] <theeminence> encontré otra aldea ajajjaja
-[03:36:58] [Async Chat Thread - #21/INFO]: [Not Secure] <Sebas23m> que paso
-[03:37:38] [Async Chat Thread - #21/INFO]: [Not Secure] <theeminence> a nadie
-[03:37:43] [Async Chat Thread - #21/INFO]: [Not Secure] <theeminence> a no*
-[03:38:12] [Server thread/INFO]: Sebas23m issued server command: /tp jp7806073
-[03:38:12] [Server thread/INFO]: [Sebas23m: Teleported Sebas23m to jp7806073]
-[03:38:24] [Server thread/INFO]: jp7806073 issued server command: /home A1
-[03:38:27] [Server thread/INFO]: Sebas23m was shot by Lvl 6 | Skeleton
-[03:38:37] [Server thread/INFO]: Sebas23m issued server command: /home 1
-[03:39:50] [Server thread/INFO]: theeminence was doomed to fall by Skeleton
-[03:40:06] [Async Chat Thread - #23/INFO]: [Not Secure] <theeminence> no jodas
-[03:41:33] [Server thread/INFO]: jp7806073 issued server command: /home A1
-[03:42:21] [Async Chat Thread - #25/INFO]: [Not Secure] <theeminence> no eh encontrado por acá cerca
-[03:42:29] [Async Chat Thread - #25/INFO]: [Not Secure] <jp7806073> maicol
-[03:42:30] [Server thread/INFO]: theeminence was slain by Iron Golem ❤
-[03:42:31] [Async Chat Thread - #25/INFO]: [Not Secure] <jp7806073> comida
-[03:42:43] [Async Chat Thread - #25/INFO]: [Not Secure] <jp7806073> tenés el trigo de las aldeas
-[03:42:46] [Async Chat Thread - #25/INFO]: [Not Secure] <theeminence> no tengo
-[03:43:00] [Async Chat Thread - #26/INFO]: [Not Secure] <theeminence> solo. tengo carne podrida
-[03:43:43] [Server thread/INFO]: jp7806073 issued server command: /home C1
-[03:47:23] [Server thread/INFO]: Sebas23m issued server command: /tp jp7806073
-[03:47:23] [Server thread/INFO]: [Sebas23m: Teleported Sebas23m to jp7806073]
-[03:47:53] [Server thread/INFO]: Sebas23m issued server command: /home 1
-[03:48:43] [Server thread/INFO]: Sebas23m has made the advancement [Stone Age]
-[03:49:00] [Server thread/INFO]: Sebas23m issued server command: /home 1
-[03:49:35] [Server thread/INFO]: theeminence has made the advancement [What a Deal!]
-[03:52:30] [Async Chat Thread - #27/INFO]: [Not Secure] <theeminence> Jesus
-[03:52:39] [Async Chat Thread - #27/INFO]: [Not Secure] <Sebas23m> dime
-[03:52:49] [Server thread/INFO]: Sebas23m has made the advancement [Suit Up]
-[03:52:54] [Async Chat Thread - #27/INFO]: [Not Secure] <theeminence> deberíamos hacer un cofre doble con troncos de madera para palitos
-[03:53:00] [Server thread/INFO]: theeminence has made the advancement [Suit Up]
-[03:53:11] [Async Chat Thread - #27/INFO]: [Not Secure] <theeminence> tienes comida bro?
-[03:53:31] [Async Chat Thread - #27/INFO]: [Not Secure] <theeminence> gracias
-[03:54:40] [Server thread/INFO]: Sebas23m issued server command: /home 1
-[03:55:50] [Server thread/INFO]: Sebas23m has made the advancement [Getting an Upgrade]
-[03:58:10] [Server thread/INFO]: Sebas23m was slain by Lvl 12 | Zombie
-[03:58:26] [Async Chat Thread - #29/INFO]: [Not Secure] <jp7806073> noob
-[03:59:05] [Async Chat Thread - #29/INFO]: [Not Secure] <Sebas23m> cuantas esmeraldas tienes maicol
-[03:59:14] [Async Chat Thread - #29/INFO]: [Not Secure] <theeminence> 19
-[03:59:22] [Async Chat Thread - #29/INFO]: [Not Secure] <Sebas23m> me los das
-[03:59:34] [Async Chat Thread - #29/INFO]: [Not Secure] <theeminence> si bro
-[04:00:04] [Async Chat Thread - #29/INFO]: [Not Secure] <theeminence> tepeate
-[04:00:22] [Server thread/INFO]: theeminence was slain by Lvl 5 | Zombie
-[04:00:45] [Server thread/INFO]: theeminence was blown up by Lvl 12 | Creeper
-[04:02:33] [Server thread/INFO]: jp7806073 has made the advancement [Hot Stuff]
-[04:04:23] [Async Chat Thread - #31/INFO]: [Not Secure] <theeminence> ahí te dejo madera
-[04:04:31] [Async Chat Thread - #31/INFO]: [Not Secure] <theeminence> gracias
-[04:05:28] [Async Chat Thread - #31/INFO]: [Not Secure] <theeminence> Jesus ya vengo
-[04:05:40] [Server thread/INFO]: theeminence issued server command: /sethome a
-[04:05:47] [Server thread/INFO]: theeminence lost connection: Disconnected
-[04:05:47] [Server thread/INFO]: theeminence left the game
-[04:06:56] [Server thread/INFO]: Sebas23m issued server command: /tp jp7806073
-[04:06:56] [Server thread/INFO]: [Sebas23m: Teleported Sebas23m to jp7806073]
-[04:07:00] [User Authenticator #7/INFO]: UUID of player theeminence is 189e531e-636f-3356-8010-08d482d90f21
-[04:07:03] [Server thread/INFO]: theeminence joined the game
-[04:07:03] [Server thread/INFO]: theeminence[/127.211.162.104:56979] logged in with entity id 42497 at ([world]-332.7711072846364, 87.0, 166.07499998807907)
-[04:07:27] [Async Chat Thread - #33/INFO]: [Not Secure] <theeminence> Jesus ya te traigo más madera
-[04:08:08] [Server thread/INFO]: Sebas23m has made the advancement [Hot Stuff]
-[04:08:30] [Server thread/INFO]: Sebas23m issued server command: /home 1
-[04:10:08] [Server thread/INFO]: Sebas23m has made the advancement [A Seedy Place]
-[04:12:04] [Server thread/INFO]: jp7806073 was shot by Lvl 11 | Skeleton
-[04:12:24] [Server thread/INFO]: jp7806073 issued server command: /home C1
-[04:13:10] [Server thread/INFO]: theeminence issued server command: /sethome b
-[04:14:22] [Server thread/INFO]: theeminence was shot by Lvl 1 | Skeleton
-[04:15:00] [Async Chat Thread - #35/INFO]: [Not Secure] <theeminence> ahí tienes madera
-[04:15:13] [Server thread/INFO]: jp7806073 was slain by Lvl 3 | Spawner Zombie
-[04:15:36] [Server thread/INFO]: jp7806073 issued server command: /home C1
-[04:15:52] [Async Chat Thread - #35/INFO]: [Not Secure] <Sebas23m> no vayas a tradear con los aldeanos estan careros
-[04:16:10] [Async Chat Thread - #35/INFO]: [Not Secure] <theeminence> tranquilo
-[04:16:25] [Async Chat Thread - #35/INFO]: [Not Secure] <theeminence> estoy modo recolectando recursos
-[04:16:36] [Server thread/INFO]: jp7806073 fell from a high place
-[04:16:54] [Server thread/INFO]: jp7806073 issued server command: /home C1
-[04:17:08] [Server thread/INFO]: Sebas23m was slain by Iron Golem ❤
-[04:17:12] [Server thread/INFO]: theeminence was blown up by Lvl 13 | Creeper
-[04:17:56] [Server thread/INFO]: Sebas23m was shot by Lvl 1 | Skeleton
-[04:18:42] [Async Chat Thread - #37/INFO]: [Not Secure] <theeminence> que encantamiento tiene la hacha de diamante?
-[04:18:54] [Async Chat Thread - #37/INFO]: [Not Secure] <Sebas23m> eficiencia 1
-[04:19:01] [Async Chat Thread - #37/INFO]: [Not Secure] <theeminence> ok
-[04:19:27] [Async Chat Thread - #37/INFO]: [Not Secure] <Sebas23m> ya ahora la armadura
-[04:19:33] [Async Chat Thread - #37/INFO]: [Not Secure] <theeminence> jays aspecto igneo
-[04:20:31] [Async Chat Thread - #37/INFO]: [Not Secure] <theeminence> en el cofre te deje madera
-[04:20:36] [Server thread/INFO]: Sebas23m issued server command: /tp jp7806073
-[04:20:36] [Server thread/INFO]: [Sebas23m: Teleported Sebas23m to jp7806073]
-[04:21:07] [Server thread/INFO]: theeminence was slain by Lvl 7 | Zombie
-[04:21:18] [Server thread/INFO]: Sebas23m issued server command: /home 1
-[04:21:35] [Async Chat Thread - #39/INFO]: [Not Secure] <theeminence> jesus
-[04:21:43] [Async Chat Thread - #39/INFO]: [Not Secure] <Sebas23m> dime
-[04:21:54] [Async Chat Thread - #39/INFO]: [Not Secure] <theeminence> en el cofr hay madera
-[04:22:02] [Async Chat Thread - #39/INFO]: [Not Secure] <Sebas23m> listo
-[04:22:12] [Async Chat Thread - #39/INFO]: [Not Secure] <Sebas23m> ya vengo voy a busca carbon
-[04:22:46] [Server thread/INFO]: theeminence issued server command: /home b
-[04:24:52] [Server thread/INFO]: Sebas23m issued server command: /home 1
-[04:26:02] [Server thread/INFO]: jp7806073 issued server command: /home C1
-[04:26:41] [Server thread/INFO]: jp7806073 has made the advancement [Cover Me with Diamonds]
-[04:31:38] [Async Chat Thread - #41/INFO]: [Not Secure] <theeminence> encontré otra aldea
-[04:31:48] [Server thread/INFO]: Sebas23m issued server command: /tp jp7806073
-[04:31:48] [Server thread/INFO]: [Sebas23m: Teleported Sebas23m to jp7806073]
-[04:32:03] [Server thread/INFO]: Sebas23m has made the advancement [Diamonds!]
-[04:32:08] [Server thread/INFO]: Sebas23m issued server command: /home 1
-[04:32:59] [Server thread/INFO]: jp7806073 issued server command: /home C1
-[04:34:35] [Server thread/INFO]: Sebas23m issued server command: /gamerule playersSleepingPercentage 1
-[04:34:35] [Server thread/INFO]: [Sebas23m: Gamerule playersSleepingPercentage is now set to: 1]
-[04:35:57] [Server thread/INFO]: theeminence issued server command: /sethome a2
-[04:35:59] [Server thread/INFO]: jp7806073 issued server command: /sethome c11
-[04:36:05] [Server thread/INFO]: theeminence issued server command: /home a
-[04:36:26] [Async Chat Thread - #43/INFO]: [Not Secure] <theeminence> bro toma
-[04:36:53] [Async Chat Thread - #43/INFO]: [Not Secure] <Sebas23m> ya tenemos pantalones y botas +
-[04:37:19] [Async Chat Thread - #43/INFO]: [Not Secure] <theeminence> BR
-[04:37:53] [Async Chat Thread - #43/INFO]: [Not Secure] <theeminence> ya te di como 8 Sta ks
-[04:38:50] [Async Chat Thread - #43/INFO]: [Not Secure] <theeminence> bro necesito hacha
-[04:39:00] [Async Chat Thread - #43/INFO]: [Not Secure] <theeminence> porfas
-[04:39:01] [Async Chat Thread - #43/INFO]: [Not Secure] <Sebas23m> nop ya tengo
-[04:39:09] [Server thread/INFO]: jp7806073 issued server command: /sethome S
-[04:39:22] [Async Chat Thread - #43/INFO]: [Not Secure] <Sebas23m> espera
-[04:39:26] [Async Chat Thread - #43/INFO]: [Not Secure] <theeminence> a la vrg tremendo bosaue
-[04:39:45] [Async Chat Thread - #43/INFO]: [Not Secure] <Sebas23m> toma
-[04:40:01] [Async Chat Thread - #43/INFO]: [Not Secure] <theeminence> gracias
-[04:40:08] [Async Chat Thread - #43/INFO]: [Not Secure] <Sebas23m> bueno
-[04:40:34] [Async Chat Thread - #43/INFO]: [Not Secure] <theeminence> cuantas esmeraldas tenemos
-[04:40:46] [Async Chat Thread - #43/INFO]: [Not Secure] <Sebas23m> 15
-[04:40:52] [Async Chat Thread - #43/INFO]: [Not Secure] <theeminence> haber si comercio con lo de la otra aldea
-[04:41:03] [Async Chat Thread - #43/INFO]: [Not Secure] <Sebas23m> buneno
-[04:42:24] [Server thread/INFO]: theeminence issued server command: /home a2
-[04:44:16] [Server thread/INFO]: Sebas23m has made the advancement [Cover Me with Diamonds]
-[04:45:17] [Server thread/INFO]: theeminence issued server command: /home a
-[04:46:58] [Async Chat Thread - #46/INFO]: [Not Secure] <theeminence> ??
-[04:47:28] [Async Chat Thread - #46/INFO]: [Not Secure] <Sebas23m> espera que reinicien
-[04:47:34] [Async Chat Thread - #46/INFO]: [Not Secure] <theeminence> están carreros
-[04:48:22] [Async Chat Thread - #46/INFO]: [Not Secure] <Sebas23m> bueno mañana a las 9 seguimos
-[04:48:44] [Async Chat Thread - #46/INFO]: [Not Secure] <theeminence> a.como está la armadura
-[04:49:07] [Server thread/INFO]: theeminence has made the advancement [Cover Me with Diamonds]
-[04:51:39] [Server thread/INFO]: Sebas23m issued server command: /tp jp7806073
-[04:51:39] [Server thread/INFO]: [Sebas23m: Teleported Sebas23m to jp7806073]
-[04:51:46] [Server thread/INFO]: theeminence lost connection: Disconnected
-[04:51:46] [Server thread/INFO]: theeminence left the game
-[04:51:59] [Server thread/INFO]: jp7806073 was burned to a crisp while fighting Zombie
-[04:52:12] [Server thread/INFO]: jp7806073 lost connection: Disconnected
-[04:52:12] [Server thread/INFO]: jp7806073 left the game
-[04:52:20] [Server thread/INFO]: Sebas23m issued server command: /home 1
-[04:52:28] [Server thread/INFO]: Sebas23m lost connection: Disconnected
-[04:52:28] [Server thread/INFO]: Sebas23m left the game
-[04:53:04] [Server thread/INFO]: Stopping the server
-[04:53:04] [Server thread/INFO]: Stopping server
-[04:53:04] [Server thread/INFO]: [LevelledMobs] Disabling LevelledMobs v4.3.1 b112
-[04:53:04] [Server thread/INFO]: [LevelledMobs] Unregistering commands
-[04:53:04] [Server thread/INFO]: [LevelledMobs] Tasks: Shutting down other async tasks...
-[04:53:04] [Craft Scheduler Thread - 2 - LevelledMobs/INFO]: [LevelledMobs] Mob processing queue Manager has exited
-[04:53:04] [Server thread/INFO]: [LevelledMobs] Shut-down complete (took 2ms)
-[04:53:04] [Craft Scheduler Thread - 4 - LevelledMobs/INFO]: [LevelledMobs] Nametag update queue Manager has exited
-[04:53:04] [Server thread/INFO]: [LockShulker] Disabling LockShulker v1.0
-[04:53:04] [Server thread/INFO]: [LockShulker] LockShulker выключен!
-[04:53:04] [Server thread/INFO]: [UltraSetHome] Disabling UltraSetHome v1.7.9
-[04:53:04] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.6.2
-[04:53:04] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.158
-[04:53:04] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
-[04:53:04] [Server thread/INFO]: [LuckPerms] Closing storage...
-[04:53:04] [Server thread/INFO]: [LuckPerms] Goodbye!
-[04:53:04] [Server thread/INFO]: [GSit] Disabling GSit v2.3.0
-[04:53:04] [Server thread/INFO]: [GSit] The plugin was successfully disabled.
-[04:53:04] [Server thread/INFO]: [SmoothTimber] Disabling SmoothTimber v1.27.4
-[04:53:04] [Server thread/INFO]: Saving players
-[04:53:05] [Server thread/INFO]: Saving worlds
-[04:53:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[04:53:05] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
-[04:53:05] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
-[04:53:05] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
-[04:53:05] [Server thread/INFO]: [ChunkHolderManager] Saved 34 block chunks, 94 entity chunks, 0 poi chunks in world 'world' in 0.10s
-[04:53:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[04:53:05] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
-[04:53:05] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
-[04:53:05] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
-[04:53:05] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 2 entity chunks, 0 poi chunks in world 'world_nether' in 0.00s
-[04:53:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[04:53:05] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
-[04:53:05] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
-[04:53:05] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
-[04:53:05] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.01s
-[04:53:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[04:53:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[04:53:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[04:53:05] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[17:36:10] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[17:36:12] [ServerMain/INFO]: Loaded 1290 recipes
+[17:36:12] [ServerMain/INFO]: Loaded 1399 advancements
+[17:36:12] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[17:36:12] [Server thread/INFO]: Loading properties
+[17:36:12] [Server thread/INFO]: This server is running Paper version 1.21.1-57-master@b483da4 (2024-09-01T18:09:05Z) (Implementing API version 1.21.1-R0.1-SNAPSHOT)
+[17:36:13] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[17:36:13] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[17:36:13] [Server thread/INFO]: Using 4 threads for Netty based IO
+[17:36:14] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
+[17:36:14] [Server thread/INFO]: Default game type: SURVIVAL
+[17:36:14] [Server thread/INFO]: Generating keypair
+[17:36:15] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:36:15] [Server thread/INFO]: Using epoll channel type
+[17:36:15] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[17:36:15] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[17:36:18] [Server thread/INFO]: [SmoothTimber] Loading server plugin SmoothTimber v1.27.4
+[17:36:18] [Server thread/INFO]: [GSit] Loading server plugin GSit v2.3.0
+[17:36:18] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.4.158
+[17:36:18] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.6.2
+[17:36:18] [Server thread/INFO]: [UltraSetHome] Loading server plugin UltraSetHome v1.7.9
+[17:36:18] [Server thread/INFO]: [LockShulker] Loading server plugin LockShulker v1.0
+[17:36:18] [Server thread/INFO]: [LevelledMobs] Loading server plugin LevelledMobs v4.3.1 b112
+[17:36:18] [Server thread/INFO]: [LevelledMobs] Loading commands
+[17:36:19] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[17:36:19] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.158
+[17:36:20] [Server thread/INFO]:         __    
+[17:36:20] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.158
+[17:36:20] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[17:36:20] [Server thread/INFO]: 
+[17:36:20] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[17:36:20] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[17:36:20] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[17:36:20] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[17:36:20] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 1272ms)
+[17:36:20] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.6.2
+[17:36:22] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
+[17:36:23] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.1.
+[17:36:24] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[17:36:24] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[17:36:24] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[17:36:24] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[17:36:24] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[17:36:24] [Server thread/INFO]: Preparing level "world"
+[17:36:24] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[17:36:24] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[17:36:24] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[17:36:24] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[17:36:24] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[17:36:24] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[17:36:24] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[17:36:24] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.6.2
+[17:36:24] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: 7bda5de
+[17:36:24] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[17:36:24] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[17:36:24] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[17:36:24] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[17:36:25] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[17:36:26] [Server thread/INFO]: Time elapsed: 1499 ms
+[17:36:26] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[17:36:26] [Server thread/INFO]: Time elapsed: 259 ms
+[17:36:26] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[17:36:27] [Server thread/INFO]: Time elapsed: 215 ms
+[17:36:27] [Server thread/INFO]: [SmoothTimber] Enabling SmoothTimber v1.27.4
+[17:36:27] [Server thread/INFO]: SmoothTimber || You're currently using the supported Minecraft Version 1.21.1 (Core v1_20x)
+[17:36:27] [Server thread/INFO]: [GSit] Enabling GSit v2.3.0
+[17:36:27] [Server thread/INFO]: [GSit] The plugin was successfully enabled.
+[17:36:27] [Server thread/INFO]: [UltraSetHome] Enabling UltraSetHome v1.7.9
+[17:36:28] [Server thread/INFO]: [LockShulker] Enabling LockShulker v1.0
+[17:36:28] [Server thread/INFO]: [LockShulker] LockShulker включен!
+[17:36:28] [Server thread/INFO]: [LevelledMobs] Enabling LevelledMobs v4.3.1 b112
+[17:36:28] [Server thread/INFO]: [LevelledMobs] Enabling commands
+[17:36:28] [Server thread/INFO]: [LevelledMobs] Building reflection cache, use simple names: true
+[17:36:28] [Server thread/INFO]: [LevelledMobs] Using NMS version 1.21.1 for nametag support
+[17:36:29] [Server thread/INFO]: [LevelledMobs] File Loader: Loading files...
+[17:36:29] [Server thread/INFO]: [LevelledMobs] File Loader: Loading file 'settings.yml'...
+[17:36:29] [Server thread/INFO]: [LevelledMobs] File Loader: Loading file 'messages.yml'...
+[17:36:29] [Server thread/INFO]: [LevelledMobs] File Loader: Loading file 'externalplugins.yml'...
+[17:36:29] [Server thread/INFO]: [LevelledMobs] File Loader: Loading file 'rules.yml'...
+[17:36:29] [Server thread/INFO]: [LevelledMobs] Current rules hash: 9b0f48e3273bb9cc29d2891ad33fb3410fec8cf1e77c2092ff670fd38f6d4ff5
+[17:36:29] [Server thread/INFO]: [LevelledMobs] File Loader: Loading file 'customdrops.yml'...
+[17:36:29] [Server thread/INFO]: [LevelledMobs] Listeners: Registering event listeners...
+[17:36:29] [Server thread/INFO]: [LevelledMobs] Running misc procedures
+[17:36:29] [Server thread/INFO]: [LevelledMobs] Tasks: Starting async nametag auto update task...
+[17:36:29] [Server thread/INFO]: [LevelledMobs] Start-up complete (took 815ms)
+[17:36:29] [Server thread/INFO]: [spark] Starting background profiler...
+[17:36:30] [Server thread/INFO]: Done preparing level "world" (5.698s)
+[17:36:30] [Server thread/INFO]: Running delayed init tasks
+[17:36:30] [Server thread/INFO]: Done (28.084s)! For help, type "help"
+[17:36:30] [Server thread/INFO]: Timings Reset
+[17:36:30] [Server thread/INFO]: [UltraSetHome] You are using the latest version of UltraSetHome.
+[17:39:31] [User Authenticator #0/INFO]: UUID of player Sebas23m is 05baa57d-e0e2-3245-950d-ef017ffd725d
+[17:39:35] [Server thread/INFO]: Sebas23m joined the game
+[17:39:35] [Server thread/INFO]: Sebas23m[/127.50.210.97:42839] logged in with entity id 32 at ([world]-329.3254588181554, 83.0, 174.0322485229274)
