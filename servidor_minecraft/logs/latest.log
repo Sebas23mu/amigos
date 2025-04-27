@@ -160,3 +160,8 @@
 [18:43:37] [Server thread/INFO]: Sebas23m issued server command: /home 2
 [18:43:53] [Server thread/INFO]: Sebas23m issued server command: /gamemode survival
 [18:43:53] [Server thread/INFO]: [Sebas23m: Set own game mode to Survival Mode]
+[18:54:57] [Server thread/INFO]: Sebas23m has made the advancement [Into Fire]
+[18:57:55] [Server thread/INFO]: Sebas23m issued server command: /gamerule keepInventory true
+[18:57:55] [Server thread/INFO]: [Sebas23m: Gamerule keepInventory is now set to: true]
+[18:58:25] [Server thread/INFO]: Sebas23m has made the advancement [Not Today, Thank You]
+[19:02:55] [Server thread/INFO]: Sebas23m was slain by Lvl 41 | Magma Cube
