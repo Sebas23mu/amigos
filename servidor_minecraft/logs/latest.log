@@ -285,3 +285,19 @@
 [20:24:35] [Server thread/INFO]: [Sebas23m: Teleported jp7806073 to Sebas23m]
 [20:24:38] [Server thread/INFO]: jp7806073 fell from a high place
 [20:25:05] [Server thread/INFO]: jp7806073 issued server command: /home A1
+[20:27:57] [Server thread/INFO]: Sebas23m issued server command: /tp jp7806073 Sebas23m
+[20:27:57] [Server thread/INFO]: [Sebas23m: Teleported jp7806073 to Sebas23m]
+[20:29:03] [Server thread/INFO]: Sebas23m was burned to a crisp while fighting jp7806073
+[20:29:04] [Server thread/INFO]: jp7806073 was burned to a crisp while fighting Sebas23m
+[20:29:16] [Server thread/INFO]: jp7806073 issued server command: /home A1
+[20:30:28] [User Authenticator #14/INFO]: UUID of player theeminence is 189e531e-636f-3356-8010-08d482d90f21
+[20:30:31] [Server thread/INFO]: jp7806073 drowned
+[20:30:31] [Server thread/INFO]: theeminence joined the game
+[20:30:31] [Server thread/INFO]: theeminence[/127.149.42.123:40739] logged in with entity id 39012 at ([world]-326.44168296814115, 83.5625, 176.6652541841073)
+[20:30:40] [Server thread/INFO]: Sebas23m issued server command: /home 1
+[20:30:50] [Server thread/INFO]: jp7806073 issued server command: /home A1
+[20:31:06] [Async Chat Thread - #3/INFO]: [Not Secure] <theeminence> sigo cayendo 😢
+[20:31:16] [Server thread/INFO]: Sebas23m issued server command: /tp theeminence Sebas23m
+[20:31:16] [Server thread/INFO]: [Sebas23m: Teleported theeminence to Sebas23m]
+[20:31:18] [Server thread/INFO]: theeminence lost connection: Disconnected
+[20:31:18] [Server thread/INFO]: theeminence left the game
