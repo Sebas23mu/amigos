@@ -372,6 +372,7 @@
       "apple": "2025-04-27 04:18:53 +0000",
       "bread": "2025-04-27 03:53:34 +0000",
       "rotten_flesh": "2025-04-27 03:16:18 +0000",
+      "chorus_fruit": "2025-04-27 23:43:28 +0000",
       "beef": "2025-04-27 02:45:42 +0000",
       "porkchop": "2025-04-27 04:08:24 +0000",
       "carrot": "2025-04-27 23:38:28 +0000"
@@ -762,6 +763,12 @@
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_chestplate": "2025-04-27 04:49:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2025-04-27 23:43:00 +0000"
     },
     "done": true
   },

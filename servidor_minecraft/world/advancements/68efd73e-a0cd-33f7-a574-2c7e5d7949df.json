@@ -263,11 +263,13 @@
       "minecraft:skeleton": "2025-04-27 03:35:09 +0000",
       "minecraft:enderman": "2025-04-27 19:21:57 +0000",
       "minecraft:witch": "2025-04-27 04:25:31 +0000",
+      "minecraft:endermite": "2025-04-27 23:52:04 +0000",
       "minecraft:spider": "2025-04-27 02:50:27 +0000",
       "minecraft:zombie": "2025-04-27 02:52:11 +0000",
       "minecraft:creeper": "2025-04-27 03:25:13 +0000",
       "minecraft:drowned": "2025-04-27 19:53:16 +0000",
-      "minecraft:zombie_villager": "2025-04-27 04:09:29 +0000"
+      "minecraft:zombie_villager": "2025-04-27 04:09:29 +0000",
+      "minecraft:shulker": "2025-04-27 23:46:32 +0000"
     },
     "done": false
   },
@@ -2195,6 +2197,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_slab": {
+    "criteria": {
+      "has_purpur_block": "2025-04-27 23:44:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
     "criteria": {
       "has_end_stone": "2025-04-27 23:35:39 +0000"
@@ -2267,9 +2275,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_stairs": {
+    "criteria": {
+      "has_purpur_block": "2025-04-27 23:44:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_emerald": "2025-04-27 23:00:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_pillar_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2025-04-27 23:44:45 +0000"
     },
     "done": true
   },
@@ -2339,6 +2359,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_stairs_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2025-04-27 23:44:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite": {
     "criteria": {
       "has_quartz": "2025-04-27 23:06:56 +0000"
@@ -2387,6 +2413,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2025-04-27 23:47:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_block": {
     "criteria": {
       "has_quartz": "2025-04-27 23:06:56 +0000"
@@ -2405,6 +2437,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_pillar": {
+    "criteria": {
+      "has_purpur_block": "2025-04-27 23:44:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/daylight_detector": {
     "criteria": {
       "has_quartz": "2025-04-27 23:06:56 +0000"
@@ -2414,6 +2452,12 @@
   "minecraft:story/enter_the_end": {
     "criteria": {
       "entered_end": "2025-04-27 23:20:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_slab_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2025-04-27 23:44:45 +0000"
     },
     "done": true
   },
