@@ -184,3 +184,27 @@
 [19:24:33] [User Authenticator #9/INFO]: UUID of player theeminence is 189e531e-636f-3356-8010-08d482d90f21
 [19:24:51] [Server thread/INFO]: com.mojang.authlib.GameProfile@3b018e7b[id=189e531e-636f-3356-8010-08d482d90f21,name=theeminence,properties={textures=[Property[name=textures, value=eyJ0aW1lc3RhbXAiOjE1ODU1MzYzMDYwMTMsInByb2ZpbGVJZCI6ImUzYjQ0NWM4NDdmNTQ4ZmI4YzhmYTNmMWY3ZWZiYThlIiwicHJvZmlsZU5hbWUiOiJNaW5pRGlnZ2VyVGVzdCIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNGFhZWU2OGQzYjQ5OGViNzUzZjc1MzQ1ODEyNDk1OGYxN2E4OTc3MDNhMjNkODdlYmEzZDM0NzFhNTg1NDU0NCJ9fX0=, signature=qvcKSkct7ZX/4VNcG9qyyi9tu6/5pK0Kh2uHib+LzdlmpGGfZ1vx1K8llUwa94vCgJmYc13hApyZEbmJj6Vg3VevroHNQtBXybGBMs2V8XSwf+leTwPU6HPEaQfMerG1/5KKtJkBhWCfL3/rqOxJwKY0KscRkxPCPZJc4nVo/Hj1SlIcXSXyeqgY7n98mY0pUO3EeRSEUvJQgmlc00KaJ6RX6iPwuivbL1lGPfy2bBqpdwOnTX3tnO0BJX5TWYatlroCPtufzqYIkFp9KbGJMdrAZPn8Evp+6UrjCX+sKxH8wsmvls2AiBUkrA/30XyVT2Vs4hynwwoCIVIVcJiQeAwVJnpVoPyGP3Lj25aztwvZQGX6dekNB02rW500A7acLoBJ9te3qJUdsZMFi6V4KYgtzHhknixB7FgrbZyFlpgcg/ckjaVmhrDKLNd2u7BRgz6//jRh5XFicadAAsitpmJP1gzQ54LcSWHtrISvD+L0CHyh/9juDjpApu2F/E/FSaYBDdTmx2dEWMN/IE/xuTDPgdBUG1G/nR52llxxFqB8EukK/ypQAWfNfMqnOlggVW8H4kpSDdBMFC36hXaAFsuhfmbQw1Bx+G+DYT9tW9xeESQCIBS1/FevBLYMSqd0WLEd8t+ZNmJ8ULzdNYZQYD6KfnTn8sdMbC/AlhYG5zI=]]}] lost connection: Timed out
 [19:25:06] [User Authenticator #9/INFO]: UUID of player theeminence is 189e531e-636f-3356-8010-08d482d90f21
+[19:25:21] [Server thread/INFO]: Sebas23m lost connection: Disconnected
+[19:25:21] [Server thread/INFO]: Sebas23m left the game
+[19:25:23] [Server thread/INFO]: com.mojang.authlib.GameProfile@cccd179[id=189e531e-636f-3356-8010-08d482d90f21,name=theeminence,properties={textures=[Property[name=textures, value=eyJ0aW1lc3RhbXAiOjE1ODU1MzYzMDYwMTMsInByb2ZpbGVJZCI6ImUzYjQ0NWM4NDdmNTQ4ZmI4YzhmYTNmMWY3ZWZiYThlIiwicHJvZmlsZU5hbWUiOiJNaW5pRGlnZ2VyVGVzdCIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNGFhZWU2OGQzYjQ5OGViNzUzZjc1MzQ1ODEyNDk1OGYxN2E4OTc3MDNhMjNkODdlYmEzZDM0NzFhNTg1NDU0NCJ9fX0=, signature=qvcKSkct7ZX/4VNcG9qyyi9tu6/5pK0Kh2uHib+LzdlmpGGfZ1vx1K8llUwa94vCgJmYc13hApyZEbmJj6Vg3VevroHNQtBXybGBMs2V8XSwf+leTwPU6HPEaQfMerG1/5KKtJkBhWCfL3/rqOxJwKY0KscRkxPCPZJc4nVo/Hj1SlIcXSXyeqgY7n98mY0pUO3EeRSEUvJQgmlc00KaJ6RX6iPwuivbL1lGPfy2bBqpdwOnTX3tnO0BJX5TWYatlroCPtufzqYIkFp9KbGJMdrAZPn8Evp+6UrjCX+sKxH8wsmvls2AiBUkrA/30XyVT2Vs4hynwwoCIVIVcJiQeAwVJnpVoPyGP3Lj25aztwvZQGX6dekNB02rW500A7acLoBJ9te3qJUdsZMFi6V4KYgtzHhknixB7FgrbZyFlpgcg/ckjaVmhrDKLNd2u7BRgz6//jRh5XFicadAAsitpmJP1gzQ54LcSWHtrISvD+L0CHyh/9juDjpApu2F/E/FSaYBDdTmx2dEWMN/IE/xuTDPgdBUG1G/nR52llxxFqB8EukK/ypQAWfNfMqnOlggVW8H4kpSDdBMFC36hXaAFsuhfmbQw1Bx+G+DYT9tW9xeESQCIBS1/FevBLYMSqd0WLEd8t+ZNmJ8ULzdNYZQYD6KfnTn8sdMbC/AlhYG5zI=]]}] lost connection: Timed out
+[19:25:30] [Server thread/INFO]: jp7806073 lost connection: Timed out
+[19:25:30] [Server thread/INFO]: jp7806073 left the game
+[19:25:32] [User Authenticator #9/INFO]: UUID of player Sebas23m is 05baa57d-e0e2-3245-950d-ef017ffd725d
+[19:25:32] [User Authenticator #9/INFO]: UUID of player jp7806073 is 68efd73e-a0cd-33f7-a574-2c7e5d7949df
+[19:25:35] [Server thread/INFO]: Sebas23m joined the game
+[19:25:35] [Server thread/INFO]: Sebas23m[/127.50.210.97:60379] logged in with entity id 15347 at ([world_nether]-56.5998606821069, 103.0, 63.69999998807907)
+[19:25:35] [Server thread/INFO]: jp7806073 joined the game
+[19:25:35] [Server thread/INFO]: jp7806073[/127.134.27.178:59049] logged in with entity id 15348 at ([world]-409.31404640753436, 67.0, 302.4066899068108)
+[19:26:03] [Server thread/INFO]: Sebas23m issued server command: /tp jp7806073
+[19:26:03] [Server thread/INFO]: [Sebas23m: Teleported Sebas23m to jp7806073]
+[19:26:44] [Server thread/INFO]: jp7806073 issued server command: /home A1
+[19:28:11] [Server thread/INFO]: Sebas23m issued server command: /home 1
+[19:33:08] [Server thread/INFO]: jp7806073 was slain by Lvl 7 | Zombie
+[19:33:29] [Server thread/INFO]: jp7806073 issued server command: /t
+[19:33:40] [Server thread/INFO]: jp7806073 issued server command: /tp sebas23
+[19:34:11] [Server thread/INFO]: jp7806073 lost connection: Timed out
+[19:34:11] [Server thread/INFO]: jp7806073 left the game
+[19:34:14] [User Authenticator #10/INFO]: UUID of player jp7806073 is 68efd73e-a0cd-33f7-a574-2c7e5d7949df
+[19:34:18] [Server thread/INFO]: jp7806073 joined the game
+[19:34:18] [Server thread/INFO]: jp7806073[/127.134.27.178:49671] logged in with entity id 17770 at ([world]-9.862529483527831, 64.09835927353836, 30.960345238660366)
+[19:34:27] [Server thread/INFO]: jp7806073 issued server command: /home A1
