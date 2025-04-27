@@ -280,3 +280,20 @@
 [04:02:33] [Server thread/INFO]: jp7806073 has made the advancement [Hot Stuff]
 [04:04:23] [Async Chat Thread - #31/INFO]: [Not Secure] <theeminence> ahí te dejo madera
 [04:04:31] [Async Chat Thread - #31/INFO]: [Not Secure] <theeminence> gracias
+[04:05:28] [Async Chat Thread - #31/INFO]: [Not Secure] <theeminence> Jesus ya vengo
+[04:05:40] [Server thread/INFO]: theeminence issued server command: /sethome a
+[04:05:47] [Server thread/INFO]: theeminence lost connection: Disconnected
+[04:05:47] [Server thread/INFO]: theeminence left the game
+[04:06:56] [Server thread/INFO]: Sebas23m issued server command: /tp jp7806073
+[04:06:56] [Server thread/INFO]: [Sebas23m: Teleported Sebas23m to jp7806073]
+[04:07:00] [User Authenticator #7/INFO]: UUID of player theeminence is 189e531e-636f-3356-8010-08d482d90f21
+[04:07:03] [Server thread/INFO]: theeminence joined the game
+[04:07:03] [Server thread/INFO]: theeminence[/127.211.162.104:56979] logged in with entity id 42497 at ([world]-332.7711072846364, 87.0, 166.07499998807907)
+[04:07:27] [Async Chat Thread - #33/INFO]: [Not Secure] <theeminence> Jesus ya te traigo más madera
+[04:08:08] [Server thread/INFO]: Sebas23m has made the advancement [Hot Stuff]
+[04:08:30] [Server thread/INFO]: Sebas23m issued server command: /home 1
+[04:10:08] [Server thread/INFO]: Sebas23m has made the advancement [A Seedy Place]
+[04:12:04] [Server thread/INFO]: jp7806073 was shot by Lvl 11 | Skeleton
+[04:12:24] [Server thread/INFO]: jp7806073 issued server command: /home C1
+[04:13:10] [Server thread/INFO]: theeminence issued server command: /sethome b
+[04:14:22] [Server thread/INFO]: theeminence was shot by Lvl 1 | Skeleton

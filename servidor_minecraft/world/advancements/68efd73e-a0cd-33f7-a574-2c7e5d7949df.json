@@ -167,6 +167,12 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-04-27 04:02:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2025-04-27 03:44:09 +0000"
@@ -266,6 +272,12 @@
   "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-04-27 03:35:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2025-04-27 04:07:23 +0000"
     },
     "done": true
   },
@@ -701,6 +713,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2025-04-27 04:07:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/coast_armor_trim_smithing_template": {
     "criteria": {
       "has_coast_armor_trim_smithing_template": "2025-04-27 03:05:53 +0000"
@@ -716,6 +734,12 @@
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2025-04-27 03:14:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2025-04-27 04:07:23 +0000"
     },
     "done": true
   },
@@ -818,6 +842,12 @@
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_granite": "2025-04-27 03:10:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-04-27 04:07:23 +0000"
     },
     "done": true
   },
@@ -971,6 +1001,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_planks": "2025-04-27 04:07:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/cherry_boat": {
     "criteria": {
       "in_water": "2025-04-27 02:51:37 +0000"
@@ -1006,7 +1042,8 @@
       "minecraft:skeleton": "2025-04-27 03:35:09 +0000",
       "minecraft:spider": "2025-04-27 02:50:27 +0000",
       "minecraft:zombie": "2025-04-27 02:52:11 +0000",
-      "minecraft:creeper": "2025-04-27 03:25:13 +0000"
+      "minecraft:creeper": "2025-04-27 03:25:13 +0000",
+      "minecraft:zombie_villager": "2025-04-27 04:09:29 +0000"
     },
     "done": false
   },
@@ -1133,6 +1170,12 @@
   "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
       "has_paper": "2025-04-27 03:05:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-04-27 04:07:23 +0000"
     },
     "done": true
   },
@@ -1274,6 +1317,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-04-27 04:07:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/candle": {
     "criteria": {
       "has_string": "2025-04-27 03:16:53 +0000"
@@ -1338,6 +1387,12 @@
   "minecraft:recipes/building_blocks/cobblestone_stairs": {
     "criteria": {
       "has_cobblestone": "2025-04-27 02:49:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2025-04-27 04:07:23 +0000"
     },
     "done": true
   },
@@ -1596,6 +1651,12 @@
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2025-04-27 02:51:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2025-04-27 04:07:23 +0000"
     },
     "done": true
   },
