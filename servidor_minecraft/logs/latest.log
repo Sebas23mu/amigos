@@ -148,3 +148,15 @@
 [18:34:07] [User Authenticator #7/INFO]: UUID of player theeminence is 189e531e-636f-3356-8010-08d482d90f21
 [18:34:16] [Server thread/INFO]: theeminence joined the game
 [18:34:16] [Server thread/INFO]: theeminence[/127.149.42.123:56109] logged in with entity id 5542 at ([world]-329.51579211824674, 83.0, 170.7462654815423)
+[18:35:51] [Server thread/INFO]: theeminence lost connection: Disconnected
+[18:35:51] [Server thread/INFO]: theeminence left the game
+[18:40:06] [Server thread/INFO]: Sebas23m was doomed to fall by Ghast
+[18:40:31] [Server thread/INFO]: Sebas23m issued server command: /home p
+[18:40:45] [Server thread/INFO]: Sebas23m issued server command: /gamemode creative
+[18:40:45] [Server thread/INFO]: [Sebas23m: Set own game mode to Creative Mode]
+[18:42:39] [Server thread/INFO]: Sebas23m has made the advancement [A Terrible Fortress]
+[18:42:48] [Server thread/INFO]: Sebas23m issued server command: /sethome 2
+[18:42:51] [Server thread/INFO]: Sebas23m issued server command: /home 1
+[18:43:37] [Server thread/INFO]: Sebas23m issued server command: /home 2
+[18:43:53] [Server thread/INFO]: Sebas23m issued server command: /gamemode survival
+[18:43:53] [Server thread/INFO]: [Sebas23m: Set own game mode to Survival Mode]
