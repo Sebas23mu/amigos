@@ -893,6 +893,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2025-04-27 04:26:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
     "criteria": {
       "has_cobbled_deepslate": "2025-04-27 03:14:01 +0000"
@@ -1040,6 +1046,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-04-27 03:35:09 +0000",
+      "minecraft:witch": "2025-04-27 04:25:31 +0000",
       "minecraft:spider": "2025-04-27 02:50:27 +0000",
       "minecraft:zombie": "2025-04-27 02:52:11 +0000",
       "minecraft:creeper": "2025-04-27 03:25:13 +0000",
