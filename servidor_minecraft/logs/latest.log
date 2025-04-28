@@ -203,3 +203,7 @@ java.lang.NullPointerException: Cannot invoke "String.replace(java.lang.CharSequ
 [01:04:36] [Server thread/INFO]: [Sebas23m: Applied effect Glowing to jp7806073]
 [01:04:59] [Server thread/INFO]: Sebas23m issued server command: /effect give Sebas23m minecraft:haste infinite 100
 [01:04:59] [Server thread/INFO]: [Sebas23m: Applied effect Haste to Sebas23m]
+[01:07:56] [Server thread/INFO]: jp7806073 issued server command: /home A1
+[01:14:02] [Server thread/INFO]: Sebas23m issued server command: /sethome s
+[01:14:06] [Server thread/INFO]: Sebas23m issued server command: /home 1
+[01:15:49] [Server thread/INFO]: Sebas23m has made the advancement [Enchanter]
