@@ -1,266 +1,100 @@
-[00:00:56] [Server thread/INFO]: Sebas23m has made the advancement [The City at the End of the Game]
-[00:03:41] [Server thread/INFO]: Sebas23m issued server command: /gamemode spectator
-[00:03:41] [Server thread/INFO]: [Sebas23m: Set own game mode to Spectator Mode]
-[00:03:58] [Server thread/INFO]: Sebas23m issued server command: /gamemode survival
-[00:03:58] [Server thread/INFO]: [Sebas23m: Set own game mode to Survival Mode]
-[00:04:22] [Server thread/INFO]: Sebas23m has reached the goal [Sky's the Limit]
-[00:04:41] [Server thread/INFO]: Sebas23m has made the advancement [Local Brewery]
-[00:08:07] [Server thread/INFO]: Sebas23m issued server command: /home 1
-[00:11:08] [Server thread/INFO]: jp7806073 issued server command: /sethome Ee
-[00:11:22] [Server thread/INFO]: jp7806073 issued server command: /
-[00:11:24] [Server thread/INFO]: jp7806073 issued server command: /h
-[00:11:59] [Server thread/INFO]: Sebas23m issued server command: /home 1
-[00:12:51] [Server thread/INFO]: jp7806073 issued server command: /home ee
-[00:12:59] [Server thread/INFO]: jp7806073 issued server command: /home Ee
-[00:13:26] [Server thread/INFO]: jp7806073 was slain by Lvl 50 | Enderman
-[00:13:37] [Server thread/INFO]: jp7806073 issued server command: /home Ee
-[00:14:54] [Server thread/INFO]: theeminence fell out of the world
-[00:15:33] [Server thread/ERROR]: Could not pass event InventoryClickEvent to LockShulker v1.0
-java.lang.NullPointerException: Cannot invoke "String.replace(java.lang.CharSequence, java.lang.CharSequence)" because the return value of "org.bukkit.configuration.file.FileConfiguration.getString(String)" is null
-	at LockShulker.jar/org.lockshulker.listeners.InventoryListener.onInventoryClick(InventoryListener.java:51) ~[LockShulker.jar:?]
-	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor54.execute(Unknown Source) ~[?:?]
-	at org.bukkit.plugin.EventExecutor$2.execute(EventExecutor.java:77) ~[paper-mojangapi-1.21.1-R0.1-SNAPSHOT.jar:?]
-	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:80) ~[paper-mojangapi-1.21.1-R0.1-SNAPSHOT.jar:1.21.1-57-b483da4]
-	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-mojangapi-1.21.1-R0.1-SNAPSHOT.jar:?]
-	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
-	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:131) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
-	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:628) ~[paper-mojangapi-1.21.1-R0.1-SNAPSHOT.jar:?]
-	at net.minecraft.server.network.ServerGamePacketListenerImpl.handleContainerClick(ServerGamePacketListenerImpl.java:3216) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
-	at net.minecraft.network.protocol.game.ServerboundContainerClickPacket.handle(ServerboundContainerClickPacket.java:69) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
-	at net.minecraft.network.protocol.game.ServerboundContainerClickPacket.handle(ServerboundContainerClickPacket.java:33) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
-	at net.minecraft.network.protocol.PacketUtils.lambda$ensureRunningOnSameThread$0(PacketUtils.java:56) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
-	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
-	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:151) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
-	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
-	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1537) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
-	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:201) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
-	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:125) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
-	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1514) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
-	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1507) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
-	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:135) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
-	at net.minecraft.server.MinecraftServer.managedBlock(MinecraftServer.java:1466) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
-	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1473) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
-	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1318) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
-	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
-	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
-[00:15:34] [Server thread/ERROR]: Could not pass event InventoryClickEvent to LockShulker v1.0
-java.lang.NullPointerException: Cannot invoke "String.replace(java.lang.CharSequence, java.lang.CharSequence)" because the return value of "org.bukkit.configuration.file.FileConfiguration.getString(String)" is null
-	at LockShulker.jar/org.lockshulker.listeners.InventoryListener.onInventoryClick(InventoryListener.java:51) ~[LockShulker.jar:?]
-	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor54.execute(Unknown Source) ~[?:?]
-	at org.bukkit.plugin.EventExecutor$2.execute(EventExecutor.java:77) ~[paper-mojangapi-1.21.1-R0.1-SNAPSHOT.jar:?]
-	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:80) ~[paper-mojangapi-1.21.1-R0.1-SNAPSHOT.jar:1.21.1-57-b483da4]
-	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-mojangapi-1.21.1-R0.1-SNAPSHOT.jar:?]
-	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
-	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:131) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
-	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:628) ~[paper-mojangapi-1.21.1-R0.1-SNAPSHOT.jar:?]
-	at net.minecraft.server.network.ServerGamePacketListenerImpl.handleContainerClick(ServerGamePacketListenerImpl.java:3216) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
-	at net.minecraft.network.protocol.game.ServerboundContainerClickPacket.handle(ServerboundContainerClickPacket.java:69) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
-	at net.minecraft.network.protocol.game.ServerboundContainerClickPacket.handle(ServerboundContainerClickPacket.java:33) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
-	at net.minecraft.network.protocol.PacketUtils.lambda$ensureRunningOnSameThread$0(PacketUtils.java:56) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
-	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
-	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:151) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
-	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
-	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1537) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
-	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:201) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
-	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:125) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
-	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1514) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
-	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1507) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
-	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:135) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
-	at net.minecraft.server.MinecraftServer.managedBlock(MinecraftServer.java:1466) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
-	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1473) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
-	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1318) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
-	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
-	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
-[00:15:34] [Server thread/ERROR]: Could not pass event InventoryClickEvent to LockShulker v1.0
-java.lang.NullPointerException: Cannot invoke "String.replace(java.lang.CharSequence, java.lang.CharSequence)" because the return value of "org.bukkit.configuration.file.FileConfiguration.getString(String)" is null
-	at LockShulker.jar/org.lockshulker.listeners.InventoryListener.onInventoryClick(InventoryListener.java:51) ~[LockShulker.jar:?]
-	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor54.execute(Unknown Source) ~[?:?]
-	at org.bukkit.plugin.EventExecutor$2.execute(EventExecutor.java:77) ~[paper-mojangapi-1.21.1-R0.1-SNAPSHOT.jar:?]
-	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:80) ~[paper-mojangapi-1.21.1-R0.1-SNAPSHOT.jar:1.21.1-57-b483da4]
-	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-mojangapi-1.21.1-R0.1-SNAPSHOT.jar:?]
-	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
-	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:131) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
-	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:628) ~[paper-mojangapi-1.21.1-R0.1-SNAPSHOT.jar:?]
-	at net.minecraft.server.network.ServerGamePacketListenerImpl.handleContainerClick(ServerGamePacketListenerImpl.java:3216) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
-	at net.minecraft.network.protocol.game.ServerboundContainerClickPacket.handle(ServerboundContainerClickPacket.java:69) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
-	at net.minecraft.network.protocol.game.ServerboundContainerClickPacket.handle(ServerboundContainerClickPacket.java:33) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
-	at net.minecraft.network.protocol.PacketUtils.lambda$ensureRunningOnSameThread$0(PacketUtils.java:56) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
-	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
-	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:151) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
-	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
-	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1537) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
-	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:201) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
-	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:125) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
-	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1514) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
-	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1507) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
-	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:135) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
-	at net.minecraft.server.MinecraftServer.managedBlock(MinecraftServer.java:1466) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
-	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1473) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
-	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1318) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
-	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
-	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
-[00:15:35] [Server thread/ERROR]: Could not pass event InventoryClickEvent to LockShulker v1.0
-java.lang.NullPointerException: Cannot invoke "String.replace(java.lang.CharSequence, java.lang.CharSequence)" because the return value of "org.bukkit.configuration.file.FileConfiguration.getString(String)" is null
-	at LockShulker.jar/org.lockshulker.listeners.InventoryListener.onInventoryClick(InventoryListener.java:51) ~[LockShulker.jar:?]
-	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor54.execute(Unknown Source) ~[?:?]
-	at org.bukkit.plugin.EventExecutor$2.execute(EventExecutor.java:77) ~[paper-mojangapi-1.21.1-R0.1-SNAPSHOT.jar:?]
-	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:80) ~[paper-mojangapi-1.21.1-R0.1-SNAPSHOT.jar:1.21.1-57-b483da4]
-	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-mojangapi-1.21.1-R0.1-SNAPSHOT.jar:?]
-	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
-	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:131) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
-	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:628) ~[paper-mojangapi-1.21.1-R0.1-SNAPSHOT.jar:?]
-	at net.minecraft.server.network.ServerGamePacketListenerImpl.handleContainerClick(ServerGamePacketListenerImpl.java:3216) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
-	at net.minecraft.network.protocol.game.ServerboundContainerClickPacket.handle(ServerboundContainerClickPacket.java:69) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
-	at net.minecraft.network.protocol.game.ServerboundContainerClickPacket.handle(ServerboundContainerClickPacket.java:33) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
-	at net.minecraft.network.protocol.PacketUtils.lambda$ensureRunningOnSameThread$0(PacketUtils.java:56) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
-	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
-	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:151) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
-	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
-	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1537) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
-	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:201) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
-	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:125) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
-	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1514) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
-	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1507) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
-	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:135) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
-	at net.minecraft.server.MinecraftServer.managedBlock(MinecraftServer.java:1466) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
-	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1473) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
-	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1318) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
-	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
-	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
-[00:15:35] [Server thread/ERROR]: Could not pass event InventoryClickEvent to LockShulker v1.0
-java.lang.NullPointerException: Cannot invoke "String.replace(java.lang.CharSequence, java.lang.CharSequence)" because the return value of "org.bukkit.configuration.file.FileConfiguration.getString(String)" is null
-	at LockShulker.jar/org.lockshulker.listeners.InventoryListener.onInventoryClick(InventoryListener.java:51) ~[LockShulker.jar:?]
-	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor54.execute(Unknown Source) ~[?:?]
-	at org.bukkit.plugin.EventExecutor$2.execute(EventExecutor.java:77) ~[paper-mojangapi-1.21.1-R0.1-SNAPSHOT.jar:?]
-	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:80) ~[paper-mojangapi-1.21.1-R0.1-SNAPSHOT.jar:1.21.1-57-b483da4]
-	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-mojangapi-1.21.1-R0.1-SNAPSHOT.jar:?]
-	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
-	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:131) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
-	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:628) ~[paper-mojangapi-1.21.1-R0.1-SNAPSHOT.jar:?]
-	at net.minecraft.server.network.ServerGamePacketListenerImpl.handleContainerClick(ServerGamePacketListenerImpl.java:3216) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
-	at net.minecraft.network.protocol.game.ServerboundContainerClickPacket.handle(ServerboundContainerClickPacket.java:69) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
-	at net.minecraft.network.protocol.game.ServerboundContainerClickPacket.handle(ServerboundContainerClickPacket.java:33) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
-	at net.minecraft.network.protocol.PacketUtils.lambda$ensureRunningOnSameThread$0(PacketUtils.java:56) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
-	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
-	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:151) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
-	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
-	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1537) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
-	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:201) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
-	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:125) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
-	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1514) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
-	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1507) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
-	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:135) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
-	at net.minecraft.server.MinecraftServer.managedBlock(MinecraftServer.java:1466) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
-	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1473) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
-	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1318) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
-	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330) ~[paper-1.21.1.jar:1.21.1-57-b483da4]
-	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
-[00:17:06] [Server thread/INFO]: theeminence has made the advancement [We Need to Go Deeper]
-[00:17:23] [Server thread/INFO]: jp7806073 has reached the goal [Sky's the Limit]
-[00:17:53] [Server thread/INFO]: jp7806073 has made the advancement [Local Brewery]
-[00:18:06] [Server thread/INFO]: Sebas23m issued server command: /tp theeminence jp7806073}
-[00:18:14] [Server thread/INFO]: Sebas23m issued server command: /tp theeminence jp7806073
-[00:18:14] [Server thread/INFO]: [Sebas23m: Teleported theeminence to jp7806073]
-[00:18:15] [Server thread/INFO]: theeminence has made the advancement [The City at the End of the Game]
-[00:19:40] [Server thread/INFO]: theeminence fell out of the world
-[00:19:50] [Server thread/INFO]: Sebas23m issued server command: /tp theeminence jp7806073
-[00:19:50] [Server thread/INFO]: [Sebas23m: Teleported theeminence to jp7806073]
-[00:21:35] [Server thread/INFO]: jp7806073 issued server command: /home A1
-[00:23:07] [Server thread/INFO]: Sebas23m issued server command: /tp jp7806073 Sebas23m
-[00:23:07] [Server thread/INFO]: [Sebas23m: Teleported jp7806073 to Sebas23m]
-[00:23:49] [Server thread/INFO]: Sebas23m issued server command: /home 1
-[00:23:53] [Server thread/INFO]: jp7806073 issued server command: /home A1
-[00:24:33] [Server thread/INFO]: theeminence fell out of the world
-[00:26:06] [Server thread/INFO]: theeminence lost connection: Disconnected
-[00:26:06] [Server thread/INFO]: theeminence left the game
-[00:27:32] [Server thread/INFO]: Sebas23m issued server command: /home 1
-[00:28:45] [Server thread/INFO]: Sebas23m issued server command: /tp jp7806073 Sebas23m
-[00:28:45] [Server thread/INFO]: [Sebas23m: Teleported jp7806073 to Sebas23m]
-[00:29:52] [Server thread/INFO]: jp7806073 issued server command: /home C1
-[00:31:27] [Server thread/INFO]: jp7806073 issued server command: /home A1
-[00:31:39] [Server thread/INFO]: Sebas23m issued server command: /gamemode spectator
-[00:31:39] [Server thread/INFO]: [Sebas23m: Set own game mode to Spectator Mode]
-[00:31:56] [Server thread/INFO]: Sebas23m issued server command: /gamemode creative
-[00:31:56] [Server thread/INFO]: [Sebas23m: Set own game mode to Creative Mode]
-[00:32:23] [Server thread/INFO]: Sebas23m issued server command: /gamemode survival
-[00:32:23] [Server thread/INFO]: [Sebas23m: Set own game mode to Survival Mode]
-[00:33:09] [Server thread/INFO]: Sebas23m issued server command: /home 4
-[00:36:13] [Server thread/INFO]: Sebas23m issued server command: /home 1
-[00:43:36] [Server thread/INFO]: Sebas23m suffocated in a wall
-[00:49:21] [Server thread/INFO]: jp7806073 issued server command: /home C1
-[00:52:36] [Server thread/INFO]: Sebas23m was impaled by Lvl 1 | Drowned
-[00:52:55] [Server thread/INFO]: jp7806073 issued server command: /home A1
-[00:53:01] [Server thread/INFO]: jp7806073 issued server command: /home C1
-[00:54:45] [Server thread/INFO]: jp7806073 issued server command: /home c11
-[00:58:24] [Server thread/INFO]: jp7806073 issued server command: /home C1
-[00:59:05] [Server thread/INFO]: Sebas23m issued server command: /home 1
-[01:03:54] [Server thread/INFO]: Sebas23m issued server command: /effect clear Sebas23m minecraft:haste
-[01:03:58] [Server thread/INFO]: Sebas23m issued server command: /g
-[01:04:14] [Server thread/INFO]: Sebas23m issued server command: /effect give Sebas23m minecraft:glowing infinite 100
-[01:04:14] [Server thread/INFO]: [Sebas23m: Applied effect Glowing to Sebas23m]
-[01:04:24] [Server thread/INFO]: Sebas23m issued server command: /ga
-[01:04:36] [Server thread/INFO]: Sebas23m issued server command: /effect give jp7806073 minecraft:glowing infinite 100
-[01:04:36] [Server thread/INFO]: [Sebas23m: Applied effect Glowing to jp7806073]
-[01:04:59] [Server thread/INFO]: Sebas23m issued server command: /effect give Sebas23m minecraft:haste infinite 100
-[01:04:59] [Server thread/INFO]: [Sebas23m: Applied effect Haste to Sebas23m]
-[01:07:56] [Server thread/INFO]: jp7806073 issued server command: /home A1
-[01:14:02] [Server thread/INFO]: Sebas23m issued server command: /sethome s
-[01:14:06] [Server thread/INFO]: Sebas23m issued server command: /home 1
-[01:15:49] [Server thread/INFO]: Sebas23m has made the advancement [Enchanter]
-[01:17:20] [Server thread/INFO]: jp7806073 lost connection: Disconnected
-[01:17:20] [Server thread/INFO]: jp7806073 left the game
-[01:17:31] [Server thread/INFO]: Sebas23m lost connection: Disconnected
-[01:17:31] [Server thread/INFO]: Sebas23m left the game
-[01:17:36] [User Authenticator #3/INFO]: UUID of player jp7806073 is 68efd73e-a0cd-33f7-a574-2c7e5d7949df
-[01:17:37] [User Authenticator #3/INFO]: UUID of player Sebas23m is 05baa57d-e0e2-3245-950d-ef017ffd725d
-[01:17:39] [Server thread/INFO]: Sebas23m joined the game
-[01:17:39] [Server thread/INFO]: Sebas23m[/127.50.210.97:52799] logged in with entity id 45728 at ([world]-328.69999998807907, 86.0, 162.9344992796069)
-[01:17:39] [Server thread/INFO]: jp7806073 joined the game
-[01:17:39] [Server thread/INFO]: jp7806073[/127.134.27.178:59965] logged in with entity id 45727 at ([world]-281.25442285977107, 77.0, 167.73922138803601)
-[01:17:55] [Server thread/INFO]: Sebas23m issued server command: /home s
-[01:19:25] [Server thread/INFO]: Sebas23m issued server command: /home 1
-[01:19:34] [Server thread/INFO]: Sebas23m issued server command: /home s
-[01:20:40] [Server thread/INFO]: jp7806073 lost connection: Timed out
-[01:20:40] [Server thread/INFO]: jp7806073 left the game
-[01:21:02] [Server thread/INFO]: Sebas23m lost connection: Disconnected
-[01:21:02] [Server thread/INFO]: Sebas23m left the game
-[01:21:12] [Server thread/INFO]: Stopping the server
-[01:21:12] [Server thread/INFO]: Stopping server
-[01:21:12] [Server thread/INFO]: [LevelledMobs] Disabling LevelledMobs v4.3.1 b112
-[01:21:12] [Server thread/INFO]: [LevelledMobs] Unregistering commands
-[01:21:12] [Server thread/INFO]: [LevelledMobs] Tasks: Shutting down other async tasks...
-[01:21:12] [Server thread/INFO]: [LevelledMobs] Shut-down complete (took 1ms)
-[01:21:12] [Craft Scheduler Thread - 4 - LevelledMobs/INFO]: [LevelledMobs] Nametag update queue Manager has exited
-[01:21:12] [Craft Scheduler Thread - 0 - LevelledMobs/INFO]: [LevelledMobs] Mob processing queue Manager has exited
-[01:21:12] [Server thread/INFO]: [LockShulker] Disabling LockShulker v1.0
-[01:21:12] [Server thread/INFO]: [LockShulker] LockShulker выключен!
-[01:21:12] [Server thread/INFO]: [UltraSetHome] Disabling UltraSetHome v1.7.9
-[01:21:12] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.6.2
-[01:21:12] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.158
-[01:21:12] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
-[01:21:12] [Server thread/INFO]: [LuckPerms] Closing storage...
-[01:21:12] [Server thread/INFO]: [LuckPerms] Goodbye!
-[01:21:12] [Server thread/INFO]: [GSit] Disabling GSit v2.3.0
-[01:21:12] [Server thread/INFO]: [GSit] The plugin was successfully disabled.
-[01:21:12] [Server thread/INFO]: [SmoothTimber] Disabling SmoothTimber v1.27.4
-[01:21:12] [Server thread/INFO]: Saving players
-[01:21:13] [Server thread/INFO]: Saving worlds
-[01:21:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[01:21:13] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
-[01:21:13] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
-[01:21:13] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
-[01:21:13] [Server thread/INFO]: [ChunkHolderManager] Saved 75 block chunks, 218 entity chunks, 0 poi chunks in world 'world' in 0.20s
-[01:21:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[01:21:13] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
-[01:21:13] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
-[01:21:13] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
-[01:21:13] [Server thread/INFO]: [ChunkHolderManager] Saved 2 block chunks, 91 entity chunks, 0 poi chunks in world 'world_nether' in 0.03s
-[01:21:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[01:21:13] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
-[01:21:13] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
-[01:21:13] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
-[01:21:13] [Server thread/INFO]: [ChunkHolderManager] Saved 1 block chunks, 0 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
-[01:21:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[01:21:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[01:21:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[01:21:13] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[22:42:11] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.6+7-Ubuntu-120.04.1; Ubuntu null) on Linux 6.8.0-1026-azure (amd64)
+[22:42:11] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.1-57-master@b483da4 (2024-09-01T18:09:05Z) for Minecraft 1.21.1
+[22:42:11] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[22:42:12] [ServerMain/INFO]: [PluginInitializerManager] Initialized 7 plugins
+[22:42:12] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (7):
+ - GSit (2.3.0), LevelledMobs (4.3.1 b112), LockShulker (1.0), LuckPerms (5.4.158), SkinsRestorer (15.6.2), SmoothTimber (1.27.4), UltraSetHome (1.7.9)
+[22:42:18] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[22:42:21] [ServerMain/INFO]: Loaded 1290 recipes
+[22:42:21] [ServerMain/INFO]: Loaded 1399 advancements
+[22:42:21] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[22:42:21] [Server thread/INFO]: Loading properties
+[22:42:21] [Server thread/INFO]: This server is running Paper version 1.21.1-57-master@b483da4 (2024-09-01T18:09:05Z) (Implementing API version 1.21.1-R0.1-SNAPSHOT)
+[22:42:22] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[22:42:22] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[22:42:22] [Server thread/INFO]: Using 4 threads for Netty based IO
+[22:42:23] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
+[22:42:24] [Server thread/INFO]: Default game type: SURVIVAL
+[22:42:24] [Server thread/INFO]: Generating keypair
+[22:42:24] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:42:24] [Server thread/INFO]: Using epoll channel type
+[22:42:24] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[22:42:24] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[22:42:27] [Server thread/INFO]: [SmoothTimber] Loading server plugin SmoothTimber v1.27.4
+[22:42:27] [Server thread/INFO]: [GSit] Loading server plugin GSit v2.3.0
+[22:42:28] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.4.158
+[22:42:28] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.6.2
+[22:42:28] [Server thread/INFO]: [UltraSetHome] Loading server plugin UltraSetHome v1.7.9
+[22:42:28] [Server thread/INFO]: [LockShulker] Loading server plugin LockShulker v1.0
+[22:42:28] [Server thread/INFO]: [LevelledMobs] Loading server plugin LevelledMobs v4.3.1 b112
+[22:42:28] [Server thread/INFO]: [LevelledMobs] Loading commands
+[22:42:29] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[22:42:29] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.158
+[22:42:29] [Server thread/INFO]:         __    
+[22:42:29] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.158
+[22:42:29] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[22:42:29] [Server thread/INFO]: 
+[22:42:29] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[22:42:30] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[22:42:30] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[22:42:30] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[22:42:30] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 1594ms)
+[22:42:30] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.6.2
+[22:42:32] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
+[22:42:33] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.1.
+[22:42:34] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[22:42:35] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[22:42:35] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[22:42:35] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[22:42:35] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[22:42:35] [Server thread/INFO]: Preparing level "world"
+[22:42:35] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[22:42:35] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[22:42:35] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[22:42:35] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[22:42:35] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[22:42:35] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[22:42:35] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[22:42:35] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.6.2
+[22:42:35] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: 7bda5de
+[22:42:35] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[22:42:35] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[22:42:35] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[22:42:35] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[22:42:35] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[22:42:37] [Server thread/INFO]: Time elapsed: 2005 ms
+[22:42:37] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[22:42:38] [Server thread/INFO]: Time elapsed: 440 ms
+[22:42:38] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[22:42:38] [Server thread/INFO]: Time elapsed: 245 ms
+[22:42:38] [Server thread/INFO]: [SmoothTimber] Enabling SmoothTimber v1.27.4
+[22:42:38] [Server thread/INFO]: SmoothTimber || You're currently using the supported Minecraft Version 1.21.1 (Core v1_20x)
+[22:42:38] [Server thread/INFO]: [GSit] Enabling GSit v2.3.0
+[22:42:39] [Server thread/INFO]: [GSit] The plugin was successfully enabled.
+[22:42:39] [Server thread/INFO]: [UltraSetHome] Enabling UltraSetHome v1.7.9
+[22:42:40] [Server thread/INFO]: [LockShulker] Enabling LockShulker v1.0
+[22:42:40] [Server thread/INFO]: [LockShulker] LockShulker включен!
+[22:42:40] [Server thread/INFO]: [LevelledMobs] Enabling LevelledMobs v4.3.1 b112
+[22:42:40] [Server thread/INFO]: [LevelledMobs] Enabling commands
+[22:42:40] [Server thread/INFO]: [LevelledMobs] Building reflection cache, use simple names: true
+[22:42:40] [Server thread/INFO]: [LevelledMobs] Using NMS version 1.21.1 for nametag support
+[22:42:40] [Server thread/INFO]: [LevelledMobs] File Loader: Loading files...
+[22:42:40] [Server thread/INFO]: [LevelledMobs] File Loader: Loading file 'settings.yml'...
+[22:42:40] [Server thread/INFO]: [LevelledMobs] File Loader: Loading file 'messages.yml'...
+[22:42:40] [Server thread/INFO]: [LevelledMobs] File Loader: Loading file 'externalplugins.yml'...
+[22:42:40] [Server thread/INFO]: [LevelledMobs] File Loader: Loading file 'rules.yml'...
+[22:42:40] [Server thread/INFO]: [LevelledMobs] Current rules hash: 9b0f48e3273bb9cc29d2891ad33fb3410fec8cf1e77c2092ff670fd38f6d4ff5
+[22:42:40] [Server thread/INFO]: [LevelledMobs] File Loader: Loading file 'customdrops.yml'...
+[22:42:40] [Server thread/INFO]: [LevelledMobs] Listeners: Registering event listeners...
+[22:42:40] [Server thread/INFO]: [LevelledMobs] Running misc procedures
+[22:42:40] [Server thread/INFO]: [LevelledMobs] Tasks: Starting async nametag auto update task...
+[22:42:40] [Server thread/INFO]: [LevelledMobs] Start-up complete (took 771ms)
+[22:42:41] [Server thread/INFO]: [spark] Starting background profiler...
+[22:42:41] [Server thread/INFO]: Done preparing level "world" (6.473s)
+[22:42:41] [Server thread/INFO]: Running delayed init tasks
+[22:42:41] [Server thread/INFO]: Done (30.955s)! For help, type "help"
+[22:42:41] [Server thread/INFO]: Timings Reset
+[22:42:41] [Server thread/INFO]: [UltraSetHome] You are using the latest version of UltraSetHome.
+[22:43:15] [User Authenticator #0/INFO]: UUID of player Sebas23m is 05baa57d-e0e2-3245-950d-ef017ffd725d
+[22:43:20] [Server thread/INFO]: Sebas23m joined the game
+[22:43:20] [Server thread/INFO]: Sebas23m[/127.50.210.97:49155] logged in with entity id 244 at ([world]18.753030126126756, 63.0, 29.18458659687225)
