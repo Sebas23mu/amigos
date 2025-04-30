@@ -102,3 +102,6 @@
 [23:24:23] [Server thread/INFO]: Sebas23m issued server command: /home s
 [23:25:41] [Server thread/INFO]: Sebas23m issued server command: /effect give Sebas23m minecraft:haste infinite 100
 [23:25:41] [Server thread/INFO]: [Sebas23m: Applied effect Haste to Sebas23m]
+[23:32:34] [Server thread/INFO]: Sebas23m issued server command: /home s
+[23:35:07] [Server thread/INFO]: Sebas23m issued server command: /effect clear Sebas23m
+[23:35:07] [Server thread/INFO]: [Sebas23m: Removed every effect from Sebas23m]
