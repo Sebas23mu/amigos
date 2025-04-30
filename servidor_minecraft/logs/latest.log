@@ -109,3 +109,9 @@
 [23:45:05] [Server thread/INFO]: Sebas23m issued server command: /home 1
 [23:45:14] [Server thread/INFO]: Sebas23m issued server command: /home 1
 [23:45:30] [Server thread/INFO]: Sebas23m issued server command: /home s
+[23:54:20] [Server thread/INFO]: Sebas23m issued server command: /effect give Sebas23m minecraft:glowing infinite 5
+[23:54:20] [Server thread/INFO]: [Sebas23m: Applied effect Glowing to Sebas23m]
+[23:54:34] [Server thread/INFO]: Sebas23m issued server command: /effect give Sebas23m minecraft:haste infinite 5
+[23:54:34] [Server thread/INFO]: [Sebas23m: Applied effect Haste to Sebas23m]
+[23:55:53] [Server thread/INFO]: Sebas23m issued server command: /effect clear Sebas23m
+[23:55:53] [Server thread/INFO]: [Sebas23m: Removed every effect from Sebas23m]
