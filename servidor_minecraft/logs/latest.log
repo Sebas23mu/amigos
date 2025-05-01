@@ -133,3 +133,6 @@
 [21:23:39] [Server thread/INFO]: Sebas23m was slain by Lvl 5 | Zombie
 [21:24:16] [Server thread/INFO]: Sebas23m issued server command: /home 1
 [21:24:22] [Server thread/INFO]: Sebas23m issued server command: /home s
+[21:32:06] [Server thread/INFO]: Sebas23m has reached the goal [Zombie Doctor]
+[21:32:11] [Server thread/INFO]: Villager Villager['Librarian'/10, uuid='b06fa507-5584-4276-ba40-0a286e4422df', l='ServerLevel[world]', x=23.70, y=54.00, z=66.50, cpos=[1, 4], tl=209123, v=true] died, message: 'Librarian was slain by pepito'
+[21:32:43] [Server thread/INFO]: Villager Villager['Librarian'/11, uuid='898205fe-efbb-49fc-86fe-29c6cacab95c', l='ServerLevel[world]', x=23.70, y=54.00, z=64.51, cpos=[1, 4], tl=259866, v=true] died, message: 'Librarian was slain by pepito'
