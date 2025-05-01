@@ -138,3 +138,14 @@
 [21:32:43] [Server thread/INFO]: Villager Villager['Librarian'/11, uuid='898205fe-efbb-49fc-86fe-29c6cacab95c', l='ServerLevel[world]', x=23.70, y=54.00, z=64.51, cpos=[1, 4], tl=259866, v=true] died, message: 'Librarian was slain by pepito'
 [21:41:02] [Server thread/INFO]: Sebas23m issued server command: /home 1
 [21:41:48] [Server thread/INFO]: Sebas23m issued server command: /home s
+[21:58:32] [Server thread/INFO]: Sebas23m was slain by pepito
+[21:59:50] [User Authenticator #1/INFO]: UUID of player jp7806073 is 68efd73e-a0cd-33f7-a574-2c7e5d7949df
+[21:59:54] [Server thread/INFO]: jp7806073 joined the game
+[21:59:54] [Server thread/INFO]: jp7806073[/127.60.118.40:37691] logged in with entity id 16028 at ([world]-4036.2852233630124, 119.0, -4948.681853009136)
+[22:01:42] [Server thread/INFO]: jp7806073 issued server command: /home 11
+[22:01:54] [Server thread/INFO]: jp7806073 issued server command: /home 11
+[22:02:07] [Server thread/INFO]: Named entity Zombie['pepito'/8395, uuid='923140c3-7ef5-4482-970f-dc8d6a003d14', l='ServerLevel[world]', x=10.93, y=55.00, z=58.01, cpos=[0, 3], tl=67771, v=true] died: pepito burned to death
+[22:02:35] [Server thread/INFO]: Sebas23m issued server command: /home 1
+[22:03:00] [Server thread/INFO]: Sebas23m issued server command: /home 1
+[22:03:03] [Server thread/INFO]: Sebas23m issued server command: /home s
+[22:04:14] [Server thread/INFO]: jp7806073 issued server command: /home A1
