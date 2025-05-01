@@ -124,3 +124,18 @@
 [01:45:33] [Server thread/INFO]: [Sebas23m: Teleported jp7806073 to Sebas23m]
 [01:45:35] [Server thread/INFO]: jp7806073 lost connection: Disconnected
 [01:45:35] [Server thread/INFO]: jp7806073 left the game
+[01:47:45] [Server thread/INFO]: Sebas23m issued server command: /home s
+[01:49:34] [User Authenticator #1/INFO]: UUID of player jp7806073 is 68efd73e-a0cd-33f7-a574-2c7e5d7949df
+[01:49:39] [Server thread/INFO]: jp7806073 joined the game
+[01:49:39] [Server thread/INFO]: jp7806073[/127.60.118.40:45819] logged in with entity id 15992 at ([world]3.479597781303591, 63.0, 29.796180875030828)
+[01:52:09] [Server thread/INFO]: jp7806073 lost connection: Disconnected
+[01:52:09] [Server thread/INFO]: jp7806073 left the game
+[01:52:11] [User Authenticator #2/INFO]: UUID of player jp7806073 is 68efd73e-a0cd-33f7-a574-2c7e5d7949df
+[01:52:14] [Server thread/INFO]: jp7806073 joined the game
+[01:52:14] [Server thread/INFO]: jp7806073[/127.60.118.40:52555] logged in with entity id 16369 at ([world]10.174012330667926, 63.0, 47.171936751130275)
+[01:52:29] [Server thread/INFO]: Sebas23m issued server command: /effect give jp7806073 minecraft:haste infinite 100
+[01:52:29] [Server thread/INFO]: [Sebas23m: Applied effect Haste to jp7806073]
+[01:52:52] [Server thread/INFO]: Sebas23m issued server command: /effect give Sebas23m minecraft:haste infinite 100
+[01:52:52] [Server thread/INFO]: [Sebas23m: Applied effect Haste to Sebas23m]
+[01:53:44] [Server thread/INFO]: jp7806073 lost connection: Disconnected
+[01:53:44] [Server thread/INFO]: jp7806073 left the game
