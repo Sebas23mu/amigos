@@ -209,3 +209,24 @@
 [22:40:56] [Server thread/INFO]: STARTGAME was slain by jp7806073
 [22:41:49] [Server thread/INFO]: STARTGAME was slain by jp7806073
 [22:42:37] [Server thread/INFO]: STARTGAME was slain by jp7806073
+[22:46:40] [Server thread/INFO]: jp7806073 issued server command: /
+[22:47:05] [Server thread/INFO]: Sebas23m issued server command: /home 1
+[22:47:23] [Server thread/INFO]: Sebas23m issued server command: /tp jp7806073 Sebas23m
+[22:47:23] [Server thread/INFO]: [Sebas23m: Teleported jp7806073 to Sebas23m]
+[22:48:09] [Server thread/INFO]: Sebas23m issued server command: /home s
+[22:48:31] [Server thread/INFO]: jp7806073 issued server command: /home A
+[22:51:22] [Server thread/INFO]: jp7806073 lost connection: Disconnected
+[22:51:22] [Server thread/INFO]: jp7806073 left the game
+[22:51:54] [Async Chat Thread - #3/INFO]: [Not Secure] <Sebas23m> sethome
+[22:52:02] [Async Chat Thread - #3/INFO]: [Not Secure] <Sebas23m> home
+[22:53:47] [Server thread/INFO]: STARTGAME was shot by Lvl 9 | Skeleton
+[22:53:57] [Server thread/INFO]: Sebas23m issued server command: /home s
+[22:55:14] [Server thread/INFO]: STARTGAME has made the advancement [We Need to Go Deeper]
+[22:55:32] [Server thread/INFO]: Sebas23m issued server command: /home 2
+[22:55:41] [Server thread/INFO]: Sebas23m issued server command: /tp STARTGAME Sebas23m
+[22:55:41] [Server thread/INFO]: [Sebas23m: Teleported STARTGAME to Sebas23m]
+[22:55:41] [Server thread/INFO]: STARTGAME has made the advancement [A Terrible Fortress]
+[22:55:47] [Server thread/INFO]: STARTGAME tried to swim in lava
+[22:55:56] [Server thread/INFO]: Sebas23m issued server command: /tp STARTGAME Sebas23m
+[22:55:56] [Server thread/INFO]: [Sebas23m: Teleported STARTGAME to Sebas23m]
+[22:56:30] [Server thread/INFO]: STARTGAME was burned to a crisp while fighting Blaze
