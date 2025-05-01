@@ -151,3 +151,18 @@
 [02:12:12] [Server thread/INFO]: Sebas23m[/127.50.210.97:45029] logged in with entity id 23971 at ([world]4.772649637292424, 63.0, 26.210791162241932)
 [02:12:39] [Server thread/INFO]: Cami23m issued server command: /skin menu
 [02:12:45] [Folia Async Scheduler Thread #3/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[02:18:23] [Server thread/INFO]: Sebas23m issued server command: /gamemode creative Cami23m
+[02:18:23] [Server thread/INFO]: [Sebas23m: Set Cami23m's game mode to Creative Mode]
+[02:19:27] [Server thread/INFO]: Sebas23m issued server command: /home 1
+[02:19:33] [Server thread/INFO]: Sebas23m issued server command: /tp Cami23m Sebas23m
+[02:19:33] [Server thread/INFO]: [Sebas23m: Teleported Cami23m to Sebas23m]
+[02:20:00] [Server thread/INFO]: Sebas23m issued server command: /home s
+[02:20:07] [Server thread/INFO]: Cami23m has made the advancement [Stone Age]
+[02:20:23] [Server thread/INFO]: Sebas23m issued server command: /effect clear Sebas23m
+[02:20:23] [Server thread/INFO]: [Sebas23m: Removed every effect from Sebas23m]
+[02:22:14] [Server thread/INFO]: Cami23m has made the advancement [We Need to Go Deeper]
+[02:23:23] [Server thread/INFO]: Sebas23m issued server command: /gamemode survival Cami23m
+[02:23:23] [Server thread/INFO]: [Sebas23m: Set Cami23m's game mode to Survival Mode]
+[02:24:45] [Server thread/INFO]: Cami23m was slain by Iron Golem ❤
+[02:25:09] [Server thread/INFO]: Cami23m was impaled by Lvl 8 | Drowned
+[02:25:28] [Server thread/INFO]: Cami23m was impaled by Lvl 8 | Drowned
