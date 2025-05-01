@@ -110,3 +110,17 @@
 [01:32:34] [Server thread/INFO]: Sebas23m issued server command: /home s
 [01:33:43] [Server thread/INFO]: Sebas23m issued server command: /home 1
 [01:34:55] [Server thread/INFO]: Sebas23m issued server command: /home s
+[01:36:42] [Server thread/INFO]: Sebas23m issued server command: /home s
+[01:40:18] [Server thread/INFO]: Sebas23m issued server command: /gamemode creative
+[01:40:18] [Server thread/INFO]: [Sebas23m: Set own game mode to Creative Mode]
+[01:41:04] [Server thread/INFO]: Sebas23m issued server command: /gamemode survival
+[01:41:04] [Server thread/INFO]: [Sebas23m: Set own game mode to Survival Mode]
+[01:41:38] [Server thread/INFO]: Sebas23m issued server command: /home s
+[01:44:14] [Server thread/INFO]: Sebas23m issued server command: /home 1
+[01:44:35] [Server thread/INFO]: Sebas23m issued server command: /home s
+[01:44:50] [Server thread/INFO]: jp7806073 issued server command: /sethome 11
+[01:45:28] [Server thread/INFO]: Sebas23m issued server command: /home s
+[01:45:33] [Server thread/INFO]: Sebas23m issued server command: /tp jp7806073 Sebas23m
+[01:45:33] [Server thread/INFO]: [Sebas23m: Teleported jp7806073 to Sebas23m]
+[01:45:35] [Server thread/INFO]: jp7806073 lost connection: Disconnected
+[01:45:35] [Server thread/INFO]: jp7806073 left the game
