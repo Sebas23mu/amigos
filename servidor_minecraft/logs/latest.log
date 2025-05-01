@@ -174,3 +174,31 @@
 [22:23:03] [Server thread/INFO]: Sebas23m was slain by jp7806073
 [22:24:04] [Server thread/INFO]: jp7806073 issued server command: /home A1
 [22:24:45] [Async Chat Thread - #1/INFO]: [Not Secure] <Sebas23m> llama
+[22:26:44] [Server thread/INFO]: Sebas23m issued server command: /home 1
+[22:27:27] [Server thread/INFO]: jp7806073 issued server command: /home
+[22:27:33] [Server thread/INFO]: jp7806073 issued server command: /home A1
+[22:27:41] [Server thread/INFO]: jp7806073 issued server command: /tell jp7806073
+[22:27:54] [Server thread/INFO]: jp7806073 issued server command: /home A
+[22:30:10] [Server thread/INFO]: Sebas23m issued server command: /op jp7806073
+[22:30:10] [Server thread/INFO]: [Sebas23m: Made jp7806073 a server operator]
+[22:30:58] [Server thread/INFO]: Sebas23m issued server command: /deop jp7806073
+[22:30:58] [Server thread/INFO]: [Sebas23m: Made jp7806073 no longer a server operator]
+[22:31:20] [User Authenticator #3/INFO]: UUID of player STARTGAME is fa4da132-c81a-3b38-820a-f18b9a409675
+[22:31:22] [Server thread/INFO]: STARTGAME joined the game
+[22:31:22] [Server thread/INFO]: STARTGAME[/127.219.81.95:48395] logged in with entity id 24539 at ([world]7.5, 63.0, 38.5)
+[22:31:33] [Server thread/INFO]: Sebas23m issued server command: /op jp7806073
+[22:31:33] [Server thread/INFO]: [Sebas23m: Made jp7806073 a server operator]
+[22:32:09] [Server thread/INFO]: Sebas23m issued server command: /op STARTGAME
+[22:32:09] [Server thread/INFO]: [Sebas23m: Made STARTGAME a server operator]
+[22:32:22] [Server thread/INFO]: Sebas23m issued server command: /tp jp7806073 STARTGAME
+[22:32:22] [Server thread/INFO]: [Sebas23m: Teleported jp7806073 to STARTGAME]
+[22:32:28] [Server thread/INFO]: STARTGAME was slain by jp7806073
+[22:32:34] [Server thread/INFO]: Sebas23m issued server command: /tp jp7806073 Sebas23m
+[22:32:34] [Server thread/INFO]: [Sebas23m: Teleported jp7806073 to Sebas23m]
+[22:32:36] [Server thread/INFO]: jp7806073 issued server command: /home
+[22:32:46] [Server thread/INFO]: Sebas23m issued server command: /tp jp7806073 Sebas23m
+[22:32:46] [Server thread/INFO]: [Sebas23m: Teleported jp7806073 to Sebas23m]
+[22:32:55] [Server thread/INFO]: STARTGAME has made the advancement [Sweet Dreams]
+[22:33:35] [Server thread/INFO]: STARTGAME has made the advancement [Stone Age]
+[22:35:07] [Server thread/INFO]: Villager Villager['Fletcher'/21716, uuid='bd0f4e36-e0d9-4cad-b34b-a89b7c940344', l='ServerLevel[world]', x=23.30, y=54.00, z=76.70, cpos=[1, 4], tl=681221, v=true] died, message: 'Fletcher was slain by pepito 2'
+[22:35:27] [Server thread/INFO]: Villager Villager['Fletcher'/22367, uuid='cada131f-fe99-4205-a825-be62d6120630', l='ServerLevel[world]', x=23.30, y=54.00, z=78.30, cpos=[1, 4], tl=678630, v=true] died, message: 'Fletcher was slain by pepito 2'
