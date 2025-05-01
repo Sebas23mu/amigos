@@ -270,3 +270,15 @@
 [23:05:40] [Async Chat Thread - #11/INFO]: [Not Secure] <STARTGAME> regreso en 20
 [23:05:45] [Server thread/INFO]: STARTGAME lost connection: Disconnected
 [23:05:45] [Server thread/INFO]: STARTGAME left the game
+[23:07:09] [User Authenticator #4/INFO]: UUID of player jp7806073 is 68efd73e-a0cd-33f7-a574-2c7e5d7949df
+[23:07:14] [Server thread/INFO]: jp7806073 joined the game
+[23:07:14] [Server thread/INFO]: jp7806073[/127.60.118.40:51529] logged in with entity id 33560 at ([world]19.272688312072013, 55.0, 74.89563314098403)
+[23:07:53] [Server thread/INFO]: Villager Villager['Fletcher'/24064, uuid='7a18545c-5cfb-4d46-84aa-eb4096a4b346', l='ServerLevel[world]', x=23.30, y=54.00, z=80.70, cpos=[1, 5], tl=624660, v=true] died, message: 'Fletcher was slain by pepito 2'
+[23:08:01] [Server thread/INFO]: Villager Villager['Fletcher'/28698, uuid='fe16748d-acc1-40dd-ae22-d219b18439a5', l='ServerLevel[world]', x=23.30, y=54.00, z=78.70, cpos=[1, 4], tl=19225, v=true] died, message: 'Fletcher was slain by pepito 2'
+[23:08:31] [Server thread/INFO]: Villager Villager['Fletcher'/28497, uuid='56b4677f-cdb1-4910-b12c-9975fa513f47', l='ServerLevel[world]', x=23.30, y=54.00, z=76.70, cpos=[1, 4], tl=20243, v=true] died, message: 'Fletcher was slain by pepito 2'
+[23:14:46] [Server thread/INFO]: Sebas23m issued server command: /sethome 4
+[23:14:51] [Server thread/INFO]: Sebas23m issued server command: /home 4
+[23:14:55] [Server thread/INFO]: Sebas23m issued server command: /home s
+[23:15:11] [Server thread/INFO]: Sebas23m issued server command: /home 4
+[23:15:43] [Server thread/INFO]: Sebas23m issued server command: /home s
+[23:16:12] [Server thread/INFO]: Sebas23m issued server command: /home 4
