@@ -202,3 +202,10 @@
 [22:33:35] [Server thread/INFO]: STARTGAME has made the advancement [Stone Age]
 [22:35:07] [Server thread/INFO]: Villager Villager['Fletcher'/21716, uuid='bd0f4e36-e0d9-4cad-b34b-a89b7c940344', l='ServerLevel[world]', x=23.30, y=54.00, z=76.70, cpos=[1, 4], tl=681221, v=true] died, message: 'Fletcher was slain by pepito 2'
 [22:35:27] [Server thread/INFO]: Villager Villager['Fletcher'/22367, uuid='cada131f-fe99-4205-a825-be62d6120630', l='ServerLevel[world]', x=23.30, y=54.00, z=78.30, cpos=[1, 4], tl=678630, v=true] died, message: 'Fletcher was slain by pepito 2'
+[22:37:08] [Server thread/INFO]: Sebas23m issued server command: /tp STARTGAME Sebas23m
+[22:37:08] [Server thread/INFO]: [Sebas23m: Teleported STARTGAME to Sebas23m]
+[22:37:40] [Server thread/INFO]: STARTGAME has made the advancement [Acquire Hardware]
+[22:38:37] [Server thread/INFO]: STARTGAME has made the advancement [Suit Up]
+[22:40:56] [Server thread/INFO]: STARTGAME was slain by jp7806073
+[22:41:49] [Server thread/INFO]: STARTGAME was slain by jp7806073
+[22:42:37] [Server thread/INFO]: STARTGAME was slain by jp7806073
