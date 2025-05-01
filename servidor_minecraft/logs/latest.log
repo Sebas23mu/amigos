@@ -185,3 +185,15 @@
 [03:04:23] [Server thread/INFO]: [Sebas23m: Applied effect Haste to Sebas23m]
 [03:05:29] [Async Chat Thread - #1/INFO]: [Not Secure] <jp7806073> espérate
 [03:07:18] [Async Chat Thread - #3/INFO]: [Not Secure] <jp7806073> olle
+[03:07:56] [Async Chat Thread - #3/INFO]: [Not Secure] <Sebas23m> que
+[03:08:42] [Server thread/INFO]: Sebas23m issued server command: /effect clear
+[03:08:42] [Server thread/INFO]: [Sebas23m: Removed every effect from Sebas23m]
+[03:13:43] [Server thread/WARN]: Horse (vehicle of Cami23m) moved wrongly! 0.4114842272338248
+[03:13:48] [Server thread/INFO]: Sebas23m issued server command: /home 1
+[03:13:53] [Server thread/WARN]: Horse (vehicle of Cami23m) moved wrongly! 1.3521838041223566
+[03:14:13] [Server thread/INFO]: Sebas23m issued server command: /home s
+[03:14:49] [Server thread/INFO]: Cami23m has made the advancement [Sweet Dreams]
+[03:15:28] [Server thread/INFO]: Sebas23m issued server command: /effect give Sebas23m minecraft:haste infinite 100
+[03:15:28] [Server thread/INFO]: [Sebas23m: Applied effect Haste to Sebas23m]
+[03:15:57] [Server thread/WARN]: Horse (vehicle of Cami23m) moved wrongly! 0.3583572799392414
+[03:15:57] [Server thread/WARN]: Horse (vehicle of Cami23m) moved wrongly! 0.5673106339064589
