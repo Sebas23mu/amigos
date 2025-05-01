@@ -149,3 +149,18 @@
 [22:03:00] [Server thread/INFO]: Sebas23m issued server command: /home 1
 [22:03:03] [Server thread/INFO]: Sebas23m issued server command: /home s
 [22:04:14] [Server thread/INFO]: jp7806073 issued server command: /home A1
+[22:06:46] [Server thread/INFO]: Sebas23m was slain by pepito 2
+[22:07:28] [Server thread/INFO]: Villager Villager['Librarian'/2, uuid='8de03db1-794a-4923-86fb-c46ec744f5b6', l='ServerLevel[world]', x=23.30, y=54.00, z=74.30, cpos=[1, 4], tl=380865, v=true] died, message: 'Librarian was slain by pepito 2'
+[22:08:26] [Server thread/INFO]: Villager Villager['Librarian'/12, uuid='4a94d169-ee5d-48c7-89ad-8c54f28e0693', l='ServerLevel[world]', x=23.30, y=54.00, z=68.30, cpos=[1, 4], tl=313581, v=true] died, message: 'Librarian was slain by pepito 2'
+[22:08:40] [Server thread/INFO]: Sebas23m was slain by Lvl 8 | Spider
+[22:09:01] [Server thread/INFO]: Sebas23m issued server command: /tp jp7806073 Sebas23m
+[22:09:01] [Server thread/INFO]: [Sebas23m: Teleported jp7806073 to Sebas23m]
+[22:09:46] [Server thread/INFO]: Sebas23m was slain by jp7806073
+[22:10:23] [Server thread/INFO]: Sebas23m was slain by jp7806073
+[22:11:54] [Server thread/INFO]: jp7806073 issued server command: /sethome
+[22:12:09] [Server thread/INFO]: jp7806073 issued server command: /sethome A
+[22:12:22] [Server thread/INFO]: jp7806073 issued server command: /home A1z
+[22:12:29] [Server thread/INFO]: jp7806073 issued server command: /home A
+[22:12:35] [Server thread/INFO]: Sebas23m issued server command: /home s
+[22:12:37] [Server thread/INFO]: jp7806073 lost connection: Disconnected
+[22:12:37] [Server thread/INFO]: jp7806073 left the game
