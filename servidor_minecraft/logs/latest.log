@@ -113,3 +113,11 @@
 [20:50:18] [Server thread/INFO]: [Sebas23m: Set own game mode to Creative Mode]
 [20:50:39] [Server thread/INFO]: Sebas23m issued server command: /gamemode survival
 [20:50:39] [Server thread/INFO]: [Sebas23m: Set own game mode to Survival Mode]
+[20:58:00] [Server thread/INFO]: Sebas23m issued server command: /home 1
+[20:58:43] [Server thread/INFO]: Sebas23m issued server command: /home s
+[21:00:12] [Server thread/INFO]: Sebas23m issued server command: /home s
+[21:01:56] [Server thread/INFO]: Sebas23m issued server command: /home 1
+[21:03:07] [Server thread/INFO]: Sebas23m issued server command: /home s
+[21:04:25] [Server thread/INFO]: Sebas23m issued server command: /home s
+[21:07:52] [Server thread/INFO]: Sebas23m issued server command: /difficulty hard
+[21:11:37] [Server thread/INFO]: Villager Villager['Librarian'/13, uuid='03706524-f132-435e-b940-9b451066e8cf', l='ServerLevel[world]', x=23.30, y=54.00, z=72.70, cpos=[1, 4], tl=117949, v=true] died, message: 'Librarian was slain by pepito'
