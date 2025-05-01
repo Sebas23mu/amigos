@@ -103,3 +103,12 @@
 [17:57:33] [Server thread/INFO]: Cami23m[/127.50.210.97:35319] logged in with entity id 1085 at ([world]-352.8557883498955, 78.0, 126.90304108029916)
 [17:58:46] [Server thread/WARN]: Horse (vehicle of Cami23m) moved wrongly! 0.36767475912398595
 [17:58:46] [Server thread/WARN]: Horse (vehicle of Cami23m) moved wrongly! 0.582061011160647
+[18:15:23] [Server thread/INFO]: Sebas23m issued server command: /home 1
+[18:17:30] [Server thread/INFO]: Sebas23m issued server command: /effect clear
+[18:17:30] [Server thread/INFO]: [Sebas23m: Removed every effect from Sebas23m]
+[18:19:07] [Server thread/INFO]: Sebas23m issued server command: /home p
+[18:19:13] [Server thread/INFO]: Sebas23m issued server command: /home 3
+[18:19:43] [Server thread/INFO]: Sebas23m issued server command: /gamemode spectator
+[18:19:43] [Server thread/INFO]: [Sebas23m: Set own game mode to Spectator Mode]
+[18:19:56] [Server thread/INFO]: Sebas23m issued server command: /gamemode survival
+[18:19:56] [Server thread/INFO]: [Sebas23m: Set own game mode to Survival Mode]
