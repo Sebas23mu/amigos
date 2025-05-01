@@ -798,6 +798,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "bread": "2025-05-01 03:17:59 +0000",
+      "potato": "2025-05-01 18:37:37 +0000",
       "salmon": "2025-05-01 03:14:31 +0000",
       "carrot": "2025-05-01 03:06:55 +0000"
     },
@@ -881,6 +882,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-05-01 18:37:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_button": {
     "criteria": {
       "has_planks": "2025-05-01 18:09:56 +0000"
@@ -890,6 +897,18 @@
   "minecraft:recipes/building_blocks/birch_planks": {
     "criteria": {
       "has_logs": "2025-05-01 18:06:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-05-01 18:37:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-05-01 18:37:26 +0000"
     },
     "done": true
   },
