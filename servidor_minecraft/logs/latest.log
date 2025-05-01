@@ -98,3 +98,12 @@
 [20:15:32] [User Authenticator #0/INFO]: UUID of player Sebas23m is 05baa57d-e0e2-3245-950d-ef017ffd725d
 [20:15:34] [Server thread/INFO]: Sebas23m joined the game
 [20:15:34] [Server thread/INFO]: Sebas23m[/127.50.210.97:55365] logged in with entity id 106 at ([world]2.678552973670344, 63.0, 40.15459476728935)
+[20:36:52] [Server thread/INFO]: Sebas23m issued server command: /home s
+[20:36:55] [Server thread/INFO]: Sebas23m issued server command: /home 1
+[20:37:19] [Server thread/INFO]: Sebas23m issued server command: /home d
+[20:37:22] [Server thread/INFO]: Sebas23m issued server command: /home s
+[20:37:50] [Server thread/INFO]: Sebas23m issued server command: /homes
+[20:37:50] [Server thread/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[20:38:10] [Server thread/INFO]: Sebas23m issued server command: /home s
+[20:42:21] [Server thread/INFO]: Sebas23m issued server command: /home 1
+[20:43:00] [Server thread/INFO]: Sebas23m issued server command: /home s
