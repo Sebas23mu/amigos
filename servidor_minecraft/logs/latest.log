@@ -176,3 +176,12 @@
 [02:36:59] [Server thread/INFO]: jp7806073 issued server command: /home 11
 [02:47:23] [Server thread/INFO]: Cami23m was shot by Lvl 1 | Skeleton
 [02:48:57] [Server thread/INFO]: Cami23m was slain by Zombie Villager ❤
+[03:01:52] [Async Chat Thread - #0/INFO]: [Not Secure] <Sebas23m> CONTESTA
+[03:03:44] [Server thread/INFO]: Sebas23m issued server command: /effect give Sebas23m minecraft:glowing infinite 100
+[03:03:44] [Server thread/INFO]: [Sebas23m: Applied effect Glowing to Sebas23m]
+[03:04:11] [Server thread/INFO]: Sebas23m issued server command: /effect clear jp7806073
+[03:04:11] [Server thread/INFO]: [Sebas23m: Removed every effect from jp7806073]
+[03:04:23] [Server thread/INFO]: Sebas23m issued server command: /effect give Sebas23m minecraft:haste infinite 100
+[03:04:23] [Server thread/INFO]: [Sebas23m: Applied effect Haste to Sebas23m]
+[03:05:29] [Async Chat Thread - #1/INFO]: [Not Secure] <jp7806073> espérate
+[03:07:18] [Async Chat Thread - #3/INFO]: [Not Secure] <jp7806073> olle
