@@ -115,3 +115,13 @@
 [20:57:36] [Server thread/INFO]: Sebas23m issued server command: /home 1
 [20:57:53] [Server thread/INFO]: Sebas23m issued server command: /home s
 [21:08:57] [Server thread/INFO]: jp7806073 issued server command: /home A
+[21:17:56] [Server thread/INFO]: Villager Villager['Armorer'/2, uuid='86748bfe-8793-4fae-aa0d-3231375b1fb2', l='ServerLevel[world]', x=9.37, y=64.00, z=25.61, cpos=[0, 1], tl=383724, v=true] died, message: 'Armorer burned to death'
+[21:20:15] [Server thread/INFO]: Sebas23m issued server command: /home 4
+[21:21:55] [Server thread/INFO]: jp7806073 issued server command: /home A
+[21:22:59] [Server thread/INFO]: Sebas23m issued server command: /home s
+[21:24:45] [Server thread/INFO]: Sebas23m issued server command: /skin menu
+[21:24:47] [Folia Async Scheduler Thread #3/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[21:25:15] [Server thread/INFO]: jp7806073 issued server command: /home 11
+[21:25:34] [Server thread/INFO]: Sebas23m issued server command: /skin menu
+[21:26:26] [Server thread/INFO]: Sebas23m issued server command: /tp Sebas23m jp7806073
+[21:26:26] [Server thread/INFO]: [Sebas23m: Teleported Sebas23m to jp7806073]
