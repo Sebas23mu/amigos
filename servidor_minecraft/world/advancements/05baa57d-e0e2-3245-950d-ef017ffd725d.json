@@ -470,15 +470,16 @@
       "minecraft:blaze": "2025-04-27 18:54:55 +0000",
       "minecraft:pillager": "2025-04-30 23:44:02 +0000",
       "minecraft:skeleton": "2025-04-27 04:18:07 +0000",
+      "minecraft:wither_skeleton": "2025-04-27 19:16:50 +0000",
+      "minecraft:shulker": "2025-04-28 00:03:01 +0000",
       "minecraft:piglin": "2025-04-27 18:37:26 +0000",
       "minecraft:enderman": "2025-04-27 19:07:05 +0000",
       "minecraft:silverfish": "2025-04-27 20:02:52 +0000",
       "minecraft:magma_cube": "2025-04-27 19:23:46 +0000",
       "minecraft:spider": "2025-04-27 19:22:51 +0000",
-      "minecraft:wither_skeleton": "2025-04-27 19:16:50 +0000",
       "minecraft:zombie": "2025-04-27 02:48:41 +0000",
       "minecraft:creeper": "2025-04-27 03:54:48 +0000",
-      "minecraft:shulker": "2025-04-28 00:03:01 +0000"
+      "minecraft:drowned": "2025-05-02 00:23:34 +0000"
     },
     "done": false
   },

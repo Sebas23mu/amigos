@@ -19,3 +19,15 @@
 [00:15:16] [Server thread/INFO]: Sebas23m issued server command: /sethome 5
 [00:15:29] [Server thread/INFO]: jp7806073 issued server command: /home A
 [00:15:45] [Server thread/INFO]: jp7806073 issued server command: /home S
+[00:18:33] [Server thread/INFO]: Sebas23m issued server command: /tp jp7806073 Sebas23m
+[00:18:33] [Server thread/INFO]: [Sebas23m: Teleported jp7806073 to Sebas23m]
+[00:18:49] [Server thread/INFO]: jp7806073 issued server command: /home S
+[00:19:04] [User Authenticator #6/INFO]: UUID of player jhonwuyck722 is 22f109f5-0b6d-34a0-824b-497aa73b1c40
+[00:19:08] [Server thread/INFO]: jhonwuyck722 joined the game
+[00:19:08] [Server thread/INFO]: jhonwuyck722[/127.60.118.40:59649] logged in with entity id 42996 at ([world]2.5, 63.0, 22.5)
+[00:19:18] [Server thread/INFO]: jhonwuyck722 lost connection: Disconnected
+[00:19:18] [Server thread/INFO]: jhonwuyck722 left the game
+[00:22:15] [Server thread/INFO]: jp7806073 issued server command: /home A
+[00:24:02] [Server thread/INFO]: Sebas23m issued server command: /home 5
+[00:26:53] [Server thread/INFO]: Sebas23m issued server command: /homr 5
+[00:26:59] [Server thread/INFO]: Sebas23m issued server command: /home 5
