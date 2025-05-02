@@ -62,3 +62,12 @@
 [01:07:48] [User Authenticator #7/INFO]: UUID of player Sebas23m is 05baa57d-e0e2-3245-950d-ef017ffd725d
 [01:07:49] [Server thread/INFO]: Sebas23m joined the game
 [01:07:49] [Server thread/INFO]: Sebas23m[/127.50.210.97:49987] logged in with entity id 50609 at ([world]21.457709493102346, 55.0, 74.81694001917602)
+[01:09:41] [Server thread/INFO]: Sebas23m was slain by Zombie ❤
+[01:10:22] [Server thread/INFO]: Sebas23m issued server command: /home 1
+[01:11:09] [Server thread/INFO]: Sebas23m issued server command: /home s
+[01:14:45] [Server thread/INFO]: Sebas23m issued server command: /home s
+[01:14:49] [Server thread/INFO]: Sebas23m issued server command: /home 1
+[01:16:14] [Server thread/INFO]: Sebas23m issued server command: /home s
+[01:17:09] [Server thread/INFO]: Villager Villager['Librarian'/14153, uuid='9a659695-d2ec-44ad-9571-b10406c67f6e', l='ServerLevel[world]', x=23.30, y=54.00, z=66.30, cpos=[1, 4], tl=240867, v=true] died, message: 'Librarian was slain by pepito 2'
+[01:17:13] [Server thread/INFO]: Sebas23m issued server command: /home 4
+[01:17:15] [Server thread/INFO]: Villager Villager['Librarian'/21753, uuid='6dd0c63e-da86-4d0a-9655-554ce11e6926', l='ServerLevel[world]', x=23.30, y=54.00, z=68.30, cpos=[1, 4], tl=204384, v=true] died, message: 'Librarian was slain by pepito 2'
