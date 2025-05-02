@@ -31,3 +31,10 @@
 [00:24:02] [Server thread/INFO]: Sebas23m issued server command: /home 5
 [00:26:53] [Server thread/INFO]: Sebas23m issued server command: /homr 5
 [00:26:59] [Server thread/INFO]: Sebas23m issued server command: /home 5
+[00:32:53] [Server thread/INFO]: Sebas23m issued server command: /sethome 7
+[00:33:21] [Server thread/INFO]: Sebas23m issued server command: /home s
+[00:33:35] [Server thread/INFO]: Sebas23m issued server command: /home 7
+[00:34:26] [Server thread/INFO]: jp7806073 lost connection: Disconnected
+[00:34:26] [Server thread/INFO]: jp7806073 left the game
+[00:37:11] [Server thread/INFO]: Sebas23m issued server command: /gamemode creative
+[00:37:11] [Server thread/INFO]: [Sebas23m: Set own game mode to Creative Mode]
