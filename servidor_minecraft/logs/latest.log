@@ -125,3 +125,18 @@
 [21:25:34] [Server thread/INFO]: Sebas23m issued server command: /skin menu
 [21:26:26] [Server thread/INFO]: Sebas23m issued server command: /tp Sebas23m jp7806073
 [21:26:26] [Server thread/INFO]: [Sebas23m: Teleported Sebas23m to jp7806073]
+[21:26:56] [Server thread/INFO]: Sebas23m issued server command: /home s
+[21:28:11] [Server thread/INFO]: jp7806073 lost connection: Disconnected
+[21:28:11] [Server thread/INFO]: jp7806073 left the game
+[21:28:21] [User Authenticator #1/INFO]: UUID of player jp7806073 is 68efd73e-a0cd-33f7-a574-2c7e5d7949df
+[21:28:25] [Server thread/INFO]: jp7806073 joined the game
+[21:28:25] [Server thread/INFO]: jp7806073[/127.60.118.40:44457] logged in with entity id 11455 at ([world]-2923.4467027784626, 71.0, 564.2747503612243)
+[21:28:34] [Server thread/INFO]: jp7806073 issued server command: /home qq
+[21:28:42] [Server thread/INFO]: jp7806073 issued server command: /home A
+[21:31:17] [Server thread/INFO]: Sebas23m issued server command: /skin menu
+[21:33:22] [Server thread/INFO]: Sebas23m issued server command: /home 4
+[21:35:28] [Server thread/INFO]: Sebas23m issued server command: /gamemode spectator
+[21:35:28] [Server thread/INFO]: [Sebas23m: Set own game mode to Spectator Mode]
+[21:35:44] [Server thread/INFO]: Sebas23m issued server command: /gamemode creative
+[21:35:44] [Server thread/INFO]: [Sebas23m: Set own game mode to Creative Mode]
+[21:36:08] [Server thread/INFO]: jp7806073 issued server command: /home E
