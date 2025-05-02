@@ -199,3 +199,9 @@
 [22:40:56] [Server thread/INFO]: STARTGAME has made the advancement [Hot Stuff]
 [22:54:41] [Server thread/INFO]: STARTGAME lost connection: Disconnected
 [22:54:41] [Server thread/INFO]: STARTGAME left the game
+[22:58:06] [Server thread/INFO]: Sebas23m issued server command: /home s
+[23:01:35] [Server thread/INFO]: Sebas23m issued server command: /home 4
+[23:02:37] [Server thread/INFO]: Sebas23m issued server command: /gamemode creative
+[23:02:37] [Server thread/INFO]: [Sebas23m: Set own game mode to Creative Mode]
+[23:05:36] [Server thread/INFO]: Sebas23m issued server command: /gamemode survival
+[23:05:36] [Server thread/INFO]: [Sebas23m: Set own game mode to Survival Mode]
