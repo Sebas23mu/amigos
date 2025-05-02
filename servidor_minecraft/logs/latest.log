@@ -180,3 +180,18 @@
 [22:15:34] [Server thread/INFO]: Sebas23m issued server command: /home s
 [22:16:10] [Server thread/INFO]: jp7806073 fell from a high place
 [22:16:13] [Server thread/INFO]: STARTGAME was slain by Lvl 4 | Zombie
+[22:17:34] [Server thread/INFO]: Sebas23m issued server command: /tp STARTGAME Sebas23m
+[22:17:34] [Server thread/INFO]: [Sebas23m: Teleported STARTGAME to Sebas23m]
+[22:18:01] [Server thread/INFO]: Sebas23m issued server command: /tp STARTGAME Sebas23m
+[22:18:01] [Server thread/INFO]: [Sebas23m: Teleported STARTGAME to Sebas23m]
+[22:18:37] [Server thread/INFO]: Sebas23m lost connection: Disconnected
+[22:18:37] [Server thread/INFO]: Sebas23m left the game
+[22:19:21] [User Authenticator #4/INFO]: UUID of player Sebas23m is 05baa57d-e0e2-3245-950d-ef017ffd725d
+[22:19:23] [Server thread/INFO]: Sebas23m joined the game
+[22:19:23] [Server thread/INFO]: Sebas23m[/127.50.210.97:55341] logged in with entity id 26643 at ([world]17.95780681350017, 63.0, 23.170014487292086)
+[22:19:30] [Server thread/INFO]: Sebas23m issued server command: /home 4
+[22:19:55] [Async Chat Thread - #0/INFO]: [Not Secure] <Sebas23m> jhon tencuidado cuado vengas a la granja
+[22:20:51] [Server thread/INFO]: STARTGAME has made the advancement [Not Today, Thank You]
+[22:21:49] [Server thread/INFO]: jp7806073 lost connection: Disconnected
+[22:21:49] [Server thread/INFO]: jp7806073 left the game
+[22:23:37] [Server thread/INFO]: STARTGAME was burned to a crisp while fighting Zombie
