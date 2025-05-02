@@ -140,3 +140,43 @@
 [21:35:44] [Server thread/INFO]: Sebas23m issued server command: /gamemode creative
 [21:35:44] [Server thread/INFO]: [Sebas23m: Set own game mode to Creative Mode]
 [21:36:08] [Server thread/INFO]: jp7806073 issued server command: /home E
+[21:40:08] [Server thread/INFO]: Sebas23m issued server command: /tp jp7806073 Sebas23m
+[21:40:08] [Server thread/INFO]: [Sebas23m: Teleported jp7806073 to Sebas23m]
+[21:40:20] [Server thread/INFO]: Sebas23m issued server command: /gamemode survival
+[21:40:20] [Server thread/INFO]: [Sebas23m: Set own game mode to Survival Mode]
+[21:42:52] [Server thread/INFO]: jp7806073 issued server command: /home Ee
+[21:43:04] [Server thread/INFO]: jp7806073 issued server command: /home E
+[21:43:48] [Server thread/INFO]: Sebas23m issued server command: /home s
+[21:44:26] [Server thread/INFO]: Sebas23m issued server command: /home 4
+[21:45:38] [Server thread/INFO]: jp7806073 issued server command: /home s
+[21:45:47] [Server thread/INFO]: jp7806073 issued server command: /home S
+[21:48:38] [Server thread/INFO]: Sebas23m issued server command: /gamemode spectator
+[21:48:38] [Server thread/INFO]: [Sebas23m: Set own game mode to Spectator Mode]
+[21:49:08] [Server thread/INFO]: Sebas23m issued server command: /gamemode survival
+[21:49:08] [Server thread/INFO]: [Sebas23m: Set own game mode to Survival Mode]
+[21:50:59] [Server thread/INFO]: jp7806073 issued server command: /home A
+[21:54:29] [Server thread/INFO]: Sebas23m was slain by jp7806073
+[21:54:44] [Server thread/INFO]: jp7806073 lost connection: Disconnected
+[21:54:44] [Server thread/INFO]: jp7806073 left the game
+[22:01:17] [Server thread/INFO]: Sebas23m has made the advancement [The Parrots and the Bats]
+[22:03:31] [Server thread/INFO]: Sebas23m issued server command: /home s
+[22:04:41] [User Authenticator #2/INFO]: UUID of player jp7806073 is 68efd73e-a0cd-33f7-a574-2c7e5d7949df
+[22:04:45] [Server thread/INFO]: jp7806073 joined the game
+[22:04:45] [Server thread/INFO]: jp7806073[/127.60.118.40:59995] logged in with entity id 21527 at ([world]187.75742731033495, 62.0, -114.32911424059401)
+[22:05:23] [Server thread/INFO]: jp7806073 issued server command: /home A
+[22:06:32] [User Authenticator #3/INFO]: UUID of player STARTGAME is fa4da132-c81a-3b38-820a-f18b9a409675
+[22:06:35] [Server thread/INFO]: STARTGAME joined the game
+[22:06:35] [Server thread/INFO]: STARTGAME[/127.219.81.95:40239] logged in with entity id 21939 at ([world]2.911383813579361, 63.0, 27.424984569809705)
+[22:09:11] [Server thread/INFO]: Sebas23m issued server command: /home 4
+[22:09:17] [Server thread/INFO]: Sebas23m issued server command: /tp STARTGAME Sebas23m
+[22:09:17] [Server thread/INFO]: [Sebas23m: Teleported STARTGAME to Sebas23m]
+[22:13:45] [Server thread/INFO]: Sebas23m issued server command: /tp STARTGAME jp7806073
+[22:13:45] [Server thread/INFO]: [Sebas23m: Teleported STARTGAME to jp7806073]
+[22:14:11] [Server thread/INFO]: Sebas23m issued server command: /tp STARTGAME Sebas23m
+[22:14:11] [Server thread/INFO]: [Sebas23m: Teleported STARTGAME to Sebas23m]
+[22:15:18] [Server thread/INFO]: STARTGAME was blown up by Lvl 1 | Creeper
+[22:15:31] [Server thread/INFO]: Sebas23m issued server command: /tp STARTGAME Sebas23m
+[22:15:31] [Server thread/INFO]: [Sebas23m: Teleported STARTGAME to Sebas23m]
+[22:15:34] [Server thread/INFO]: Sebas23m issued server command: /home s
+[22:16:10] [Server thread/INFO]: jp7806073 fell from a high place
+[22:16:13] [Server thread/INFO]: STARTGAME was slain by Lvl 4 | Zombie

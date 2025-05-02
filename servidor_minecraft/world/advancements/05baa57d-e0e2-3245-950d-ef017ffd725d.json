@@ -480,7 +480,8 @@
       "minecraft:spider": "2025-04-27 19:22:51 +0000",
       "minecraft:zombie": "2025-04-27 02:48:41 +0000",
       "minecraft:creeper": "2025-04-27 03:54:48 +0000",
-      "minecraft:drowned": "2025-05-02 00:23:34 +0000"
+      "minecraft:drowned": "2025-05-02 00:23:34 +0000",
+      "minecraft:zombie_villager": "2025-05-02 22:15:06 +0000"
     },
     "done": false
   },
@@ -2914,6 +2915,42 @@
   "minecraft:recipes/building_blocks/spruce_slab": {
     "criteria": {
       "has_planks": "2025-05-02 01:09:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2025-05-02 21:51:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/whole_pack": {
+    "criteria": {
+      "minecraft:woods": "2025-05-02 21:56:58 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:wolf": "2025-05-02 22:01:17 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2025-05-02 21:51:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2025-05-02 21:51:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-05-02 22:01:17 +0000"
     },
     "done": true
   },
