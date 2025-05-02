@@ -4,3 +4,18 @@
 [00:03:21] [Server thread/INFO]: [Sebas23m: Set own game mode to Survival Mode]
 [00:07:21] [Server thread/INFO]: Sebas23m issued server command: /gamemode spectator
 [00:07:21] [Server thread/INFO]: [Sebas23m: Set own game mode to Spectator Mode]
+[00:07:35] [Server thread/INFO]: Sebas23m issued server command: /gamemode survival
+[00:07:35] [Server thread/INFO]: [Sebas23m: Set own game mode to Survival Mode]
+[00:09:52] [User Authenticator #5/INFO]: UUID of player jp7806073 is 68efd73e-a0cd-33f7-a574-2c7e5d7949df
+[00:09:56] [Server thread/INFO]: jp7806073 joined the game
+[00:09:56] [Server thread/INFO]: jp7806073[/127.60.118.40:52375] logged in with entity id 41186 at ([world]1.5, 63.0, 28.5)
+[00:10:47] [Server thread/INFO]: jp7806073 issued server command: /home
+[00:11:31] [Server thread/INFO]: Sebas23m issued server command: /tp jp7806073 Sebas23m
+[00:11:31] [Server thread/INFO]: [Sebas23m: Teleported jp7806073 to Sebas23m]
+[00:12:32] [Server thread/INFO]: Sebas23m issued server command: /tp jp7806073 Sebas23m
+[00:12:32] [Server thread/INFO]: [Sebas23m: Teleported jp7806073 to Sebas23m]
+[00:14:39] [Server thread/INFO]: Sebas23m issued server command: /tp jp7806073 Sebas23m
+[00:14:39] [Server thread/INFO]: [Sebas23m: Teleported jp7806073 to Sebas23m]
+[00:15:16] [Server thread/INFO]: Sebas23m issued server command: /sethome 5
+[00:15:29] [Server thread/INFO]: jp7806073 issued server command: /home A
+[00:15:45] [Server thread/INFO]: jp7806073 issued server command: /home S
