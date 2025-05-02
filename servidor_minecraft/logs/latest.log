@@ -53,3 +53,12 @@
 [00:52:35] [Server thread/INFO]: Sebas23m issued server command: /home s
 [00:54:10] [Server thread/INFO]: Sebas23m issued server command: /effect give Sebas23m minecraft:haste infinite 100
 [00:54:10] [Server thread/INFO]: [Sebas23m: Applied effect Haste to Sebas23m]
+[00:58:40] [Server thread/INFO]: Sebas23m issued server command: /effect clear
+[00:58:40] [Server thread/INFO]: [Sebas23m: Removed every effect from Sebas23m]
+[00:59:36] [Server thread/INFO]: Sebas23m issued server command: /home 1
+[01:00:36] [Server thread/INFO]: Sebas23m issued server command: /home s
+[01:07:43] [Server thread/INFO]: Sebas23m lost connection: Disconnected
+[01:07:43] [Server thread/INFO]: Sebas23m left the game
+[01:07:48] [User Authenticator #7/INFO]: UUID of player Sebas23m is 05baa57d-e0e2-3245-950d-ef017ffd725d
+[01:07:49] [Server thread/INFO]: Sebas23m joined the game
+[01:07:49] [Server thread/INFO]: Sebas23m[/127.50.210.97:49987] logged in with entity id 50609 at ([world]21.457709493102346, 55.0, 74.81694001917602)
