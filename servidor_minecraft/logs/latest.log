@@ -48,3 +48,8 @@
 [00:44:31] [Server thread/INFO]: Sebas23m issued server command: /home 4
 [00:44:37] [Server thread/INFO]: Sebas23m issued server command: /homes
 [00:44:43] [Server thread/INFO]: Sebas23m issued server command: /home s
+[00:49:04] [Server thread/INFO]: Villager Villager['Fletcher'/35105, uuid='38e50718-8955-4722-9040-6ef7aea1cb5c', l='ServerLevel[world]', x=23.30, y=54.00, z=80.70, cpos=[1, 5], tl=115073, v=true] died, message: 'Fletcher was slain by pepito 2'
+[00:52:29] [Server thread/INFO]: Sebas23m issued server command: /home 4
+[00:52:35] [Server thread/INFO]: Sebas23m issued server command: /home s
+[00:54:10] [Server thread/INFO]: Sebas23m issued server command: /effect give Sebas23m minecraft:haste infinite 100
+[00:54:10] [Server thread/INFO]: [Sebas23m: Applied effect Haste to Sebas23m]
