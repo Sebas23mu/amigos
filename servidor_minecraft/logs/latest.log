@@ -38,3 +38,13 @@
 [00:34:26] [Server thread/INFO]: jp7806073 left the game
 [00:37:11] [Server thread/INFO]: Sebas23m issued server command: /gamemode creative
 [00:37:11] [Server thread/INFO]: [Sebas23m: Set own game mode to Creative Mode]
+[00:38:01] [Server thread/INFO]: Sebas23m issued server command: /gamemode survival
+[00:38:01] [Server thread/INFO]: [Sebas23m: Set own game mode to Survival Mode]
+[00:41:21] [Server thread/INFO]: Sebas23m issued server command: /gamemode creative
+[00:41:21] [Server thread/INFO]: [Sebas23m: Set own game mode to Creative Mode]
+[00:42:37] [Server thread/INFO]: Sebas23m issued server command: /gamemode survival
+[00:42:37] [Server thread/INFO]: [Sebas23m: Set own game mode to Survival Mode]
+[00:43:46] [Server thread/INFO]: Sebas23m issued server command: /home s
+[00:44:31] [Server thread/INFO]: Sebas23m issued server command: /home 4
+[00:44:37] [Server thread/INFO]: Sebas23m issued server command: /homes
+[00:44:43] [Server thread/INFO]: Sebas23m issued server command: /home s
