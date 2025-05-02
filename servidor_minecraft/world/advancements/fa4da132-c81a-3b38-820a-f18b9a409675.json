@@ -380,6 +380,7 @@
     "criteria": {
       "cooked_porkchop": "2025-05-01 22:46:58 +0000",
       "cooked_chicken": "2025-05-02 22:17:07 +0000",
+      "rotten_flesh": "2025-05-02 22:37:29 +0000",
       "cooked_salmon": "2025-05-01 22:39:04 +0000"
     },
     "done": false
@@ -678,9 +679,21 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-05-02 22:40:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_sand": "2025-05-02 22:19:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-05-02 22:42:41 +0000"
     },
     "done": true
   },
@@ -798,6 +811,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-05-02 22:42:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-05-02 22:42:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/spruce_sign": {
     "criteria": {
       "has_planks": "2025-05-02 22:28:24 +0000"
@@ -867,6 +892,12 @@
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2025-05-02 22:28:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-05-02 22:40:43 +0000"
     },
     "done": true
   },
