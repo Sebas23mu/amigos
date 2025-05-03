@@ -99,3 +99,46 @@
 [18:04:35] [Server thread/INFO]: Sebas23m joined the game
 [18:04:35] [Server thread/INFO]: Sebas23m[/127.50.210.97:50657] logged in with entity id 147 at ([world_the_end]5.074999988079071, 22.0, 245.42104933769332)
 [18:10:25] [Server thread/INFO]: Sebas23m issued server command: /home s
+[18:14:17] [Server thread/INFO]: Sebas23m was slain by Lvl 1 | Zombie
+[18:17:53] [Server thread/INFO]: Sebas23m lost connection: Disconnected
+[18:17:53] [Server thread/INFO]: Sebas23m left the game
+[18:18:06] [Server thread/INFO]: Stopping the server
+[18:18:06] [Server thread/INFO]: Stopping server
+[18:18:06] [Server thread/INFO]: [LevelledMobs] Disabling LevelledMobs v4.3.1 b112
+[18:18:06] [Server thread/INFO]: [LevelledMobs] Unregistering commands
+[18:18:06] [Server thread/INFO]: [LevelledMobs] Tasks: Shutting down other async tasks...
+[18:18:06] [Server thread/INFO]: [LevelledMobs] Shut-down complete (took 3ms)
+[18:18:06] [Craft Scheduler Thread - 2 - LevelledMobs/INFO]: [LevelledMobs] Mob processing queue Manager has exited
+[18:18:06] [Craft Scheduler Thread - 4 - LevelledMobs/INFO]: [LevelledMobs] Nametag update queue Manager has exited
+[18:18:06] [Server thread/INFO]: [LockShulker] Disabling LockShulker v1.0
+[18:18:06] [Server thread/INFO]: [LockShulker] LockShulker выключен!
+[18:18:06] [Server thread/INFO]: [UltraSetHome] Disabling UltraSetHome v1.7.9
+[18:18:06] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.6.2
+[18:18:06] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.158
+[18:18:06] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[18:18:06] [Server thread/INFO]: [LuckPerms] Closing storage...
+[18:18:06] [Server thread/INFO]: [LuckPerms] Goodbye!
+[18:18:06] [Server thread/INFO]: [GSit] Disabling GSit v2.3.0
+[18:18:06] [Server thread/INFO]: [GSit] The plugin was successfully disabled.
+[18:18:06] [Server thread/INFO]: [SmoothTimber] Disabling SmoothTimber v1.27.4
+[18:18:06] [Server thread/INFO]: Saving players
+[18:18:06] [Server thread/INFO]: Saving worlds
+[18:18:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[18:18:06] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[18:18:06] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[18:18:06] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[18:18:06] [Server thread/INFO]: [ChunkHolderManager] Saved 87 block chunks, 235 entity chunks, 5 poi chunks in world 'world' in 0.17s
+[18:18:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[18:18:06] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[18:18:06] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[18:18:06] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[18:18:06] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 16 entity chunks, 0 poi chunks in world 'world_nether' in 0.01s
+[18:18:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[18:18:06] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[18:18:06] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[18:18:06] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[18:18:06] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 6 entity chunks, 0 poi chunks in world 'world_the_end' in 0.01s
+[18:18:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18:18:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18:18:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18:18:06] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
