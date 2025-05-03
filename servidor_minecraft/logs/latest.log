@@ -235,3 +235,16 @@
 [22:01:45] [Server thread/INFO]: Sebas23m issued server command: /home 1
 [22:01:48] [Server thread/INFO]: Sebas23m issued server command: /home s
 [22:01:58] [Server thread/INFO]: STARTGAME was blown up by Lvl 9 | Creeper
+[22:05:57] [Server thread/INFO]: STARTGAME was slain by Sebas23m
+[22:06:31] [Server thread/WARN]: STARTGAME moved too quickly! -10.648705106465819,-0.6815583980583213,-8.519063130324515
+[22:07:01] [Server thread/INFO]: STARTGAME lost connection: Timed out
+[22:07:01] [Server thread/INFO]: STARTGAME left the game
+[22:07:22] [User Authenticator #2/INFO]: UUID of player STARTGAME is fa4da132-c81a-3b38-820a-f18b9a409675
+[22:07:24] [Server thread/INFO]: STARTGAME joined the game
+[22:07:24] [Server thread/INFO]: STARTGAME[/127.219.81.95:55919] logged in with entity id 24646 at ([world]-59.05051594085825, 63.0, 30.22944049024743)
+[22:08:17] [Server thread/INFO]: STARTGAME issued server command: /home 2
+[22:08:22] [Server thread/INFO]: STARTGAME issued server command: /home 5
+[22:10:58] [Server thread/INFO]: STARTGAME issued server command: /tp STARGAME Sebas23m
+[22:12:11] [Server thread/INFO]: STARTGAME tried to swim in lava
+[22:12:52] [Server thread/INFO]: STARTGAME issued server command: /starhome 7
+[22:14:48] [Server thread/INFO]: STARTGAME was slain by jp7806073
