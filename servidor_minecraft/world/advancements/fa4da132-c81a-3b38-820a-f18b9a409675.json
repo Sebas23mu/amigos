@@ -631,6 +631,7 @@
       "minecraft:skeleton": "2025-05-02 22:21:02 +0000",
       "minecraft:enderman": "2025-05-02 22:24:33 +0000",
       "minecraft:spider": "2025-05-02 22:26:53 +0000",
+      "minecraft:piglin_brute": "2025-05-03 21:26:20 +0000",
       "minecraft:zombie": "2025-05-02 22:20:13 +0000"
     },
     "done": false
@@ -1349,9 +1350,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2025-05-03 21:10:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/pumpkin_seeds": {
     "criteria": {
       "has_pumpkin": "2025-05-03 21:06:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-05-03 21:10:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-05-03 21:26:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2025-05-03 21:10:55 +0000"
     },
     "done": true
   },
