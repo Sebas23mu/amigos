@@ -180,3 +180,8 @@
 [21:33:59] [Server thread/INFO]: STARTGAME was slain by Lvl 50 | Piglin
 [21:34:06] [Server thread/INFO]: STARTGAME issued server command: /home 2
 [21:34:07] [Server thread/INFO]: Sebas23m issued server command: /home s
+[21:36:01] [Server thread/INFO]: Sebas23m issued server command: /tp Sebas23m -3278.0 93 816.0
+[21:36:01] [Server thread/INFO]: [Sebas23m: Teleported Sebas23m to -3278.000000, 93.000000, 816.000000]
+[21:38:24] [Server thread/INFO]: Sebas23m issued server command: /tp Sebas23m 5.0 63 41.0
+[21:38:24] [Server thread/INFO]: [Sebas23m: Teleported Sebas23m to 5.000000, 63.000000, 41.000000]
+[21:45:01] [Server thread/INFO]: Sebas23m was shot by Lvl 1 | Skeleton
