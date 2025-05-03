@@ -185,3 +185,32 @@
 [21:38:24] [Server thread/INFO]: Sebas23m issued server command: /tp Sebas23m 5.0 63 41.0
 [21:38:24] [Server thread/INFO]: [Sebas23m: Teleported Sebas23m to 5.000000, 63.000000, 41.000000]
 [21:45:01] [Server thread/INFO]: Sebas23m was shot by Lvl 1 | Skeleton
+[21:45:35] [Server thread/INFO]: STARTGAME was slain by Lvl 50 | Spawner Magma Cube
+[21:46:32] [Server thread/INFO]: STARTGAME issued server command: /home 2
+[21:48:00] [Server thread/INFO]: STARTGAME was shot by Lvl 50 | Piglin
+[21:48:07] [Server thread/INFO]: STARTGAME issued server command: /home
+[21:48:17] [Server thread/INFO]: STARTGAME issued server command: /home 2
+[21:49:23] [Server thread/INFO]: STARTGAME was slain by Lvl 50 | Piglin
+[21:49:38] [Server thread/INFO]: STARTGAME issued server command: /home 2
+[21:49:56] [Server thread/INFO]: Sebas23m lost connection: Timed out
+[21:49:56] [Server thread/INFO]: Sebas23m left the game
+[21:50:51] [Server thread/INFO]: STARTGAME lost connection: Disconnected
+[21:50:51] [Server thread/INFO]: STARTGAME left the game
+[21:51:43] [User Authenticator #1/INFO]: UUID of player jp7806073 is 68efd73e-a0cd-33f7-a574-2c7e5d7949df
+[21:51:48] [Server thread/INFO]: jp7806073 joined the game
+[21:51:48] [Server thread/INFO]: jp7806073[/127.60.118.40:50183] logged in with entity id 19179 at ([world]-0.8374993458548271, 63.0, 33.462116485661994)
+[21:51:50] [User Authenticator #1/INFO]: UUID of player Sebas23m is 05baa57d-e0e2-3245-950d-ef017ffd725d
+[21:51:51] [Server thread/INFO]: Sebas23m joined the game
+[21:51:51] [Server thread/INFO]: Sebas23m[/127.50.210.97:38631] logged in with entity id 19226 at ([world]475.3009865457647, -1.0, 33.37047292320334)
+[21:52:29] [User Authenticator #1/INFO]: UUID of player STARTGAME is fa4da132-c81a-3b38-820a-f18b9a409675
+[21:52:31] [Server thread/INFO]: STARTGAME joined the game
+[21:52:31] [Server thread/INFO]: STARTGAME[/127.219.81.95:38911] logged in with entity id 19623 at ([world_nether]324.69999998807907, 40.0, 121.67977128040587)
+[21:53:11] [Server thread/INFO]: jp7806073 issued server command: /tp jp7806073 STARTGAME
+[21:53:11] [Server thread/INFO]: [jp7806073: Teleported jp7806073 to STARTGAME]
+[21:53:12] [Server thread/INFO]: jp7806073 has made the advancement [Those Were the Days]
+[21:53:37] [Server thread/INFO]: STARTGAME issued server command: /home 5
+[21:53:52] [Server thread/INFO]: STARTGAME issued server command: /home 1
+[21:53:58] [Server thread/INFO]: STARTGAME issued server command: /home 2
+[21:54:33] [Server thread/INFO]: Sebas23m issued server command: /home 4
+[21:54:58] [Server thread/INFO]: jp7806073 has made the advancement [Hidden in the Depths]
+[21:55:22] [Server thread/INFO]: STARTGAME issued server command: /home 5
