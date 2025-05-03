@@ -99,3 +99,48 @@
 [18:46:31] [Server thread/INFO]: Sebas23m joined the game
 [18:46:32] [Server thread/INFO]: Sebas23m[/127.50.210.97:50491] logged in with entity id 143 at ([world]-0.3897849152318806, 63.0, 20.522680393488514)
 [18:52:59] [Server thread/INFO]: Sebas23m issued server command: /home 4
+[19:01:46] [Server thread/INFO]: Sebas23m issued server command: /home 1
+[19:02:34] [Server thread/INFO]: Sebas23m issued server command: /home 3
+[19:02:40] [Server thread/INFO]: Sebas23m issued server command: /home 2
+[19:03:35] [Server thread/INFO]: Sebas23m lost connection: Disconnected
+[19:03:35] [Server thread/INFO]: Sebas23m left the game
+[19:03:44] [Server thread/INFO]: Stopping the server
+[19:03:44] [Server thread/INFO]: Stopping server
+[19:03:44] [Server thread/INFO]: [LevelledMobs] Disabling LevelledMobs v4.3.1 b112
+[19:03:44] [Server thread/INFO]: [LevelledMobs] Unregistering commands
+[19:03:44] [Server thread/INFO]: [LevelledMobs] Tasks: Shutting down other async tasks...
+[19:03:44] [Craft Scheduler Thread - 0 - LevelledMobs/INFO]: [LevelledMobs] Mob processing queue Manager has exited
+[19:03:44] [Server thread/INFO]: [LevelledMobs] Shut-down complete (took 3ms)
+[19:03:44] [Craft Scheduler Thread - 4 - LevelledMobs/INFO]: [LevelledMobs] Nametag update queue Manager has exited
+[19:03:44] [Server thread/INFO]: [LockShulker] Disabling LockShulker v1.0
+[19:03:44] [Server thread/INFO]: [LockShulker] LockShulker выключен!
+[19:03:44] [Server thread/INFO]: [UltraSetHome] Disabling UltraSetHome v1.7.9
+[19:03:44] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.6.2
+[19:03:44] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.158
+[19:03:44] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[19:03:44] [Server thread/INFO]: [LuckPerms] Closing storage...
+[19:03:44] [Server thread/INFO]: [LuckPerms] Goodbye!
+[19:03:44] [Server thread/INFO]: [GSit] Disabling GSit v2.3.0
+[19:03:44] [Server thread/INFO]: [GSit] The plugin was successfully disabled.
+[19:03:44] [Server thread/INFO]: [SmoothTimber] Disabling SmoothTimber v1.27.4
+[19:03:44] [Server thread/INFO]: Saving players
+[19:03:44] [Server thread/INFO]: Saving worlds
+[19:03:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[19:03:44] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[19:03:44] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[19:03:44] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[19:03:44] [Server thread/INFO]: [ChunkHolderManager] Saved 29 block chunks, 181 entity chunks, 1 poi chunks in world 'world' in 0.10s
+[19:03:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[19:03:44] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[19:03:44] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[19:03:44] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[19:03:44] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 16 entity chunks, 0 poi chunks in world 'world_nether' in 0.12s
+[19:03:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[19:03:44] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[19:03:44] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[19:03:44] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[19:03:44] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
+[19:03:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19:03:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19:03:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19:03:44] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
