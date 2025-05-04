@@ -443,3 +443,20 @@ Reason: Banned by an operator.
 [05:54:45] [Server thread/INFO]: [STARTGAME: Teleported STARTGAME to jp7806073]
 [05:55:20] [Server thread/INFO]: STARTGAME issued server command: /tp STARTGAME Sebas23m
 [05:55:20] [Server thread/INFO]: [STARTGAME: Teleported STARTGAME to Sebas23m]
+[05:58:51] [Async Chat Thread - #15/INFO]: [Not Secure] <STARTGAME> home 5
+[05:58:58] [Server thread/INFO]: STARTGAME issued server command: /home 5
+[05:59:09] [Server thread/INFO]: STARTGAME tried to swim in lava
+[05:59:52] [Server thread/INFO]: STARTGAME issued server command: /sethome 0
+[05:59:59] [Async Chat Thread - #17/INFO]: [Not Secure] <STARTGAME> home 0
+[06:00:04] [Server thread/INFO]: STARTGAME issued server command: /home 0
+[06:00:29] [Server thread/INFO]: STARTGAME issued server command: /tp S
+[06:00:52] [Server thread/INFO]: STARTGAME issued server command: /tp STARTGAME Sebas23m
+[06:00:52] [Server thread/INFO]: [STARTGAME: Teleported STARTGAME to Sebas23m]
+[06:01:52] [Server thread/INFO]: STARTGAME issued server command: /tp STARTGAME Sebas23m
+[06:01:52] [Server thread/INFO]: [STARTGAME: Teleported STARTGAME to Sebas23m]
+[06:05:01] [Server thread/INFO]: STARTGAME issued server command: /tp STARTGAME Sebas23m
+[06:05:01] [Server thread/INFO]: [STARTGAME: Teleported STARTGAME to Sebas23m]
+[06:05:49] [Server thread/INFO]: STARTGAME issued server command: /tp STARTGAME Sebas23m
+[06:05:49] [Server thread/INFO]: [STARTGAME: Teleported STARTGAME to Sebas23m]
+[06:07:57] [Server thread/INFO]: jp7806073 lost connection: Disconnected
+[06:07:57] [Server thread/INFO]: jp7806073 left the game
