@@ -499,3 +499,65 @@ Reason: Banned by an operator.
 [06:47:52] [Server thread/INFO]: STARTGAME issued server command: /home 5
 [06:48:00] [Server thread/INFO]: STARTGAME issued server command: /home 7
 [06:48:37] [Async Chat Thread - #21/INFO]: [Not Secure] <STARTGAME> .
+[06:48:54] [Server thread/INFO]: STARTGAME issued server command: /tp
+[06:49:11] [Server thread/INFO]: STARTGAME issued server command: /tp STARTGAME Sebas23m
+[06:49:11] [Server thread/INFO]: [STARTGAME: Teleported STARTGAME to Sebas23m]
+[06:50:08] [Server thread/INFO]: Sebas23m issued server command: /sethome cf
+[06:50:10] [Server thread/INFO]: STARTGAME issued server command: /sethome r
+[06:50:24] [Server thread/INFO]: STARTGAME issued server command: /home r
+[06:50:51] [Server thread/INFO]: Sebas23m issued server command: /home c
+[06:51:01] [Server thread/INFO]: Sebas23m issued server command: /home s
+[06:51:09] [Async Chat Thread - #23/INFO]: [Not Secure] <STARTGAME> .
+[06:51:42] [Server thread/INFO]: Sebas23m issued server command: /home cf
+[06:53:18] [Server thread/INFO]: STARTGAME issued server command: /home r
+[06:55:20] [Server thread/INFO]: STARTGAME issued server command: /home 7
+[06:56:29] [Server thread/INFO]: Sebas23m issued server command: /home c
+[06:56:46] [Server thread/INFO]: Sebas23m issued server command: /tp STARTGAME Sebas23m
+[06:56:46] [Server thread/INFO]: [Sebas23m: Teleported STARTGAME to Sebas23m]
+[06:57:04] [Server thread/INFO]: Sebas23m issued server command: /home e
+[06:57:14] [Server thread/INFO]: Sebas23m issued server command: /tp STARTGAME Sebas23m
+[06:57:14] [Server thread/INFO]: [Sebas23m: Teleported STARTGAME to Sebas23m]
+[06:58:30] [Server thread/INFO]: Sebas23m lost connection: Disconnected
+[06:58:30] [Server thread/INFO]: Sebas23m left the game
+[06:58:38] [Server thread/INFO]: STARTGAME lost connection: Disconnected
+[06:58:38] [Server thread/INFO]: STARTGAME left the game
+[06:58:42] [Server thread/INFO]: Stopping the server
+[06:58:42] [Server thread/INFO]: Stopping server
+[06:58:42] [Server thread/INFO]: [LevelledMobs] Disabling LevelledMobs v4.3.1 b112
+[06:58:42] [Server thread/INFO]: [LevelledMobs] Unregistering commands
+[06:58:42] [Server thread/INFO]: [LevelledMobs] Tasks: Shutting down other async tasks...
+[06:58:42] [Craft Scheduler Thread - 4 - LevelledMobs/INFO]: [LevelledMobs] Nametag update queue Manager has exited
+[06:58:42] [Craft Scheduler Thread - 0 - LevelledMobs/INFO]: [LevelledMobs] Mob processing queue Manager has exited
+[06:58:42] [Server thread/INFO]: [LevelledMobs] Shut-down complete (took 2ms)
+[06:58:42] [Server thread/INFO]: [LockShulker] Disabling LockShulker v1.0
+[06:58:42] [Server thread/INFO]: [LockShulker] LockShulker выключен!
+[06:58:42] [Server thread/INFO]: [UltraSetHome] Disabling UltraSetHome v1.7.9
+[06:58:42] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.6.2
+[06:58:42] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.158
+[06:58:42] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[06:58:42] [Server thread/INFO]: [LuckPerms] Closing storage...
+[06:58:42] [Server thread/INFO]: [LuckPerms] Goodbye!
+[06:58:42] [Server thread/INFO]: [GSit] Disabling GSit v2.3.0
+[06:58:42] [Server thread/INFO]: [GSit] The plugin was successfully disabled.
+[06:58:42] [Server thread/INFO]: [SmoothTimber] Disabling SmoothTimber v1.27.4
+[06:58:42] [Server thread/INFO]: Saving players
+[06:58:43] [Server thread/INFO]: Saving worlds
+[06:58:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[06:58:43] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[06:58:43] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[06:58:43] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[06:58:43] [Server thread/INFO]: [ChunkHolderManager] Saved 22 block chunks, 190 entity chunks, 0 poi chunks in world 'world' in 0.10s
+[06:58:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[06:58:43] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[06:58:43] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[06:58:43] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[06:58:43] [Server thread/INFO]: [ChunkHolderManager] Saved 1 block chunks, 35 entity chunks, 0 poi chunks in world 'world_nether' in 0.01s
+[06:58:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[06:58:43] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[06:58:43] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[06:58:43] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[06:58:43] [Server thread/INFO]: [ChunkHolderManager] Saved 338 block chunks, 344 entity chunks, 0 poi chunks in world 'world_the_end' in 0.10s
+[06:58:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[06:58:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[06:58:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[06:58:43] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
