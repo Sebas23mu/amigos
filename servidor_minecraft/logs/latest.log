@@ -471,3 +471,9 @@ Reason: Banned by an operator.
 [06:14:30] [Server thread/INFO]: STARTGAME issued server command: /hola 7
 [06:14:37] [Server thread/INFO]: STARTGAME issued server command: /home 7
 [06:15:21] [Server thread/INFO]: STARTGAME issued server command: /home 0
+[06:19:25] [Server thread/INFO]: STARTGAME issued server command: /home 7
+[06:19:57] [Server thread/INFO]: STARTGAME issued server command: /tp STARTGAME Sebas23m
+[06:19:57] [Server thread/INFO]: [STARTGAME: Teleported STARTGAME to Sebas23m]
+[06:21:15] [Server thread/INFO]: Sebas23m issued server command: /home s
+[06:21:48] [Server thread/INFO]: Sebas23m issued server command: /tp Sebas23m 104.0 69 -69.0
+[06:21:48] [Server thread/INFO]: [Sebas23m: Teleported Sebas23m to 104.000000, 69.000000, -69.000000]
