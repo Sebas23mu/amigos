@@ -630,6 +630,7 @@
       "minecraft:blaze": "2025-05-01 23:04:01 +0000",
       "minecraft:skeleton": "2025-05-02 22:21:02 +0000",
       "minecraft:piglin": "2025-05-03 21:35:13 +0000",
+      "minecraft:zombified_piglin": "2025-05-04 03:36:37 +0000",
       "minecraft:enderman": "2025-05-02 22:24:33 +0000",
       "minecraft:magma_cube": "2025-05-03 21:32:27 +0000",
       "minecraft:spider": "2025-05-02 22:26:53 +0000",
@@ -1476,6 +1477,18 @@
   "minecraft:story/enter_the_end": {
     "criteria": {
       "entered_end": "2025-05-03 22:20:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/quartz": {
+    "criteria": {
+      "has_nether_quartz_ore": "2025-05-04 03:38:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/quartz_from_blasting": {
+    "criteria": {
+      "has_nether_quartz_ore": "2025-05-04 03:38:56 +0000"
     },
     "done": true
   },
