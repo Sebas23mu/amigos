@@ -460,3 +460,14 @@ Reason: Banned by an operator.
 [06:05:49] [Server thread/INFO]: [STARTGAME: Teleported STARTGAME to Sebas23m]
 [06:07:57] [Server thread/INFO]: jp7806073 lost connection: Disconnected
 [06:07:57] [Server thread/INFO]: jp7806073 left the game
+[06:08:47] [Server thread/INFO]: STARTGAME issued server command: /home 0
+[06:12:06] [Server thread/INFO]: Sebas23m issued server command: /tp Sebas23m -3324.0 80 813.0
+[06:12:06] [Server thread/INFO]: [Sebas23m: Teleported Sebas23m to -3324.000000, 80.000000, 813.000000]
+[06:12:19] [Server thread/INFO]: Villager Villager['Villager'/70900, uuid='bf0f8bd2-4a00-4a6b-b9da-8cab8ea933b5', l='ServerLevel[world]', x=-3472.28, y=70.00, z=817.63, cpos=[-218, 51], tl=191, v=true] died, message: 'Villager suffocated in a wall'
+[06:12:19] [Server thread/INFO]: Villager Villager['Villager'/70903, uuid='a22deb86-fdca-4fc0-95e3-7fd466f66ea7', l='ServerLevel[world]', x=-3472.28, y=70.00, z=817.63, cpos=[-218, 51], tl=191, v=true] died, message: 'Villager suffocated in a wall'
+[06:12:51] [Server thread/INFO]: Sebas23m issued server command: /tp Sebas23m 97.0 69 -70.0
+[06:12:51] [Server thread/INFO]: [Sebas23m: Teleported Sebas23m to 97.000000, 69.000000, -70.000000]
+[06:13:01] [Async Chat Thread - #19/INFO]: [Not Secure] <STARTGAME> que paso c9n la llamada?
+[06:14:30] [Server thread/INFO]: STARTGAME issued server command: /hola 7
+[06:14:37] [Server thread/INFO]: STARTGAME issued server command: /home 7
+[06:15:21] [Server thread/INFO]: STARTGAME issued server command: /home 0
