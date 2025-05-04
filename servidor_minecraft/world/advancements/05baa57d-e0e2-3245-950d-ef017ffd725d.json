@@ -8,16 +8,17 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2025-04-27 02:42:24 +0000",
-      "minecraft:old_growth_birch_forest": "2025-04-27 19:59:13 +0000",
       "minecraft:beach": "2025-04-26 23:20:02 +0000",
       "minecraft:dark_forest": "2025-04-27 19:57:07 +0000",
       "minecraft:forest": "2025-04-27 02:39:22 +0000",
       "minecraft:sparse_jungle": "2025-05-04 05:05:13 +0000",
-      "minecraft:ocean": "2025-04-27 19:55:43 +0000",
       "minecraft:river": "2025-04-27 02:38:37 +0000",
+      "minecraft:snowy_plains": "2025-05-02 21:26:26 +0000",
+      "minecraft:old_growth_birch_forest": "2025-04-27 19:59:13 +0000",
+      "minecraft:ocean": "2025-04-27 19:55:43 +0000",
       "minecraft:meadow": "2025-04-27 02:59:24 +0000",
       "minecraft:birch_forest": "2025-05-01 18:21:00 +0000",
-      "minecraft:snowy_plains": "2025-05-02 21:26:26 +0000",
+      "minecraft:bamboo_jungle": "2025-05-04 05:06:07 +0000",
       "minecraft:plains": "2025-04-26 23:14:34 +0000"
     },
     "done": false
