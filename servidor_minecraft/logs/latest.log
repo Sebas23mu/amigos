@@ -322,3 +322,41 @@ Reason: Banned by an operator.
 [04:35:41] [Server thread/INFO]: STARTGAME issued server command: /tp STARTGAME Sebas23m
 [04:35:41] [Server thread/INFO]: [STARTGAME: Teleported STARTGAME to Sebas23m]
 [04:35:59] [Server thread/INFO]: Sebas23m issued server command: /home s
+[04:36:13] [Async Chat Thread - #7/INFO]: [Not Secure] <STARTGAME> home 7
+[04:36:20] [Server thread/INFO]: STARTGAME issued server command: /home 7
+[04:36:39] [Server thread/INFO]: Sebas23m issued server command: /home 4
+[04:37:04] [Server thread/WARN]: STARTGAME moved wrongly!
+[04:37:09] [Server thread/INFO]: jp7806073 issued server command: /home A
+[04:37:27] [Server thread/INFO]: Sebas23m issued server command: /home 7
+[04:37:28] [Server thread/INFO]: Sebas23m was doomed to fall by STARTGAME
+[04:37:35] [Server thread/INFO]: Sebas23m issued server command: /home 7
+[04:37:58] [Server thread/INFO]: STARTGAME issued server command: /tp STARTGAME Sebas23m
+[04:37:58] [Server thread/INFO]: [STARTGAME: Teleported STARTGAME to Sebas23m]
+[04:38:19] [Server thread/INFO]: STARTGAME issued server command: /home 7
+[04:38:59] [Server thread/INFO]: jp7806073 issued server command: /home A1
+[04:39:10] [Server thread/INFO]: Sebas23m issued server command: /tp STARTGAME Sebas23m
+[04:39:10] [Server thread/INFO]: [Sebas23m: Teleported STARTGAME to Sebas23m]
+[04:39:56] [Server thread/INFO]: jp7806073 has completed the challenge [Cover Me in Debris]
+[04:39:58] [Server thread/INFO]: STARTGAME lost connection: Disconnected
+[04:39:58] [Server thread/INFO]: STARTGAME left the game
+[04:40:30] [Server thread/INFO]: jp7806073 issued server command: /home A
+[04:40:49] [Server thread/INFO]: Sebas23m issued server command: /gamemode spectator
+[04:40:49] [Server thread/INFO]: [Sebas23m: Set own game mode to Spectator Mode]
+[04:41:46] [User Authenticator #6/INFO]: UUID of player STARTGAME is fa4da132-c81a-3b38-820a-f18b9a409675
+[04:41:48] [Server thread/INFO]: STARTGAME joined the game
+[04:41:48] [Server thread/INFO]: STARTGAME[/127.219.81.95:54911] logged in with entity id 26301 at ([world]13.358148372817036, 55.0, 68.21114837554661)
+[04:42:10] [Server thread/INFO]: Sebas23m issued server command: /tp jp7806073 Sebas23m
+[04:42:10] [Server thread/INFO]: [Sebas23m: Teleported jp7806073 to Sebas23m]
+[04:42:36] [Server thread/INFO]: jp7806073 issued server command: /tp jp7806073 STARTGAME
+[04:42:36] [Server thread/INFO]: [jp7806073: Teleported jp7806073 to STARTGAME]
+[04:42:47] [Server thread/INFO]: jp7806073 issued server command: /home E
+[04:43:02] [Server thread/INFO]: jp7806073 issued server command: /home A
+[04:43:22] [Server thread/INFO]: Sebas23m issued server command: /kill jp7806073
+[04:43:22] [Server thread/INFO]: jp7806073 was killed
+[04:43:22] [Server thread/INFO]: [Sebas23m: Killed jp7806073]
+[04:43:37] [Server thread/INFO]: Sebas23m issued server command: /tp jp7806073 Sebas23m
+[04:43:37] [Server thread/INFO]: [Sebas23m: Teleported jp7806073 to Sebas23m]
+[04:44:14] [Server thread/INFO]: jp7806073 issued server command: /home A
+[04:45:42] [Async Chat Thread - #9/INFO]: [Not Secure] <STARTGAME> home 7
+[04:45:49] [Server thread/INFO]: STARTGAME issued server command: /home 7
+[04:45:56] [Server thread/INFO]: Sebas23m issued server command: /home s
