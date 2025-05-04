@@ -180,3 +180,20 @@
 [04:02:16] [Server thread/INFO]: STARTGAME issued server command: /home 7
 [04:03:19] [Server thread/INFO]: STARTGAME issued server command: /tp STARTGAME Sebas23m
 [04:03:19] [Server thread/INFO]: [STARTGAME: Teleported STARTGAME to Sebas23m]
+[04:07:30] [Server thread/INFO]: Sebas23m issued server command: /home 4
+[04:08:07] [Server thread/INFO]: Sebas23m issued server command: /home 4
+[04:09:00] [Server thread/INFO]: STARTGAME issued server command: /tp STARTGAME jp7806073
+[04:09:00] [Server thread/INFO]: [STARTGAME: Teleported STARTGAME to jp7806073]
+[04:10:02] [Server thread/INFO]: STARTGAME issued server command: /tp STARTGAME Sebas23m
+[04:10:02] [Server thread/INFO]: [STARTGAME: Teleported STARTGAME to Sebas23m]
+[04:11:51] [Server thread/INFO]: jp7806073 issued server command: /sethome T.
+[04:12:03] [Server thread/INFO]: jp7806073 issued server command: /sethome T
+[04:12:25] [Server thread/INFO]: jp7806073 issued server command: /home A
+[04:13:28] [Async Chat Thread - #3/INFO]: [Not Secure] <STARTGAME> home 7
+[04:13:59] [Async Chat Thread - #3/INFO]: [Not Secure] <STARTGAME> home 7
+[04:14:01] [Server thread/INFO]: STARTGAME was slain by jp7806073
+[04:14:47] [Server thread/INFO]: Sebas23m issued server command: /tp STARTGAME Sebas23m
+[04:14:47] [Server thread/INFO]: [Sebas23m: Teleported STARTGAME to Sebas23m]
+[04:15:02] [Server thread/INFO]: jp7806073 issued server command: /tp Sebas23m jp7806073
+[04:15:02] [Server thread/INFO]: [jp7806073: Teleported Sebas23m to jp7806073]
+[04:15:17] [Server thread/INFO]: Sebas23m issued server command: /home 4
