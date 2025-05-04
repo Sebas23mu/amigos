@@ -413,3 +413,14 @@ Reason: Banned by an operator.
 [05:12:57] [Server thread/INFO]: jp7806073 has made the advancement [The Parrots and the Bats]
 [05:15:47] [Server thread/INFO]: Sebas23m issued server command: /tp Sebas23m jp7806073
 [05:15:47] [Server thread/INFO]: [Sebas23m: Teleported Sebas23m to jp7806073]
+[05:17:04] [Server thread/INFO]: Sebas23m issued server command: /home 4
+[05:17:24] [Server thread/INFO]: Sebas23m issued server command: /tp jp7806073 Sebas23m
+[05:17:24] [Server thread/INFO]: [Sebas23m: Teleported jp7806073 to Sebas23m]
+[05:23:01] [Async Chat Thread - #12/INFO]: [Not Secure] <Sebas23m> llama
+[05:23:34] [Server thread/INFO]: jp7806073 lost connection: Disconnected
+[05:23:34] [Server thread/INFO]: jp7806073 left the game
+[05:24:50] [User Authenticator #9/INFO]: UUID of player jp7806073 is 68efd73e-a0cd-33f7-a574-2c7e5d7949df
+[05:24:55] [Server thread/INFO]: jp7806073 joined the game
+[05:24:55] [Server thread/INFO]: jp7806073[/127.60.118.40:60579] logged in with entity id 52838 at ([world]-2052.16516995626, 47.08764394861892, 212.35489182145702)
+[05:25:01] [Server thread/INFO]: jp7806073 drowned
+[05:26:43] [Server thread/INFO]: jp7806073 issued server command: /sethome TA
