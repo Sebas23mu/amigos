@@ -197,3 +197,104 @@
 [04:15:02] [Server thread/INFO]: jp7806073 issued server command: /tp Sebas23m jp7806073
 [04:15:02] [Server thread/INFO]: [jp7806073: Teleported Sebas23m to jp7806073]
 [04:15:17] [Server thread/INFO]: Sebas23m issued server command: /home 4
+[04:15:59] [Server thread/INFO]: jp7806073 issued server command: /tp STARTGAME jp780607es
+[04:16:19] [Server thread/INFO]: Sebas23m issued server command: /home 4
+[04:16:24] [Server thread/INFO]: jp7806073 issued server command: /tp STARTGAME jp7806073
+[04:16:24] [Server thread/INFO]: [jp7806073: Teleported STARTGAME to jp7806073]
+[04:16:38] [Async Chat Thread - #5/INFO]: [Not Secure] <STARTGAME> home 7
+[04:16:57] [Server thread/INFO]: Sebas23m issued server command: /home 4
+[04:17:01] [Async Chat Thread - #5/INFO]: [Not Secure] <STARTGAME> home 7
+[04:17:07] [Async Chat Thread - #5/INFO]: [Not Secure] <STARTGAME> home5
+[04:18:12] [Server thread/INFO]: jp7806073 issued server command: /home A
+[04:18:20] [Server thread/INFO]: STARTGAME issued server command: /ban jp7806073
+[04:18:20] [Server thread/INFO]: [STARTGAME: Banned jp7806073: Banned by an operator.]
+[04:18:20] [Server thread/INFO]: jp7806073 lost connection: You are banned from this server
+[04:18:20] [Server thread/INFO]: jp7806073 left the game
+[04:18:22] [User Authenticator #2/INFO]: UUID of player jp7806073 is 68efd73e-a0cd-33f7-a574-2c7e5d7949df
+[04:18:22] [Server thread/INFO]: jp7806073 (/127.60.118.40:44713) lost connection: Disconnected
+[04:18:35] [User Authenticator #2/INFO]: UUID of player jp7806073 is 68efd73e-a0cd-33f7-a574-2c7e5d7949df
+[04:18:35] [Server thread/INFO]: Disconnecting jp7806073 (/127.60.118.40:55051): You are banned from this server.
+Reason: Banned by an operator.
+[04:18:35] [Server thread/INFO]: jp7806073 (/127.60.118.40:55051) lost connection: You are banned from this server.
+Reason: Banned by an operator.
+[04:19:04] [User Authenticator #2/INFO]: UUID of player jp7806073 is 68efd73e-a0cd-33f7-a574-2c7e5d7949df
+[04:19:04] [Server thread/INFO]: Disconnecting jp7806073 (/127.60.118.40:45241): You are banned from this server.
+Reason: Banned by an operator.
+[04:19:04] [Server thread/INFO]: jp7806073 (/127.60.118.40:45241) lost connection: You are banned from this server.
+Reason: Banned by an operator.
+[04:19:09] [Server thread/INFO]: Sebas23m issued server command: /ban STARTGAME por mexicano
+[04:19:09] [Server thread/INFO]: [Sebas23m: Banned STARTGAME: por mexicano]
+[04:19:09] [Server thread/INFO]: STARTGAME lost connection: You are banned from this server
+[04:19:09] [Server thread/INFO]: STARTGAME left the game
+[04:19:39] [User Authenticator #2/INFO]: UUID of player STARTGAME is fa4da132-c81a-3b38-820a-f18b9a409675
+[04:19:39] [Server thread/INFO]: Disconnecting STARTGAME (/127.219.81.95:39449): You are banned from this server.
+Reason: por mexicano
+[04:19:39] [Server thread/INFO]: STARTGAME (/127.219.81.95:39449) lost connection: You are banned from this server.
+Reason: por mexicano
+[04:20:04] [User Authenticator #2/INFO]: UUID of player STARTGAME is fa4da132-c81a-3b38-820a-f18b9a409675
+[04:20:04] [Server thread/INFO]: Disconnecting STARTGAME (/127.219.81.95:58999): You are banned from this server.
+Reason: por mexicano
+[04:20:04] [Server thread/INFO]: STARTGAME (/127.219.81.95:58999) lost connection: You are banned from this server.
+Reason: por mexicano
+[04:20:17] [User Authenticator #2/INFO]: UUID of player jhonwuyck722 is 22f109f5-0b6d-34a0-824b-497aa73b1c40
+[04:20:21] [Server thread/INFO]: jhonwuyck722 joined the game
+[04:20:21] [Server thread/INFO]: jhonwuyck722[/127.60.118.40:48429] logged in with entity id 21397 at ([world]2.5, 63.0, 22.5)
+[04:20:24] [User Authenticator #2/INFO]: UUID of player STARTGAME is fa4da132-c81a-3b38-820a-f18b9a409675
+[04:20:24] [Server thread/INFO]: Disconnecting STARTGAME (/127.219.81.95:35037): You are banned from this server.
+Reason: por mexicano
+[04:20:24] [Server thread/INFO]: STARTGAME (/127.219.81.95:35037) lost connection: You are banned from this server.
+Reason: por mexicano
+[04:20:34] [User Authenticator #2/INFO]: UUID of player STARTGAME is fa4da132-c81a-3b38-820a-f18b9a409675
+[04:20:34] [Server thread/INFO]: Disconnecting STARTGAME (/127.219.81.95:50173): You are banned from this server.
+Reason: por mexicano
+[04:20:34] [Server thread/INFO]: STARTGAME (/127.219.81.95:50173) lost connection: You are banned from this server.
+Reason: por mexicano
+[04:20:55] [User Authenticator #2/INFO]: UUID of player jp7806073 is 68efd73e-a0cd-33f7-a574-2c7e5d7949df
+[04:20:55] [Server thread/INFO]: Disconnecting jp7806073 (/127.60.118.40:39799): You are banned from this server.
+Reason: Banned by an operator.
+[04:20:55] [Server thread/INFO]: jp7806073 (/127.60.118.40:39799) lost connection: You are banned from this server.
+Reason: Banned by an operator.
+[04:21:05] [User Authenticator #2/INFO]: UUID of player STARTGAME is fa4da132-c81a-3b38-820a-f18b9a409675
+[04:21:05] [Server thread/INFO]: Disconnecting STARTGAME (/127.219.81.95:58633): You are banned from this server.
+Reason: por mexicano
+[04:21:05] [Server thread/INFO]: STARTGAME (/127.219.81.95:58633) lost connection: You are banned from this server.
+Reason: por mexicano
+[04:21:21] [User Authenticator #2/INFO]: UUID of player STARTGAME is fa4da132-c81a-3b38-820a-f18b9a409675
+[04:21:21] [Server thread/INFO]: Disconnecting STARTGAME (/127.219.81.95:33419): You are banned from this server.
+Reason: por mexicano
+[04:21:21] [Server thread/INFO]: STARTGAME (/127.219.81.95:33419) lost connection: You are banned from this server.
+Reason: por mexicano
+[04:22:25] [User Authenticator #3/INFO]: UUID of player STARTGAME is fa4da132-c81a-3b38-820a-f18b9a409675
+[04:22:26] [Server thread/INFO]: Disconnecting STARTGAME (/127.219.81.95:43917): You are banned from this server.
+Reason: por mexicano
+[04:22:26] [Server thread/INFO]: STARTGAME (/127.219.81.95:43917) lost connection: You are banned from this server.
+Reason: por mexicano
+[04:22:32] [User Authenticator #3/INFO]: UUID of player jp7806073 is 68efd73e-a0cd-33f7-a574-2c7e5d7949df
+[04:22:32] [Server thread/INFO]: Disconnecting jp7806073 (/127.60.118.40:57823): You are banned from this server.
+Reason: Banned by an operator.
+[04:22:32] [Server thread/INFO]: jp7806073 (/127.60.118.40:57823) lost connection: You are banned from this server.
+Reason: Banned by an operator.
+[04:22:58] [Server thread/INFO]: jhonwuyck722 lost connection: Disconnected
+[04:22:58] [Server thread/INFO]: jhonwuyck722 left the game
+[04:23:45] [Server thread/INFO]: Sebas23m issued server command: /pardon jp7806073
+[04:23:45] [Server thread/INFO]: [Sebas23m: Unbanned jp7806073]
+[04:23:57] [Server thread/INFO]: Sebas23m issued server command: /pardon STARTGAME
+[04:23:57] [Server thread/INFO]: [Sebas23m: Unbanned STARTGAME]
+[04:24:01] [User Authenticator #4/INFO]: UUID of player jp7806073 is 68efd73e-a0cd-33f7-a574-2c7e5d7949df
+[04:24:05] [Server thread/INFO]: jp7806073 joined the game
+[04:24:05] [Server thread/INFO]: jp7806073[/127.60.118.40:53295] logged in with entity id 21850 at ([world]11.689470431236474, 64.10131520987476, 20.67693181076756)
+[04:24:22] [User Authenticator #4/INFO]: UUID of player STARTGAME is fa4da132-c81a-3b38-820a-f18b9a409675
+[04:24:25] [Server thread/INFO]: STARTGAME joined the game
+[04:24:25] [Server thread/INFO]: STARTGAME[/127.219.81.95:33445] logged in with entity id 21974 at ([world]-318.1016082813493, 89.0, 124.86596184218472)
+[04:24:33] [Server thread/INFO]: STARTGAME issued server command: /home 7
+[04:24:46] [Server thread/INFO]: Sebas23m issued server command: /tp jp7806073 Sebas23m
+[04:24:46] [Server thread/INFO]: [Sebas23m: Teleported jp7806073 to Sebas23m]
+[04:25:25] [Server thread/INFO]: STARTGAME issued server command: /ban Sebas23m
+[04:25:25] [Server thread/INFO]: [STARTGAME: Banned Sebas23m: Banned by an operator.]
+[04:25:25] [Server thread/INFO]: Sebas23m lost connection: You are banned from this server
+[04:25:25] [Server thread/INFO]: Sebas23m left the game
+[04:25:41] [Server thread/INFO]: STARTGAME issued server command: /pardon Sebas23m
+[04:25:41] [Server thread/INFO]: [STARTGAME: Unbanned Sebas23m]
+[04:25:46] [User Authenticator #5/INFO]: UUID of player Sebas23m is 05baa57d-e0e2-3245-950d-ef017ffd725d
+[04:25:48] [Server thread/INFO]: Sebas23m joined the game
+[04:25:48] [Server thread/INFO]: Sebas23m[/127.50.210.97:51447] logged in with entity id 22318 at ([world]2.712397127075345, 183.0, -56.38578467091729)
