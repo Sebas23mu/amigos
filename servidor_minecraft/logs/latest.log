@@ -424,3 +424,13 @@ Reason: Banned by an operator.
 [05:24:55] [Server thread/INFO]: jp7806073[/127.60.118.40:60579] logged in with entity id 52838 at ([world]-2052.16516995626, 47.08764394861892, 212.35489182145702)
 [05:25:01] [Server thread/INFO]: jp7806073 drowned
 [05:26:43] [Server thread/INFO]: jp7806073 issued server command: /sethome TA
+[05:39:19] [Server thread/INFO]: jp7806073 issued server command: /home A
+[05:40:54] [Async Chat Thread - #13/INFO]: [Not Secure] <jp7806073> contesta
+[05:40:58] [Async Chat Thread - #13/INFO]: [Not Secure] <jp7806073> contesta
+[05:41:05] [User Authenticator #10/INFO]: UUID of player STARTGAME is fa4da132-c81a-3b38-820a-f18b9a409675
+[05:41:08] [Server thread/INFO]: STARTGAME joined the game
+[05:41:08] [Server thread/INFO]: STARTGAME[/127.219.81.95:35979] logged in with entity id 64692 at ([world]-0.16870986078382055, 63.0, 23.103656506631697)
+[05:46:09] [Server thread/INFO]: STARTGAME issued server command: /tp STARTGAME Sebas23m
+[05:46:09] [Server thread/INFO]: [STARTGAME: Teleported STARTGAME to Sebas23m]
+[05:47:28] [Server thread/INFO]: STARTGAME issued server command: /home 5
+[05:47:39] [Server thread/INFO]: STARTGAME tried to swim in lava
