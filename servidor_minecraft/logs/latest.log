@@ -152,3 +152,22 @@
 [03:42:49] [Server thread/INFO]: STARTGAME issued server command: /sethome 7
 [03:43:00] [Server thread/INFO]: STARTGAME issued server command: /home 7
 [03:44:33] [Server thread/INFO]: Villager Villager['Fletcher'/104, uuid='011d0ab5-02a1-4eaa-b765-0addd0ce91ac', l='ServerLevel[world]', x=23.30, y=54.00, z=76.30, cpos=[1, 4], tl=471061, v=true] died, message: 'Fletcher was slain by pepito 2'
+[03:45:50] [Server thread/INFO]: Villager Villager['Librarian'/101, uuid='326864bf-4bc3-4d34-93c8-d8b49c5abeef', l='ServerLevel[world]', x=23.30, y=54.00, z=68.30, cpos=[1, 4], tl=359132, v=true] died, message: 'Librarian was slain by pepito 2'
+[03:47:22] [Server thread/INFO]: STARTGAME issued server command: /tp STARTGAME jp7806073
+[03:47:22] [Server thread/INFO]: [STARTGAME: Teleported STARTGAME to jp7806073]
+[03:47:30] [Server thread/INFO]: Villager Villager['Librarian'/99, uuid='2d559e98-3729-4698-a568-834b38a95dcb', l='ServerLevel[world]', x=23.30, y=54.00, z=66.30, cpos=[1, 4], tl=360384, v=true] died, message: 'Librarian was slain by pepito 2'
+[03:48:17] [Server thread/INFO]: STARTGAME issued server command: /sethome 9
+[03:48:27] [Async Chat Thread - #1/INFO]: [Not Secure] <STARTGAME> %home 9
+[03:48:34] [Server thread/INFO]: STARTGAME issued server command: /home 9
+[03:48:41] [Server thread/INFO]: STARTGAME issued server command: /home 1
+[03:48:48] [Server thread/INFO]: STARTGAME issued server command: /home 7
+[03:49:01] [Server thread/INFO]: STARTGAME issued server command: /home 8
+[03:49:05] [Server thread/INFO]: STARTGAME issued server command: /home 3
+[03:49:11] [Server thread/INFO]: STARTGAME issued server command: /home 6
+[03:49:42] [Server thread/INFO]: STARTGAME issued server command: /tp STARGAME Sebas23m
+[03:52:28] [Server thread/INFO]: STARTGAME issued server command: /home 9
+[03:53:40] [Server thread/INFO]: STARTGAME issued server command: /tp STARGAME jp76080
+[03:54:02] [Server thread/INFO]: STARTGAME issued server command: /tp STARGAME jp7806073
+[03:54:45] [Server thread/INFO]: jp7806073 issued server command: /tp STARTGAME jp7806073
+[03:54:45] [Server thread/INFO]: [jp7806073: Teleported STARTGAME to jp7806073]
+[03:54:50] [Server thread/INFO]: STARTGAME issued server command: /tp STARGAME jp7806073
