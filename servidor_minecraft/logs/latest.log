@@ -384,3 +384,16 @@ Reason: Banned by an operator.
 [04:53:42] [Server thread/INFO]: jp7806073 issued server command: /
 [04:54:05] [Server thread/INFO]: jp7806073 issued server command: /sethome P
 [04:54:16] [Server thread/INFO]: jp7806073 issued server command: /home A
+[04:56:57] [Server thread/INFO]: jp7806073 issued server command: /home E
+[04:57:05] [Server thread/INFO]: jp7806073 issued server command: //Home p
+[04:57:29] [Server thread/INFO]: jp7806073 issued server command: /home Ee
+[05:00:07] [Server thread/INFO]: jp7806073 issued server command: /home A
+[05:00:16] [Server thread/INFO]: Sebas23m issued server command: /home 4
+[05:03:16] [Server thread/INFO]: Sebas23m issued server command: /tp Sebas23m -1514.0 86 -911.0
+[05:03:16] [Server thread/INFO]: [Sebas23m: Teleported Sebas23m to -1514.000000, 86.000000, -911.000000]
+[05:03:19] [User Authenticator #7/INFO]: UUID of player jp7806073 is 68efd73e-a0cd-33f7-a574-2c7e5d7949df
+[05:03:19] [Server thread/INFO]: jp7806073 lost connection: You logged in from another location
+[05:03:19] [Server thread/INFO]: jp7806073 left the game
+[05:03:23] [Server thread/INFO]: jp7806073 joined the game
+[05:03:23] [Server thread/INFO]: jp7806073[/127.60.118.40:34285] logged in with entity id 36202 at ([world]20.362710168385064, 55.0, 63.772284140438984)
+[05:03:33] [Server thread/INFO]: Sebas23m issued server command: /home s
