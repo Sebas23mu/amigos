@@ -360,3 +360,27 @@ Reason: Banned by an operator.
 [04:45:42] [Async Chat Thread - #9/INFO]: [Not Secure] <STARTGAME> home 7
 [04:45:49] [Server thread/INFO]: STARTGAME issued server command: /home 7
 [04:45:56] [Server thread/INFO]: Sebas23m issued server command: /home s
+[04:46:14] [Server thread/INFO]: Sebas23m issued server command: /gamemode survival
+[04:46:14] [Server thread/INFO]: [Sebas23m: Set own game mode to Survival Mode]
+[04:46:22] [Server thread/INFO]: STARTGAME issued server command: /tp STARTGAME jp7806073
+[04:46:22] [Server thread/INFO]: [STARTGAME: Teleported STARTGAME to jp7806073]
+[04:47:05] [Server thread/INFO]: Sebas23m issued server command: /home 3
+[04:47:11] [Server thread/INFO]: Sebas23m issued server command: /tp jp7806073 Sebas23m
+[04:47:11] [Server thread/INFO]: [Sebas23m: Teleported jp7806073 to Sebas23m]
+[04:47:31] [Server thread/INFO]: STARTGAME issued server command: /tp STARTGAME jp7806073
+[04:47:31] [Server thread/INFO]: [STARTGAME: Teleported STARTGAME to jp7806073]
+[04:47:31] [Server thread/INFO]: STARTGAME has made the advancement [Eye Spy]
+[04:48:33] [Server thread/INFO]: STARTGAME issued server command: /tp STARTGAME jp7806073
+[04:48:33] [Server thread/INFO]: [STARTGAME: Teleported STARTGAME to jp7806073]
+[04:48:55] [Server thread/INFO]: Sebas23m issued server command: /home 4
+[04:49:29] [Server thread/INFO]: Sebas23m issued server command: /home s
+[04:49:56] [Server thread/INFO]: STARTGAME was burned to a crisp while fighting jp7806073
+[04:50:13] [Server thread/INFO]: STARTGAME issued server command: /tp STARTGAME jp7806073
+[04:50:13] [Server thread/INFO]: [STARTGAME: Teleported STARTGAME to jp7806073]
+[04:50:47] [Server thread/WARN]: STARTGAME moved wrongly!
+[04:51:05] [Server thread/INFO]: STARTGAME went up in flames
+[04:52:05] [Server thread/INFO]: STARTGAME lost connection: Disconnected
+[04:52:05] [Server thread/INFO]: STARTGAME left the game
+[04:53:42] [Server thread/INFO]: jp7806073 issued server command: /
+[04:54:05] [Server thread/INFO]: jp7806073 issued server command: /sethome P
+[04:54:16] [Server thread/INFO]: jp7806073 issued server command: /home A
