@@ -477,3 +477,14 @@ Reason: Banned by an operator.
 [06:21:15] [Server thread/INFO]: Sebas23m issued server command: /home s
 [06:21:48] [Server thread/INFO]: Sebas23m issued server command: /tp Sebas23m 104.0 69 -69.0
 [06:21:48] [Server thread/INFO]: [Sebas23m: Teleported Sebas23m to 104.000000, 69.000000, -69.000000]
+[06:28:28] [Server thread/INFO]: Sebas23m issued server command: /tp Sebas23m -5.0 65 34.0
+[06:28:28] [Server thread/INFO]: [Sebas23m: Teleported Sebas23m to -5.000000, 65.000000, 34.000000]
+[06:29:23] [Server thread/INFO]: Sebas23m issued server command: /tp Sebas23m STARTGAME
+[06:29:23] [Server thread/INFO]: [Sebas23m: Teleported Sebas23m to STARTGAME]
+[06:32:13] [Server thread/INFO]: Sebas23m issued server command: /home s
+[06:32:27] [Server thread/INFO]: Sebas23m issued server command: /tp Sebas23m STARTGAME}
+[06:32:34] [Server thread/INFO]: Sebas23m issued server command: /tp Sebas23m STARTGAME
+[06:32:34] [Server thread/INFO]: [Sebas23m: Teleported Sebas23m to STARTGAME]
+[06:34:42] [Server thread/INFO]: Sebas23m issued server command: /home s
+[06:36:43] [Server thread/INFO]: Sebas23m issued server command: /tp Sebas23m STARTGAME
+[06:36:43] [Server thread/INFO]: [Sebas23m: Teleported Sebas23m to STARTGAME]
