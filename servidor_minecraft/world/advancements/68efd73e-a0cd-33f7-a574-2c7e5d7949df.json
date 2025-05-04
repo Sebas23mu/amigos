@@ -279,16 +279,17 @@
     "criteria": {
       "minecraft:skeleton": "2025-04-27 03:35:09 +0000",
       "minecraft:phantom": "2025-05-01 22:06:47 +0000",
+      "minecraft:witch": "2025-04-27 04:25:31 +0000",
+      "minecraft:shulker": "2025-04-27 23:46:32 +0000",
+      "minecraft:piglin": "2025-05-04 03:58:51 +0000",
       "minecraft:enderman": "2025-04-27 19:21:57 +0000",
       "minecraft:magma_cube": "2025-05-03 21:54:12 +0000",
-      "minecraft:witch": "2025-04-27 04:25:31 +0000",
       "minecraft:endermite": "2025-04-27 23:52:04 +0000",
       "minecraft:spider": "2025-04-27 02:50:27 +0000",
       "minecraft:zombie": "2025-04-27 02:52:11 +0000",
       "minecraft:creeper": "2025-04-27 03:25:13 +0000",
       "minecraft:drowned": "2025-04-27 19:53:16 +0000",
-      "minecraft:zombie_villager": "2025-04-27 04:09:29 +0000",
-      "minecraft:shulker": "2025-04-27 23:46:32 +0000"
+      "minecraft:zombie_villager": "2025-04-27 04:09:29 +0000"
     },
     "done": false
   },
@@ -3079,6 +3080,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-05-04 03:59:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/quartz": {
     "criteria": {
       "has_nether_quartz_ore": "2025-05-04 03:38:52 +0000"
@@ -3100,6 +3107,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-05-04 03:37:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-05-04 03:59:53 +0000"
     },
     "done": true
   },

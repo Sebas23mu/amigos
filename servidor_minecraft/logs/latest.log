@@ -171,3 +171,12 @@
 [03:54:45] [Server thread/INFO]: jp7806073 issued server command: /tp STARTGAME jp7806073
 [03:54:45] [Server thread/INFO]: [jp7806073: Teleported STARTGAME to jp7806073]
 [03:54:50] [Server thread/INFO]: STARTGAME issued server command: /tp STARGAME jp7806073
+[03:59:29] [Server thread/INFO]: Sebas23m issued server command: /home 1
+[04:00:04] [Server thread/INFO]: Sebas23m issued server command: /home s
+[04:00:55] [Server thread/INFO]: STARTGAME issued server command: /home 5
+[04:01:28] [Server thread/INFO]: STARTGAME issued server command: /tp STARGAME Sebas23m
+[04:01:58] [Server thread/INFO]: STARTGAME issued server command: /tp STARTGAME Sebas23m
+[04:01:58] [Server thread/INFO]: [STARTGAME: Teleported STARTGAME to Sebas23m]
+[04:02:16] [Server thread/INFO]: STARTGAME issued server command: /home 7
+[04:03:19] [Server thread/INFO]: STARTGAME issued server command: /tp STARTGAME Sebas23m
+[04:03:19] [Server thread/INFO]: [STARTGAME: Teleported STARTGAME to Sebas23m]
